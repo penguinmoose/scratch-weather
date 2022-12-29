@@ -1,0 +1,2 @@
+scratchconnect==2.4.2
+beautifulsoup4==4.10.0
