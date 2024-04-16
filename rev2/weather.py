@@ -40,6 +40,10 @@ def weather(location):
     statuscode = response.status_code
     global locname
     locname = [json['nearest_area'][0]['areaName'][0]['value']]
+    try:
+        encode(locname)
+    except:
+        locname = location
     return json, statuscode
 
 def currentweather(location, checkdigits):
