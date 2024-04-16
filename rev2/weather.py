@@ -43,7 +43,7 @@ def weather(location):
     try:
         encode(locname)
     except:
-        locname = location
+        locname = [location]
     return json, statuscode
 
 def currentweather(location, checkdigits):
