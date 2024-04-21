@@ -3,6 +3,9 @@ import re
 import scratchattach as scratch3
 import time
 from termcolor import colored
+import logging
+
+logger = logging.getLogger(__name__)
 
 with open("secret.txt", "r") as f:
     r = f.read().splitlines()
@@ -38,12 +41,14 @@ def weather(location):
     response = requests.get(url)
     json = response.json()
     statuscode = response.status_code
+    result = json['nearest_area'][0]['areaName'][0]['value']
     global locname
-    locname = [json['nearest_area'][0]['areaName'][0]['value']]
     try:
-        encode(locname)
+        encode(result)
     except:
-        locname = [location]
+        logger.warn(f'{colored("encoding failed", "red")} for {result}, defaulting to "{location}" (request location)')
+        result = location
+    locname = [result]
     return json, statuscode
 
 def currentweather(location, checkdigits):
@@ -135,16 +140,28 @@ def set_cloud(name, value):
     try:
         conn.set_var(name, value)
     except IOError as e:
-        print(colored("IOError, ignoring", "red"))
+        logger.warn(colored("IOError, ignoring", "red"))
     time.sleep(0.2)
 
 def get_cloud(name):
     try:
         return scratch3.get_var("830536684", name)
     except ValueError as e:
-        print(colored("JSONDecodeError, ignoring", "red"))
+        logger.warn(colored("JSONDecodeError, ignoring", "red"))
 
 if __name__ == "__main__":
+    
+    import argparse
+    parser = argparse.ArgumentParser(description="Weather extension for Scratch 3.0")
+    # add a debug flag
+    parser.add_argument("--log-level", default='INFO', help="Log level")
+    args = parser.parse_args()
+    
+    logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s')
+
+    logger = logging.getLogger(__name__)
+    logger.setLevel(args.log_level)
+
     while True:
         request = get_cloud("request")
         if request != None and int(request)>0:
@@ -153,8 +170,7 @@ if __name__ == "__main__":
             location = split[0]
             checkdigits = split[1] # 6-digit code to verify if the response is correct
             day = int(str(request)[:1])
-            timestamp = time.strftime('%Y-%m-%d %H:%M:%S')
-            print(f'{colored(timestamp, "grey")} Location: {colored(location, "green")}, Day: {colored(day, "magenta")}, Check digits: {colored(checkdigits, "cyan")}')
+            logger.info(f'Location: {colored(location, "green")}, Day: {colored(day, "magenta")}, Check digits: {colored(checkdigits, "cyan")}')
             set_cloud("response: date", time.strftime("%Y%m%d"))
             code = None
             if day == 0:
