@@ -150,7 +150,6 @@ def get_cloud(name):
         logger.warn(colored("JSONDecodeError, ignoring", "red"))
 
 if __name__ == "__main__":
-    
     import argparse
     parser = argparse.ArgumentParser(description="Weather extension for Scratch 3.0")
     # add a debug flag
@@ -165,6 +164,7 @@ if __name__ == "__main__":
     while True:
         request = get_cloud("request")
         if request != None and int(request)>0:
+            logger.debug(f"Request CV: {request}")
             requestdata = str(request)[1:]
             split = re.split(';::;', decode(requestdata))
             location = split[0]
@@ -195,6 +195,11 @@ if __name__ == "__main__":
             badresponse = '0' if code==200 else '1'
             set_cloud("404?", badresponse)
             set_cloud("response: current", 0)
+            set_cloud("response: forecastbasic", 0)
+            set_cloud("response: forecasttemp", 0)
+            set_cloud("response: forecastwind", 0)
+            set_cloud("response: forecastprecip", 0)
+            set_cloud("response: forecastastro", 0)
             set_cloud("response: forecastother", 0)
             set_cloud("request", 0)
             time.sleep(2) # cooldown
