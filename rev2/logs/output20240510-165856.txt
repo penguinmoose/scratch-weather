@@ -1,0 +1,10 @@
+[32m✓[0m Connected to cloud
+2024-05-10 16:58:57,387 - INFO - Location: [32mWINDY[0m, Day: [35m0[0m, Check digits: [36m252664[0m
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 44, in weather
+    result = json['nearest_area'][0]['areaName'][0]['value']
+KeyError: 'areaName'

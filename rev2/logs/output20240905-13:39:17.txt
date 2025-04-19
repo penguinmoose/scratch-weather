@@ -1,0 +1,94 @@
+[32m✓[0m Connected to cloud
+2024-09-05 13:39:18,655 - INFO - Location: [32mDetroit, mi[0m, Day: [35m0[0m, Check digits: [36m751293[0m
+2024-09-05 13:39:26,779 - INFO - Location: [32mDetroit, mi[0m, Day: [35m1[0m, Check digits: [36m142284[0m
+2024-09-05 16:10:07,693 - INFO - Location: [32mGlendale AZ[0m, Day: [35m0[0m, Check digits: [36m231516[0m
+2024-09-05 16:11:26,896 - INFO - Location: [32mGlendale AZ[0m, Day: [35m1[0m, Check digits: [36m505961[0m
+2024-09-05 16:13:22,462 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m739100[0m
+2024-09-05 16:13:28,581 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m739100[0m
+2024-09-05 16:13:34,584 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m739100[0m
+2024-09-05 16:13:40,605 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:13:46,614 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:13:52,627 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:13:58,609 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:04,629 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:10,630 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:16,636 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:22,636 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:28,643 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:34,645 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:40,664 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:46,675 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:52,678 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:14:58,682 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:04,688 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:11,022 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:17,195 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:23,199 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:29,203 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:35,210 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:41,201 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:47,205 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-05 16:15:53,206 - INFO - Location: [32mAZ[0m, Day: [35m0[0m, Check digits: [36m203053[0m
+2024-09-06 03:30:55,744 - INFO - Location: [32mVietnam[0m, Day: [35m0[0m, Check digits: [36m693194[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 710, in urlopen
+    chunked=chunked,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib64/python3.7/http/client.py", line 1369, in getresponse
+    response.begin()
+  File "/usr/lib64/python3.7/http/client.py", line 310, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib64/python3.7/http/client.py", line 279, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 786, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 710, in urlopen
+    chunked=chunked,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib64/python3.7/http/client.py", line 1369, in getresponse
+    response.begin()
+  File "/usr/lib64/python3.7/http/client.py", line 310, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib64/python3.7/http/client.py", line 279, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 41, in weather
+    response = requests.get(url)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/adapters.py", line 547, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))

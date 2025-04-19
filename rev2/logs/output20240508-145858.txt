@@ -1,0 +1,75 @@
+[32m✓[0m Connected to cloud
+2024-05-08 14:58:59,579 - INFO - Location: [32mGoodyear[0m, Day: [35m0[0m, Check digits: [36m622602[0m
+2024-05-08 14:59:11,358 - INFO - Location: [32mGoodyear[0m, Day: [35m1[0m, Check digits: [36m418086[0m
+2024-05-08 14:59:18,622 - INFO - Location: [32mGoodyear[0m, Day: [35m2[0m, Check digits: [36m261387[0m
+2024-05-08 14:59:31,183 - INFO - Location: [32mGaytown[0m, Day: [35m0[0m, Check digits: [36m980629[0m
+2024-05-08 14:59:50,326 - INFO - Location: [32mOhio[0m, Day: [35m0[0m, Check digits: [36m345305[0m
+2024-05-08 15:00:10,478 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m162589[0m
+2024-05-08 15:00:19,367 - INFO - Location: [32mCarroliton[0m, Day: [35m0[0m, Check digits: [36m784429[0m
+2024-05-08 15:05:17,373 - INFO - Location: [32mhouston [0m, Day: [35m0[0m, Check digits: [36m374774[0m
+2024-05-08 15:05:47,249 - INFO - Location: [32mTexas[0m, Day: [35m0[0m, Check digits: [36m548259[0m
+2024-05-08 15:06:04,366 - INFO - Location: [32mTexas[0m, Day: [35m0[0m, Check digits: [36m645520[0m
+2024-05-08 15:06:14,863 - INFO - Location: [32mTexas[0m, Day: [35m1[0m, Check digits: [36m975171[0m
+2024-05-08 15:06:22,140 - INFO - Location: [32mTexas[0m, Day: [35m2[0m, Check digits: [36m377479[0m
+2024-05-08 15:09:32,223 - INFO - Location: [32mkopenhagen[0m, Day: [35m0[0m, Check digits: [36m303134[0m
+2024-05-08 15:10:01,924 - INFO - Location: [32mkopenhagen[0m, Day: [35m1[0m, Check digits: [36m625454[0m
+2024-05-08 15:10:10,788 - INFO - Location: [32mkopenhagen[0m, Day: [35m2[0m, Check digits: [36m229971[0m
+2024-05-08 15:10:36,209 - INFO - Location: [32mvejle[0m, Day: [35m0[0m, Check digits: [36m766556[0m
+2024-05-08 15:12:54,940 - INFO - Location: [32mcupertino[0m, Day: [35m0[0m, Check digits: [36m506353[0m
+2024-05-08 15:13:17,284 - INFO - Location: [32mLodi[0m, Day: [35m0[0m, Check digits: [36m876389[0m
+2024-05-08 15:13:26,840 - INFO - Location: [32mLodi[0m, Day: [35m1[0m, Check digits: [36m864518[0m
+2024-05-08 15:13:40,562 - INFO - Location: [32mLodi[0m, Day: [35m0[0m, Check digits: [36m208156[0m
+2024-05-08 15:13:48,931 - INFO - Location: [32mLodi[0m, Day: [35m1[0m, Check digits: [36m797746[0m
+2024-05-08 15:13:55,131 - INFO - Location: [32mcupertino[0m, Day: [35m1[0m, Check digits: [36m773184[0m
+2024-05-08 15:14:01,352 - INFO - Location: [32mcupertino[0m, Day: [35m1[0m, Check digits: [36m773184[0m
+2024-05-08 15:15:39,602 - INFO - Location: [32mcupertino[0m, Day: [35m0[0m, Check digits: [36m131281[0m
+2024-05-08 15:15:48,132 - INFO - Location: [32mcupertino[0m, Day: [35m1[0m, Check digits: [36m875402[0m
+2024-05-08 15:16:04,035 - INFO - Location: [32mcupertino[0m, Day: [35m2[0m, Check digits: [36m888881[0m
+2024-05-08 15:16:10,219 - INFO - Location: [32mcupertino[0m, Day: [35m1[0m, Check digits: [36m287577[0m
+2024-05-08 15:25:06,931 - INFO - Location: [32mHouston[0m, Day: [35m0[0m, Check digits: [36m900039[0m
+2024-05-08 15:25:25,138 - INFO - Location: [32mHouston[0m, Day: [35m1[0m, Check digits: [36m726188[0m
+2024-05-08 15:25:31,346 - INFO - Location: [32m[0m, Day: [35m0[0m, Check digits: [36m527708[0m
+2024-05-08 15:25:46,084 - INFO - Location: [32m[0m, Day: [35m1[0m, Check digits: [36m770100[0m
+2024-05-08 15:28:00,306 - INFO - Location: [32mseattle[0m, Day: [35m0[0m, Check digits: [36m855442[0m
+2024-05-08 15:28:07,885 - INFO - Location: [32mseattle[0m, Day: [35m1[0m, Check digits: [36m776279[0m
+2024-05-08 15:28:44,720 - INFO - Location: [32mFoster City[0m, Day: [35m0[0m, Check digits: [36m794693[0m
+2024-05-08 15:28:50,242 - INFO - Location: [32marizona[0m, Day: [35m0[0m, Check digits: [36m482722[0m
+2024-05-08 15:28:56,601 - INFO - Location: [32marizona[0m, Day: [35m1[0m, Check digits: [36m541115[0m
+2024-05-08 15:29:26,097 - INFO - Location: [32mFoster City[0m, Day: [35m1[0m, Check digits: [36m133426[0m
+2024-05-08 15:30:39,091 - INFO - Location: [32mHouston[0m, Day: [35m2[0m, Check digits: [36m506302[0m
+2024-05-08 15:31:27,756 - INFO - Location: [32mHouston[0m, Day: [35m3[0m, Check digits: [36m867343[0m
+2024-05-08 15:31:47,847 - INFO - Location: [32mHouston[0m, Day: [35m3[0m, Check digits: [36m533100[0m
+2024-05-08 15:32:03,563 - INFO - Location: [32mHouston[0m, Day: [35m3[0m, Check digits: [36m752896[0m
+2024-05-08 15:32:11,018 - INFO - Location: [32mHouston[0m, Day: [35m2[0m, Check digits: [36m290747[0m
+2024-05-08 15:32:22,507 - INFO - Location: [32mHouston[0m, Day: [35m3[0m, Check digits: [36m722602[0m
+2024-05-08 15:32:28,716 - INFO - Location: [32mHouston[0m, Day: [35m2[0m, Check digits: [36m802144[0m
+2024-05-08 15:32:41,253 - INFO - Location: [32mMIMA[0m, Day: [35m0[0m, Check digits: [36m255435[0m
+2024-05-08 15:32:46,953 - INFO - Location: [32mHouston[0m, Day: [35m1[0m, Check digits: [36m522842[0m
+2024-05-08 15:33:29,103 - INFO - Location: [32mHouston[0m, Day: [35m0[0m, Check digits: [36m600575[0m
+2024-05-08 15:33:52,426 - INFO - Location: [32mHouston[0m, Day: [35m1[0m, Check digits: [36m261428[0m
+2024-05-08 15:34:56,817 - INFO - Location: [32mHouston[0m, Day: [35m2[0m, Check digits: [36m124317[0m
+2024-05-08 15:35:06,357 - INFO - Location: [32mHouston[0m, Day: [35m3[0m, Check digits: [36m154532[0m
+2024-05-08 15:45:54,348 - INFO - Location: [32m5/7[0m, Day: [35m0[0m, Check digits: [36m447172[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

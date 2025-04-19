@@ -1,0 +1,15 @@
+[32m✓[0m Connected to cloud
+2024-05-09 17:10:59,890 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m400296[0m
+2024-05-09 17:11:10,443 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m291014[0m
+2024-05-09 17:12:00,128 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m518220[0m
+2024-05-09 17:12:17,093 - INFO - Location: [32mbingus town[0m, Day: [35m0[0m, Check digits: [36m891607[0m
+2024-05-09 17:12:37,066 - INFO - Location: [32mtoronto[0m, Day: [35m0[0m, Check digits: [36m230998[0m
+2024-05-09 17:12:48,864 - INFO - Location: [32mgreenland[0m, Day: [35m0[0m, Check digits: [36m892035[0m
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 44, in weather
+    result = json['nearest_area'][0]['areaName'][0]['value']
+KeyError: 'areaName'

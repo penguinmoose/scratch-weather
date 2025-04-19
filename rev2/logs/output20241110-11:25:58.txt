@@ -1,0 +1,42 @@
+[32m✓[0m Connected to cloud
+2024-11-11 10:13:08,783 - INFO - Location: [32mUnion Coty[0m, Day: [35m0[0m, Check digits: [36m865497[0m
+2024-11-11 10:13:17,323 - INFO - Location: [32mUnion City[0m, Day: [35m0[0m, Check digits: [36m237735[0m
+2024-11-11 10:13:33,902 - INFO - Location: [32mUnion City[0m, Day: [35m0[0m, Check digits: [36m962251[0m
+2024-11-11 10:13:55,817 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m865936[0m
+2024-11-11 10:14:10,388 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m847411[0m
+2024-11-11 10:15:22,872 - INFO - Location: [32mUnion City[0m, Day: [35m0[0m, Check digits: [36m683679[0m
+2024-11-11 10:16:21,706 - INFO - Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m382029[0m
+2024-11-11 10:16:28,831 - INFO - Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m636378[0m
+2024-11-11 10:16:35,808 - INFO - Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m411804[0m
+2024-11-11 10:16:42,806 - INFO - Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m612073[0m
+2024-11-11 10:16:49,803 - INFO - Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m272173[0m
+2024-11-11 10:42:20,952 - INFO - Location: [32munion city[0m, Day: [35m0[0m, Check digits: [36m664713[0m
+2024-11-11 10:42:36,904 - INFO - Location: [32munion city[0m, Day: [35m0[0m, Check digits: [36m405194[0m
+2024-11-11 10:42:53,394 - INFO - Location: [32munion city[0m, Day: [35m0[0m, Check digits: [36m427560[0m
+2024-11-11 10:44:09,053 - INFO - Location: [32masscheejs [0m, Day: [35m0[0m, Check digits: [36m861045[0m
+2024-11-11 11:05:08,002 - INFO - Location: [32munion city[0m, Day: [35m0[0m, Check digits: [36m751914[0m
+2024-11-11 12:05:22,786 - INFO - Location: [32m[0m, Day: [35m0[0m, Check digits: [36m256866[0m
+2024-11-11 14:37:29,444 - INFO - Location: [32mMontreal[0m, Day: [35m0[0m, Check digits: [36m679209[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

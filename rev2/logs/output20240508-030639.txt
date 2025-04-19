@@ -1,0 +1,1113 @@
+[32m✓[0m Connected to cloud
+2024-05-08 03:06:40,643 - INFO - Location: [32mthailand[0m, Day: [35m0[0m, Check digits: [36m168927[0m
+2024-05-08 03:09:05,238 - INFO - Location: [32mvilnius[0m, Day: [35m0[0m, Check digits: [36m309609[0m
+2024-05-08 03:09:21,258 - INFO - Location: [32mvilnius[0m, Day: [35m0[0m, Check digits: [36m877105[0m
+2024-05-08 03:10:53,094 - INFO - Location: [32mCharleston[0m, Day: [35m0[0m, Check digits: [36m305094[0m
+2024-05-08 03:11:08,900 - INFO - Location: [32mCharleston[0m, Day: [35m0[0m, Check digits: [36m591034[0m
+2024-05-08 03:11:18,283 - INFO - Location: [32mGoose creek[0m, Day: [35m0[0m, Check digits: [36m725518[0m
+2024-05-08 03:11:33,033 - INFO - Location: [32mGoose creek[0m, Day: [35m1[0m, Check digits: [36m669592[0m
+2024-05-08 03:11:46,792 - INFO - Location: [32mGoose creek[0m, Day: [35m1[0m, Check digits: [36m412789[0m
+2024-05-08 03:12:18,349 - INFO - Location: [32mGoose creek[0m, Day: [35m2[0m, Check digits: [36m659489[0m
+2024-05-08 03:12:42,667 - INFO - Location: [32mGoose creek[0m, Day: [35m3[0m, Check digits: [36m154721[0m
+2024-05-08 03:14:45,019 - INFO - Location: [32mGoose creek[0m, Day: [35m2[0m, Check digits: [36m536969[0m
+2024-05-08 03:15:01,994 - INFO - Location: [32mGainesville[0m, Day: [35m0[0m, Check digits: [36m764622[0m
+2024-05-08 03:15:19,444 - INFO - Location: [32mGainesville[0m, Day: [35m1[0m, Check digits: [36m879233[0m
+2024-05-08 03:16:36,333 - INFO - Location: [32msydney[0m, Day: [35m0[0m, Check digits: [36m161246[0m
+2024-05-08 03:27:14,499 - INFO - Location: [32mGermany Berlin[0m, Day: [35m0[0m, Check digits: [36m242227[0m
+2024-05-08 03:36:02,971 - INFO - Location: [32mconcord[0m, Day: [35m0[0m, Check digits: [36m517529[0m
+2024-05-08 03:36:14,800 - INFO - Location: [32mconcord[0m, Day: [35m1[0m, Check digits: [36m774116[0m
+2024-05-08 03:38:02,375 - INFO - Location: [32mMaine[0m, Day: [35m0[0m, Check digits: [36m645274[0m
+2024-05-08 03:38:16,612 - INFO - Location: [32mEdinburgh [0m, Day: [35m0[0m, Check digits: [36m227319[0m
+2024-05-08 03:38:27,151 - INFO - Location: [32mEllsworth[0m, Day: [35m0[0m, Check digits: [36m933701[0m
+2024-05-08 03:38:50,376 - INFO - Location: [32mEllsworth[0m, Day: [35m1[0m, Check digits: [36m451469[0m
+2024-05-08 03:39:01,008 - INFO - Location: [32mConneticut[0m, Day: [35m0[0m, Check digits: [36m927584[0m
+2024-05-08 03:39:22,408 - INFO - Location: [32mConneticut[0m, Day: [35m1[0m, Check digits: [36m807102[0m
+2024-05-08 03:44:57,377 - INFO - Location: [32mjapan[0m, Day: [35m0[0m, Check digits: [36m832594[0m
+2024-05-08 03:45:06,189 - INFO - Location: [32mjapan[0m, Day: [35m1[0m, Check digits: [36m939846[0m
+2024-05-08 03:45:16,078 - INFO - Location: [32mjapan[0m, Day: [35m2[0m, Check digits: [36m966688[0m
+2024-05-08 03:45:28,777 - INFO - Location: [32mjapan[0m, Day: [35m2[0m, Check digits: [36m565497[0m
+2024-05-08 03:52:03,906 - INFO - Location: [32mOakdale[0m, Day: [35m0[0m, Check digits: [36m204834[0m
+2024-05-08 03:55:30,928 - INFO - Location: [32mGEORGER[0m, Day: [35m0[0m, Check digits: [36m876589[0m
+2024-05-08 03:55:39,713 - INFO - Location: [32mGEORGER[0m, Day: [35m1[0m, Check digits: [36m919405[0m
+2024-05-08 03:56:08,096 - INFO - Location: [32mNEW YORK[0m, Day: [35m0[0m, Check digits: [36m377387[0m
+2024-05-08 04:01:01,739 - INFO - Location: [32mMelbourne[0m, Day: [35m0[0m, Check digits: [36m636861[0m
+2024-05-08 04:01:33,964 - INFO - Location: [32mMelbourne[0m, Day: [35m0[0m, Check digits: [36m871436[0m
+2024-05-08 04:02:03,950 - INFO - Location: [32mMelbourne[0m, Day: [35m1[0m, Check digits: [36m987355[0m
+2024-05-08 04:02:12,737 - INFO - Location: [32mMelbourne[0m, Day: [35m1[0m, Check digits: [36m785219[0m
+2024-05-08 04:04:13,847 - INFO - Location: [32mMiami[0m, Day: [35m0[0m, Check digits: [36m756701[0m
+2024-05-08 04:04:29,817 - INFO - Location: [32mMiami[0m, Day: [35m0[0m, Check digits: [36m618117[0m
+2024-05-08 04:04:42,560 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m302396[0m
+2024-05-08 04:05:26,003 - INFO - Location: [32mFlorida[0m, Day: [35m1[0m, Check digits: [36m520544[0m
+2024-05-08 04:05:32,405 - INFO - Location: [32mSan Antonio[0m, Day: [35m0[0m, Check digits: [36m323498[0m
+2024-05-08 04:05:37,684 - INFO - Location: [32mFlorida[0m, Day: [35m2[0m, Check digits: [36m404993[0m
+2024-05-08 04:05:43,891 - INFO - Location: [32mSan Antonio[0m, Day: [35m1[0m, Check digits: [36m863089[0m
+2024-05-08 04:05:50,096 - INFO - Location: [32mFlorida[0m, Day: [35m3[0m, Check digits: [36m216409[0m
+2024-05-08 04:06:04,753 - INFO - Location: [32mSan Antonio[0m, Day: [35m0[0m, Check digits: [36m286133[0m
+2024-05-08 04:07:04,161 - INFO - Location: [32mSan Antonio[0m, Day: [35m1[0m, Check digits: [36m522205[0m
+2024-05-08 04:14:38,678 - INFO - Location: [32mCalifornia [0m, Day: [35m0[0m, Check digits: [36m446771[0m
+2024-05-08 04:14:44,221 - INFO - Location: [32mCalifornia [0m, Day: [35m1[0m, Check digits: [36m673426[0m
+2024-05-08 04:14:57,977 - INFO - Location: [32mCalifornia [0m, Day: [35m1[0m, Check digits: [36m387840[0m
+2024-05-08 04:15:10,523 - INFO - Location: [32mCalifornia [0m, Day: [35m1[0m, Check digits: [36m149772[0m
+2024-05-08 04:20:10,154 - INFO - Location: [32mMalaga[0m, Day: [35m0[0m, Check digits: [36m325873[0m
+2024-05-08 04:20:16,686 - INFO - Location: [32mMalaga[0m, Day: [35m1[0m, Check digits: [36m992847[0m
+2024-05-08 04:24:17,807 - INFO - Location: [32mNoblesville[0m, Day: [35m0[0m, Check digits: [36m676268[0m
+2024-05-08 04:24:35,943 - INFO - Location: [32mNoblesville[0m, Day: [35m1[0m, Check digits: [36m782362[0m
+2024-05-08 04:24:45,681 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m142190[0m
+2024-05-08 04:25:04,697 - INFO - Location: [32mNoblesville[0m, Day: [35m2[0m, Check digits: [36m664116[0m
+2024-05-08 04:27:16,396 - INFO - Location: [32mKoki20111111[0m, Day: [35m0[0m, Check digits: [36m528246[0m
+2024-05-08 04:27:22,045 - INFO - Location: [32mBoston[0m, Day: [35m0[0m, Check digits: [36m959339[0m
+2024-05-08 04:27:32,608 - INFO - Location: [32mJapan[0m, Day: [35m0[0m, Check digits: [36m666590[0m
+2024-05-08 04:27:38,949 - INFO - Location: [32mJapan[0m, Day: [35m1[0m, Check digits: [36m870854[0m
+2024-05-08 04:27:45,313 - INFO - Location: [32mohio[0m, Day: [35m0[0m, Check digits: [36m340789[0m
+2024-05-08 04:27:50,765 - INFO - Location: [32mBoston, Ma[0m, Day: [35m0[0m, Check digits: [36m317041[0m
+2024-05-08 04:28:30,904 - INFO - Location: [32mcalifornia[0m, Day: [35m0[0m, Check digits: [36m750737[0m
+2024-05-08 04:28:36,294 - INFO - Location: [32midiana [0m, Day: [35m0[0m, Check digits: [36m383326[0m
+2024-05-08 04:28:43,668 - INFO - Location: [32mst marys county[0m, Day: [35m0[0m, Check digits: [36m372144[0m
+2024-05-08 04:28:57,525 - INFO - Location: [32mindiana[0m, Day: [35m0[0m, Check digits: [36m307428[0m
+2024-05-08 04:29:02,767 - INFO - Location: [32mst marys county[0m, Day: [35m1[0m, Check digits: [36m378092[0m
+2024-05-08 04:29:41,906 - INFO - Location: [32mindiana[0m, Day: [35m1[0m, Check digits: [36m229570[0m
+2024-05-08 04:34:48,980 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m348778[0m
+2024-05-08 04:35:00,711 - INFO - Location: [32mFlorida[0m, Day: [35m1[0m, Check digits: [36m489607[0m
+2024-05-08 04:35:10,102 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m887619[0m
+2024-05-08 04:41:46,362 - INFO - Location: [32mSouthend[0m, Day: [35m0[0m, Check digits: [36m310035[0m
+2024-05-08 04:48:13,783 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m987104[0m
+2024-05-08 04:48:47,849 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m444986[0m
+2024-05-08 04:48:57,421 - INFO - Location: [32mSan Francisco[0m, Day: [35m1[0m, Check digits: [36m998708[0m
+2024-05-08 04:49:17,391 - INFO - Location: [32mtalmo[0m, Day: [35m0[0m, Check digits: [36m598312[0m
+weather.py:49: DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead
+  logger.warn(f'{colored("encoding failed", "red")} for {result}, defaulting to "{location}" (request location)')
+2024-05-08 04:49:18,907 - WARNING - [31mencoding failed[0m for Småland, defaulting to "talmo" (request location)
+2024-05-08 04:49:28,452 - INFO - Location: [32mtalmo[0m, Day: [35m1[0m, Check digits: [36m815130[0m
+2024-05-08 04:49:29,592 - WARNING - [31mencoding failed[0m for Småland, defaulting to "talmo" (request location)
+2024-05-08 04:49:34,672 - INFO - Location: [32mSan Francisco[0m, Day: [35m2[0m, Check digits: [36m157442[0m
+2024-05-08 04:49:54,640 - INFO - Location: [32mBrazil[0m, Day: [35m0[0m, Check digits: [36m138192[0m
+2024-05-08 04:50:08,831 - INFO - Location: [32mBrazil[0m, Day: [35m0[0m, Check digits: [36m850919[0m
+2024-05-08 04:50:18,128 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m561816[0m
+2024-05-08 04:50:32,825 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m700375[0m
+2024-05-08 04:50:41,321 - INFO - Location: [32mSan Francisco[0m, Day: [35m1[0m, Check digits: [36m351397[0m
+2024-05-08 04:53:46,091 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m959095[0m
+2024-05-08 04:53:51,495 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m485458[0m
+2024-05-08 04:54:20,927 - INFO - Location: [32mTaipei[0m, Day: [35m0[0m, Check digits: [36m488782[0m
+2024-05-08 04:54:26,348 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m771706[0m
+2024-05-08 04:54:42,148 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m682017[0m
+2024-05-08 04:55:03,454 - INFO - Location: [32m123[0m, Day: [35m0[0m, Check digits: [36m105961[0m
+2024-05-08 04:56:22,583 - INFO - Location: [32mMcKinney[0m, Day: [35m0[0m, Check digits: [36m903973[0m
+2024-05-08 04:56:39,644 - INFO - Location: [32mMcKinney[0m, Day: [35m1[0m, Check digits: [36m458612[0m
+2024-05-08 04:58:38,726 - INFO - Location: [32mIndia[0m, Day: [35m0[0m, Check digits: [36m803565[0m
+2024-05-08 04:58:47,288 - INFO - Location: [32mPune[0m, Day: [35m0[0m, Check digits: [36m205182[0m
+2024-05-08 04:59:11,781 - INFO - Location: [32mPune[0m, Day: [35m1[0m, Check digits: [36m398152[0m
+2024-05-08 04:59:18,137 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m773882[0m
+2024-05-08 04:59:33,962 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m602440[0m
+2024-05-08 04:59:48,859 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m638014[0m
+2024-05-08 05:00:46,374 - INFO - Location: [32mGergea[0m, Day: [35m0[0m, Check digits: [36m897231[0m
+2024-05-08 05:00:59,543 - INFO - Location: [32mGermany[0m, Day: [35m0[0m, Check digits: [36m573086[0m
+2024-05-08 05:01:07,933 - INFO - Location: [32mChicago[0m, Day: [35m0[0m, Check digits: [36m434904[0m
+2024-05-08 05:01:19,112 - INFO - Location: [32mpittsburgh[0m, Day: [35m0[0m, Check digits: [36m379069[0m
+2024-05-08 05:01:28,839 - INFO - Location: [32mAlabama[0m, Day: [35m0[0m, Check digits: [36m610295[0m
+2024-05-08 05:01:37,326 - INFO - Location: [32mpittsburgh[0m, Day: [35m0[0m, Check digits: [36m587813[0m
+2024-05-08 05:01:46,413 - INFO - Location: [32mpittsburgh[0m, Day: [35m1[0m, Check digits: [36m133958[0m
+2024-05-08 05:01:59,334 - INFO - Location: [32mpittsburgh[0m, Day: [35m2[0m, Check digits: [36m271856[0m
+2024-05-08 05:02:09,701 - INFO - Location: [32mpittsburgh[0m, Day: [35m3[0m, Check digits: [36m705501[0m
+2024-05-08 05:02:21,930 - INFO - Location: [32mpittsburgh[0m, Day: [35m2[0m, Check digits: [36m713883[0m
+2024-05-08 05:02:31,425 - INFO - Location: [32mpittsburgh[0m, Day: [35m1[0m, Check digits: [36m699686[0m
+2024-05-08 05:02:40,336 - INFO - Location: [32mpittsburgh[0m, Day: [35m2[0m, Check digits: [36m962402[0m
+2024-05-08 05:02:47,635 - INFO - Location: [32mpittsburgh[0m, Day: [35m3[0m, Check digits: [36m282687[0m
+2024-05-08 05:03:05,438 - INFO - Location: [32mpittsburgh[0m, Day: [35m2[0m, Check digits: [36m851747[0m
+2024-05-08 05:03:58,196 - INFO - Location: [32mpittsburgh[0m, Day: [35m1[0m, Check digits: [36m603968[0m
+2024-05-08 05:04:14,126 - INFO - Location: [32mpittsburgh[0m, Day: [35m0[0m, Check digits: [36m767585[0m
+2024-05-08 05:04:25,695 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m893141[0m
+2024-05-08 05:04:41,462 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m492298[0m
+2024-05-08 05:04:47,888 - INFO - Location: [32mpittsburgh[0m, Day: [35m1[0m, Check digits: [36m628241[0m
+2024-05-08 05:04:54,096 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m545796[0m
+2024-05-08 05:05:31,920 - INFO - Location: [32mPennsylvania[0m, Day: [35m0[0m, Check digits: [36m629800[0m
+2024-05-08 05:05:57,658 - INFO - Location: [32mLas Vegas[0m, Day: [35m0[0m, Check digits: [36m522084[0m
+2024-05-08 05:06:47,409 - INFO - Location: [32mUR mom[0m, Day: [35m0[0m, Check digits: [36m258439[0m
+2024-05-08 05:07:27,249 - INFO - Location: [32mlondon[0m, Day: [35m0[0m, Check digits: [36m963098[0m
+2024-05-08 05:07:32,625 - INFO - Location: [32m[0m, Day: [35m0[0m, Check digits: [36m918042[0m
+2024-05-08 05:07:37,873 - INFO - Location: [32m[0m, Day: [35m1[0m, Check digits: [36m828504[0m
+2024-05-08 05:07:44,084 - INFO - Location: [32m[0m, Day: [35m2[0m, Check digits: [36m769731[0m
+2024-05-08 05:07:50,320 - INFO - Location: [32mBrooklyn[0m, Day: [35m0[0m, Check digits: [36m647958[0m
+2024-05-08 05:08:00,831 - INFO - Location: [32mBrooklyn[0m, Day: [35m1[0m, Check digits: [36m368832[0m
+2024-05-08 05:08:07,267 - INFO - Location: [32mCoach Kutz[0m, Day: [35m0[0m, Check digits: [36m800573[0m
+2024-05-08 05:09:11,835 - INFO - Location: [32mMassachusets'[0m, Day: [35m0[0m, Check digits: [36m848533[0m
+2024-05-08 05:09:27,346 - INFO - Location: [32mMilton Delaware[0m, Day: [35m0[0m, Check digits: [36m392480[0m
+2024-05-08 05:09:32,632 - INFO - Location: [32mBoston[0m, Day: [35m0[0m, Check digits: [36m603519[0m
+2024-05-08 05:10:12,807 - INFO - Location: [32mBoston[0m, Day: [35m1[0m, Check digits: [36m208263[0m
+2024-05-08 05:10:27,444 - INFO - Location: [32mBoston[0m, Day: [35m1[0m, Check digits: [36m162376[0m
+2024-05-08 05:10:33,799 - INFO - Location: [32mFort Gay[0m, Day: [35m0[0m, Check digits: [36m948601[0m
+2024-05-08 05:11:11,978 - INFO - Location: [32mHartford[0m, Day: [35m0[0m, Check digits: [36m535192[0m
+2024-05-08 05:11:22,631 - INFO - Location: [32mthe netherlands[0m, Day: [35m0[0m, Check digits: [36m128835[0m
+2024-05-08 05:11:28,093 - INFO - Location: [32mtravinh[0m, Day: [35m0[0m, Check digits: [36m537727[0m
+2024-05-08 05:11:36,680 - INFO - Location: [32mtravinh[0m, Day: [35m1[0m, Check digits: [36m289164[0m
+2024-05-08 05:11:53,457 - INFO - Location: [32mHartford SD[0m, Day: [35m0[0m, Check digits: [36m937112[0m
+2024-05-08 05:11:59,169 - INFO - Location: [32mtravinh[0m, Day: [35m2[0m, Check digits: [36m442409[0m
+2024-05-08 05:12:05,421 - INFO - Location: [32mCrap[0m, Day: [35m0[0m, Check digits: [36m724053[0m
+2024-05-08 05:12:10,890 - INFO - Location: [32mDallas[0m, Day: [35m0[0m, Check digits: [36m918872[0m
+2024-05-08 05:12:21,421 - INFO - Location: [32mDallas[0m, Day: [35m1[0m, Check digits: [36m908294[0m
+2024-05-08 05:12:31,865 - INFO - Location: [32mIrving[0m, Day: [35m0[0m, Check digits: [36m333955[0m
+2024-05-08 05:12:47,834 - INFO - Location: [32mHorrible[0m, Day: [35m0[0m, Check digits: [36m481311[0m
+2024-05-08 05:13:34,324 - INFO - Location: [32mMoscow[0m, Day: [35m0[0m, Check digits: [36m522223[0m
+2024-05-08 05:13:35,565 - WARNING - [31mencoding failed[0m for Москва, defaulting to "Moscow" (request location)
+2024-05-08 05:13:58,782 - INFO - Location: [32mSalavat[0m, Day: [35m0[0m, Check digits: [36m621349[0m
+2024-05-08 05:14:14,909 - INFO - Location: [32mUfa[0m, Day: [35m0[0m, Check digits: [36m882444[0m
+2024-05-08 05:14:22,500 - INFO - Location: [32mUfa[0m, Day: [35m1[0m, Check digits: [36m161934[0m
+2024-05-08 05:14:36,066 - INFO - Location: [32mSt. Petersburg[0m, Day: [35m0[0m, Check digits: [36m225867[0m
+2024-05-08 05:14:47,698 - INFO - Location: [32mHartford SD[0m, Day: [35m0[0m, Check digits: [36m770490[0m
+2024-05-08 05:14:53,059 - INFO - Location: [32mLinden New Jersey[0m, Day: [35m0[0m, Check digits: [36m735195[0m
+2024-05-08 05:16:41,976 - INFO - Location: [32mOlney, MD[0m, Day: [35m0[0m, Check digits: [36m638601[0m
+2024-05-08 05:22:32,866 - INFO - Location: [32mVirgina[0m, Day: [35m0[0m, Check digits: [36m550678[0m
+2024-05-08 05:22:40,526 - INFO - Location: [32mVirgina[0m, Day: [35m1[0m, Check digits: [36m714321[0m
+2024-05-08 05:23:21,608 - INFO - Location: [32mMuskego[0m, Day: [35m0[0m, Check digits: [36m316822[0m
+2024-05-08 05:23:29,206 - INFO - Location: [32mfredericksburg Virginia [0m, Day: [35m0[0m, Check digits: [36m837939[0m
+2024-05-08 05:23:36,008 - INFO - Location: [32mfredericksburg Virginia [0m, Day: [35m1[0m, Check digits: [36m132382[0m
+2024-05-08 05:23:49,627 - INFO - Location: [32mfredericksburg Virginia [0m, Day: [35m2[0m, Check digits: [36m306584[0m
+2024-05-08 05:23:56,894 - INFO - Location: [32mfredericksburg Virginia [0m, Day: [35m3[0m, Check digits: [36m349714[0m
+2024-05-08 05:24:05,652 - INFO - Location: [32mfredericksburg Virginia [0m, Day: [35m2[0m, Check digits: [36m303841[0m
+2024-05-08 05:24:41,552 - INFO - Location: [32mMuskego[0m, Day: [35m1[0m, Check digits: [36m430208[0m
+2024-05-08 05:29:01,408 - INFO - Location: [32mRoyal Oak[0m, Day: [35m0[0m, Check digits: [36m691661[0m
+2024-05-08 05:30:46,221 - INFO - Location: [32mSharjah[0m, Day: [35m0[0m, Check digits: [36m585335[0m
+2024-05-08 05:30:53,847 - INFO - Location: [32mRoyal Oak[0m, Day: [35m1[0m, Check digits: [36m304502[0m
+2024-05-08 05:31:01,661 - INFO - Location: [32mSharjah[0m, Day: [35m1[0m, Check digits: [36m871645[0m
+2024-05-08 05:32:45,390 - INFO - Location: [32mNew York City[0m, Day: [35m0[0m, Check digits: [36m113072[0m
+2024-05-08 05:32:55,017 - INFO - Location: [32mNew York City[0m, Day: [35m1[0m, Check digits: [36m855614[0m
+2024-05-08 05:33:20,290 - INFO - Location: [32mpevely[0m, Day: [35m0[0m, Check digits: [36m665640[0m
+2024-05-08 05:33:44,893 - INFO - Location: [32mBrisbane[0m, Day: [35m0[0m, Check digits: [36m994185[0m
+2024-05-08 05:33:54,398 - INFO - Location: [32mBrisbane[0m, Day: [35m1[0m, Check digits: [36m806413[0m
+2024-05-08 05:39:17,734 - INFO - Location: [32mPittsburg[0m, Day: [35m0[0m, Check digits: [36m617769[0m
+2024-05-08 05:39:34,749 - INFO - Location: [32mPittsburg[0m, Day: [35m0[0m, Check digits: [36m627782[0m
+2024-05-08 05:42:00,605 - INFO - Location: [32mdallas[0m, Day: [35m0[0m, Check digits: [36m689670[0m
+2024-05-08 05:42:15,813 - INFO - Location: [32mdallas[0m, Day: [35m0[0m, Check digits: [36m250962[0m
+2024-05-08 05:45:31,200 - INFO - Location: [32mWilliamsburg[0m, Day: [35m0[0m, Check digits: [36m377054[0m
+2024-05-08 05:45:44,082 - INFO - Location: [32mWilliamsburg[0m, Day: [35m1[0m, Check digits: [36m618761[0m
+2024-05-08 05:45:50,297 - INFO - Location: [32mSaint Ann, MO[0m, Day: [35m0[0m, Check digits: [36m434895[0m
+2024-05-08 05:45:58,818 - INFO - Location: [32mLewisburg[0m, Day: [35m0[0m, Check digits: [36m628624[0m
+2024-05-08 05:46:10,478 - INFO - Location: [32mNew York[0m, Day: [35m0[0m, Check digits: [36m884288[0m
+2024-05-08 05:46:16,000 - INFO - Location: [32mSaint Ann, MO[0m, Day: [35m1[0m, Check digits: [36m271848[0m
+2024-05-08 05:46:22,212 - INFO - Location: [32mNew York[0m, Day: [35m1[0m, Check digits: [36m772869[0m
+2024-05-08 05:46:28,395 - INFO - Location: [32mSaint Louis[0m, Day: [35m0[0m, Check digits: [36m280621[0m
+2024-05-08 05:46:50,651 - INFO - Location: [32mSaint Louis[0m, Day: [35m1[0m, Check digits: [36m672974[0m
+2024-05-08 05:46:58,070 - INFO - Location: [32mSaint Louis[0m, Day: [35m0[0m, Check digits: [36m984638[0m
+2024-05-08 05:47:09,828 - INFO - Location: [32mSt. Louis[0m, Day: [35m0[0m, Check digits: [36m418086[0m
+2024-05-08 05:48:51,321 - INFO - Location: [32mmaryland[0m, Day: [35m0[0m, Check digits: [36m360544[0m
+2024-05-08 05:49:36,296 - INFO - Location: [32mme[0m, Day: [35m0[0m, Check digits: [36m901575[0m
+2024-05-08 05:49:44,878 - INFO - Location: [32mSt. Paul[0m, Day: [35m0[0m, Check digits: [36m232282[0m
+2024-05-08 05:50:23,058 - INFO - Location: [32mLinden[0m, Day: [35m0[0m, Check digits: [36m212503[0m
+2024-05-08 05:50:33,501 - INFO - Location: [32mSt. Paul[0m, Day: [35m1[0m, Check digits: [36m292475[0m
+2024-05-08 05:50:39,850 - INFO - Location: [32mLinden[0m, Day: [35m1[0m, Check digits: [36m566793[0m
+2024-05-08 05:50:55,633 - INFO - Location: [32mmunich[0m, Day: [35m0[0m, Check digits: [36m783779[0m
+2024-05-08 05:51:06,259 - INFO - Location: [32mmunich[0m, Day: [35m1[0m, Check digits: [36m287339[0m
+2024-05-08 05:54:21,854 - INFO - Location: [32mMichigina[0m, Day: [35m0[0m, Check digits: [36m522026[0m
+2024-05-08 05:54:27,350 - INFO - Location: [32mINDIANAPOLIS[0m, Day: [35m0[0m, Check digits: [36m350532[0m
+2024-05-08 05:54:32,607 - INFO - Location: [32mMichigan[0m, Day: [35m0[0m, Check digits: [36m120451[0m
+2024-05-08 05:54:38,225 - INFO - Location: [32mIndonesia[0m, Day: [35m0[0m, Check digits: [36m115696[0m
+2024-05-08 05:54:54,126 - INFO - Location: [32mIndonesia[0m, Day: [35m1[0m, Check digits: [36m605597[0m
+2024-05-08 05:55:01,540 - INFO - Location: [32mMichigan[0m, Day: [35m1[0m, Check digits: [36m496010[0m
+2024-05-08 05:55:08,913 - INFO - Location: [32mMichigan[0m, Day: [35m0[0m, Check digits: [36m503803[0m
+2024-05-08 05:55:14,259 - INFO - Location: [32mChicago[0m, Day: [35m0[0m, Check digits: [36m275844[0m
+2024-05-08 05:55:19,655 - INFO - Location: [32mMichigan[0m, Day: [35m1[0m, Check digits: [36m917325[0m
+2024-05-08 05:55:25,844 - INFO - Location: [32mChicago[0m, Day: [35m1[0m, Check digits: [36m730283[0m
+2024-05-08 05:56:35,791 - INFO - Location: [32mRichton Park[0m, Day: [35m0[0m, Check digits: [36m705836[0m
+2024-05-08 05:56:47,758 - INFO - Location: [32mRichton Park[0m, Day: [35m1[0m, Check digits: [36m253123[0m
+2024-05-08 05:57:08,792 - INFO - Location: [32mHa Noi[0m, Day: [35m0[0m, Check digits: [36m800970[0m
+2024-05-08 05:57:18,453 - INFO - Location: [32mHa Noi[0m, Day: [35m1[0m, Check digits: [36m200214[0m
+2024-05-08 05:57:40,543 - INFO - Location: [32mHa Noi[0m, Day: [35m0[0m, Check digits: [36m640359[0m
+2024-05-08 05:57:53,302 - INFO - Location: [32mHa Noi[0m, Day: [35m1[0m, Check digits: [36m508777[0m
+2024-05-08 05:57:59,512 - INFO - Location: [32mHa Noi[0m, Day: [35m2[0m, Check digits: [36m567351[0m
+2024-05-08 05:58:17,377 - INFO - Location: [32mlombard[0m, Day: [35m0[0m, Check digits: [36m676386[0m
+2024-05-08 05:58:32,374 - INFO - Location: [32mlombard[0m, Day: [35m1[0m, Check digits: [36m782782[0m
+2024-05-08 05:58:42,954 - INFO - Location: [32mLombard[0m, Day: [35m0[0m, Check digits: [36m844242[0m
+2024-05-08 05:58:51,369 - INFO - Location: [32mMadiun[0m, Day: [35m0[0m, Check digits: [36m980348[0m
+2024-05-08 05:59:04,113 - INFO - Location: [32mMadiun[0m, Day: [35m1[0m, Check digits: [36m976885[0m
+2024-05-08 05:59:16,804 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m838896[0m
+2024-05-08 05:59:23,201 - INFO - Location: [32mCanonsburg[0m, Day: [35m0[0m, Check digits: [36m956345[0m
+2024-05-08 05:59:40,188 - INFO - Location: [32mCanonsburg[0m, Day: [35m1[0m, Check digits: [36m183026[0m
+2024-05-08 06:08:01,446 - INFO - Location: [32mmckee[0m, Day: [35m0[0m, Check digits: [36m277295[0m
+2024-05-08 06:08:08,905 - INFO - Location: [32mmckee[0m, Day: [35m1[0m, Check digits: [36m956558[0m
+2024-05-08 06:10:49,471 - INFO - Location: [32mNJ[0m, Day: [35m0[0m, Check digits: [36m595065[0m
+2024-05-08 06:11:06,636 - INFO - Location: [32mNJ[0m, Day: [35m0[0m, Check digits: [36m250685[0m
+2024-05-08 06:11:20,267 - INFO - Location: [32mwaldorf MD[0m, Day: [35m0[0m, Check digits: [36m215587[0m
+2024-05-08 06:11:38,384 - INFO - Location: [32mNJ[0m, Day: [35m1[0m, Check digits: [36m360236[0m
+2024-05-08 06:13:28,106 - INFO - Location: [32mChelsea[0m, Day: [35m0[0m, Check digits: [36m642748[0m
+2024-05-08 06:13:43,086 - INFO - Location: [32mAlabama, Chelsea[0m, Day: [35m0[0m, Check digits: [36m576223[0m
+2024-05-08 06:13:55,004 - INFO - Location: [32mAlabama, Chelsea[0m, Day: [35m1[0m, Check digits: [36m318471[0m
+2024-05-08 06:14:11,871 - INFO - Location: [32musa[0m, Day: [35m0[0m, Check digits: [36m612939[0m
+2024-05-08 06:14:18,388 - INFO - Location: [32musa[0m, Day: [35m1[0m, Check digits: [36m346122[0m
+2024-05-08 06:14:53,181 - INFO - Location: [32mMinnesota [0m, Day: [35m0[0m, Check digits: [36m496766[0m
+2024-05-08 06:15:05,219 - INFO - Location: [32mMinnesota [0m, Day: [35m1[0m, Check digits: [36m438464[0m
+2024-05-08 06:15:34,827 - INFO - Location: [32mHarrison Township[0m, Day: [35m0[0m, Check digits: [36m792294[0m
+2024-05-08 06:15:43,709 - INFO - Location: [32mCelina[0m, Day: [35m0[0m, Check digits: [36m944621[0m
+2024-05-08 06:15:52,818 - INFO - Location: [32mCelina[0m, Day: [35m1[0m, Check digits: [36m675829[0m
+2024-05-08 06:16:05,440 - INFO - Location: [32mCelina[0m, Day: [35m1[0m, Check digits: [36m607064[0m
+2024-05-08 06:16:13,772 - INFO - Location: [32mProsper[0m, Day: [35m0[0m, Check digits: [36m981383[0m
+2024-05-08 06:16:24,790 - INFO - Location: [32mProsper[0m, Day: [35m1[0m, Check digits: [36m955648[0m
+2024-05-08 06:18:41,865 - INFO - Location: [32mWillich[0m, Day: [35m0[0m, Check digits: [36m133512[0m
+2024-05-08 06:18:57,956 - INFO - Location: [32mWillich[0m, Day: [35m0[0m, Check digits: [36m172328[0m
+2024-05-08 06:22:34,627 - INFO - Location: [32mPhilippines[0m, Day: [35m0[0m, Check digits: [36m965686[0m
+2024-05-08 06:22:43,294 - INFO - Location: [32mPhilippines[0m, Day: [35m1[0m, Check digits: [36m472854[0m
+2024-05-08 06:22:49,507 - INFO - Location: [32mInvermere [0m, Day: [35m0[0m, Check digits: [36m812721[0m
+2024-05-08 06:23:13,142 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m126261[0m
+2024-05-08 06:23:18,837 - INFO - Location: [32mInvermere [0m, Day: [35m1[0m, Check digits: [36m691584[0m
+2024-05-08 06:23:25,066 - INFO - Location: [32mSan Francisco[0m, Day: [35m1[0m, Check digits: [36m443973[0m
+2024-05-08 06:23:31,401 - INFO - Location: [32mInvermere [0m, Day: [35m0[0m, Check digits: [36m561851[0m
+2024-05-08 06:36:37,038 - INFO - Location: [32mNew York City[0m, Day: [35m0[0m, Check digits: [36m414274[0m
+2024-05-08 06:36:45,905 - INFO - Location: [32mNew York City[0m, Day: [35m1[0m, Check digits: [36m683632[0m
+2024-05-08 06:39:40,581 - INFO - Location: [32mdallas tx[0m, Day: [35m0[0m, Check digits: [36m220658[0m
+2024-05-08 06:39:52,300 - INFO - Location: [32mdallas tx[0m, Day: [35m1[0m, Check digits: [36m164506[0m
+2024-05-08 06:39:58,559 - INFO - Location: [32mSouth San Franisco[0m, Day: [35m0[0m, Check digits: [36m838713[0m
+2024-05-08 06:40:07,079 - INFO - Location: [32mdallas tx[0m, Day: [35m0[0m, Check digits: [36m389671[0m
+2024-05-08 06:40:35,773 - INFO - Location: [32mClaxton[0m, Day: [35m0[0m, Check digits: [36m236821[0m
+2024-05-08 06:40:48,151 - INFO - Location: [32mSouth San Franisco[0m, Day: [35m1[0m, Check digits: [36m378096[0m
+2024-05-08 06:41:01,827 - INFO - Location: [32mClaxton[0m, Day: [35m1[0m, Check digits: [36m550647[0m
+2024-05-08 06:41:49,716 - INFO - Location: [32mtoa payoh[0m, Day: [35m0[0m, Check digits: [36m245616[0m
+2024-05-08 06:41:55,280 - INFO - Location: [32mBaltimore[0m, Day: [35m0[0m, Check digits: [36m135846[0m
+2024-05-08 06:42:01,789 - INFO - Location: [32mtoa payoh[0m, Day: [35m1[0m, Check digits: [36m862505[0m
+2024-05-08 06:42:12,304 - INFO - Location: [32mBaltimore[0m, Day: [35m1[0m, Check digits: [36m629829[0m
+2024-05-08 06:42:18,593 - INFO - Location: [32mBaltimore[0m, Day: [35m2[0m, Check digits: [36m975050[0m
+2024-05-08 06:42:24,964 - INFO - Location: [32mBaltimore[0m, Day: [35m3[0m, Check digits: [36m410682[0m
+2024-05-08 06:42:31,217 - INFO - Location: [32mBaltimore[0m, Day: [35m2[0m, Check digits: [36m132855[0m
+2024-05-08 06:42:37,426 - INFO - Location: [32mBaltimore[0m, Day: [35m1[0m, Check digits: [36m697977[0m
+2024-05-08 06:43:43,050 - INFO - Location: [32mStroudsburg[0m, Day: [35m0[0m, Check digits: [36m305190[0m
+2024-05-08 06:43:51,805 - INFO - Location: [32mMiami[0m, Day: [35m0[0m, Check digits: [36m899245[0m
+2024-05-08 06:44:02,392 - INFO - Location: [32mStroudsburg[0m, Day: [35m1[0m, Check digits: [36m741351[0m
+2024-05-08 06:44:49,813 - INFO - Location: [32mmn[0m, Day: [35m0[0m, Check digits: [36m906801[0m
+2024-05-08 06:44:55,320 - INFO - Location: [32mStroudsburg[0m, Day: [35m2[0m, Check digits: [36m915864[0m
+2024-05-08 06:45:09,996 - INFO - Location: [32mMPLS[0m, Day: [35m0[0m, Check digits: [36m795141[0m
+2024-05-08 06:45:20,059 - INFO - Location: [32mMPLS[0m, Day: [35m1[0m, Check digits: [36m812067[0m
+2024-05-08 06:45:28,725 - INFO - Location: [32mMPLS[0m, Day: [35m1[0m, Check digits: [36m813501[0m
+2024-05-08 06:45:43,522 - INFO - Location: [32mMinniapolis[0m, Day: [35m0[0m, Check digits: [36m766074[0m
+2024-05-08 06:46:08,004 - INFO - Location: [32mMinniapolis[0m, Day: [35m1[0m, Check digits: [36m716709[0m
+2024-05-08 06:47:35,429 - INFO - Location: [32mSan Antonio[0m, Day: [35m0[0m, Check digits: [36m837709[0m
+2024-05-08 06:47:41,915 - INFO - Location: [32mSan Antonio[0m, Day: [35m1[0m, Check digits: [36m420219[0m
+2024-05-08 06:50:40,403 - INFO - Location: [32mSan Antonio[0m, Day: [35m0[0m, Check digits: [36m395893[0m
+2024-05-08 06:52:33,680 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m916470[0m
+2024-05-08 06:59:04,083 - INFO - Location: [32mfargo[0m, Day: [35m0[0m, Check digits: [36m414556[0m
+2024-05-08 06:59:10,846 - INFO - Location: [32mfargo[0m, Day: [35m1[0m, Check digits: [36m453575[0m
+2024-05-08 06:59:41,403 - INFO - Location: [32marizona[0m, Day: [35m0[0m, Check digits: [36m391252[0m
+2024-05-08 07:00:01,749 - INFO - Location: [32mChattanooga[0m, Day: [35m0[0m, Check digits: [36m243991[0m
+2024-05-08 07:00:14,525 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m536025[0m
+2024-05-08 07:00:30,410 - INFO - Location: [32mChattanooga[0m, Day: [35m0[0m, Check digits: [36m114393[0m
+2024-05-08 07:00:42,215 - INFO - Location: [32mChattanooga[0m, Day: [35m1[0m, Check digits: [36m527634[0m
+2024-05-08 07:01:44,614 - INFO - Location: [32mKentucky[0m, Day: [35m0[0m, Check digits: [36m524597[0m
+2024-05-08 07:02:00,175 - INFO - Location: [32mKentucky[0m, Day: [35m1[0m, Check digits: [36m680722[0m
+2024-05-08 07:03:03,912 - INFO - Location: [32msan friansisco[0m, Day: [35m0[0m, Check digits: [36m323658[0m
+2024-05-08 07:04:27,285 - INFO - Location: [32mHarrison Township[0m, Day: [35m0[0m, Check digits: [36m548303[0m
+2024-05-08 07:04:40,809 - INFO - Location: [32mHarrison Township[0m, Day: [35m0[0m, Check digits: [36m255489[0m
+2024-05-08 07:06:11,959 - INFO - Location: [32mZug[0m, Day: [35m0[0m, Check digits: [36m794608[0m
+2024-05-08 07:06:36,202 - INFO - Location: [32mbrasil[0m, Day: [35m0[0m, Check digits: [36m580539[0m
+2024-05-08 07:06:42,604 - INFO - Location: [32mbrasil[0m, Day: [35m1[0m, Check digits: [36m339168[0m
+2024-05-08 07:06:48,923 - INFO - Location: [32mIvanovo[0m, Day: [35m0[0m, Check digits: [36m970407[0m
+2024-05-08 07:06:50,488 - WARNING - [31mencoding failed[0m for Иваново, defaulting to "Ivanovo" (request location)
+2024-05-08 07:06:59,859 - INFO - Location: [32mIvanovo[0m, Day: [35m1[0m, Check digits: [36m119695[0m
+2024-05-08 07:07:01,038 - WARNING - [31mencoding failed[0m for Иваново, defaulting to "Ivanovo" (request location)
+2024-05-08 07:08:04,166 - INFO - Location: [32mTomball[0m, Day: [35m0[0m, Check digits: [36m876467[0m
+2024-05-08 07:09:11,058 - INFO - Location: [32mgreat yarmouth[0m, Day: [35m0[0m, Check digits: [36m764612[0m
+2024-05-08 07:09:17,665 - INFO - Location: [32mTomball[0m, Day: [35m1[0m, Check digits: [36m772522[0m
+2024-05-08 07:09:23,891 - INFO - Location: [32mgreat yarmouth[0m, Day: [35m1[0m, Check digits: [36m376615[0m
+2024-05-08 07:09:31,157 - INFO - Location: [32mgreat yarmouth[0m, Day: [35m0[0m, Check digits: [36m529929[0m
+2024-05-08 07:09:53,650 - INFO - Location: [32mEGSH[0m, Day: [35m0[0m, Check digits: [36m327213[0m
+2024-05-08 07:10:09,954 - INFO - Location: [32mhrw[0m, Day: [35m0[0m, Check digits: [36m330194[0m
+2024-05-08 07:10:31,492 - INFO - Location: [32mnor[0m, Day: [35m0[0m, Check digits: [36m400200[0m
+2024-05-08 07:10:41,461 - INFO - Location: [32mBrodhead[0m, Day: [35m0[0m, Check digits: [36m359551[0m
+2024-05-08 07:10:58,473 - INFO - Location: [32mBrodhead KY[0m, Day: [35m0[0m, Check digits: [36m165035[0m
+2024-05-08 07:11:03,902 - INFO - Location: [32mBrodhead KY[0m, Day: [35m1[0m, Check digits: [36m997873[0m
+2024-05-08 07:11:10,312 - INFO - Location: [32mBrodhead[0m, Day: [35m0[0m, Check digits: [36m249427[0m
+2024-05-08 07:11:20,911 - INFO - Location: [32mBrodhead[0m, Day: [35m0[0m, Check digits: [36m871568[0m
+2024-05-08 07:11:26,114 - INFO - Location: [32mBrodhead[0m, Day: [35m1[0m, Check digits: [36m780219[0m
+2024-05-08 07:11:37,388 - INFO - Location: [32mWashingtonville, New York[0m, Day: [35m0[0m, Check digits: [36m317128[0m
+2024-05-08 07:11:42,956 - INFO - Location: [32mBrodhead[0m, Day: [35m2[0m, Check digits: [36m639354[0m
+2024-05-08 07:13:10,563 - INFO - Location: [32msandwich[0m, Day: [35m0[0m, Check digits: [36m964525[0m
+2024-05-08 07:13:29,170 - INFO - Location: [32mNew York[0m, Day: [35m0[0m, Check digits: [36m858855[0m
+2024-05-08 07:14:31,125 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m851707[0m
+2024-05-08 07:15:14,390 - INFO - Location: [32mCheswick[0m, Day: [35m0[0m, Check digits: [36m926247[0m
+2024-05-08 07:15:25,901 - INFO - Location: [32mCheswick[0m, Day: [35m1[0m, Check digits: [36m395928[0m
+2024-05-08 07:15:50,313 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m809593[0m
+2024-05-08 07:16:45,927 - INFO - Location: [32mcalgay[0m, Day: [35m0[0m, Check digits: [36m707763[0m
+2024-05-08 07:16:54,905 - INFO - Location: [32mOak Creek, WI[0m, Day: [35m0[0m, Check digits: [36m815965[0m
+2024-05-08 07:17:04,579 - INFO - Location: [32mcalgary[0m, Day: [35m0[0m, Check digits: [36m780945[0m
+2024-05-08 07:17:16,301 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m0[0m, Check digits: [36m846459[0m
+2024-05-08 07:17:27,163 - INFO - Location: [32mcalgary[0m, Day: [35m0[0m, Check digits: [36m778403[0m
+2024-05-08 07:17:33,406 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m0[0m, Check digits: [36m375159[0m
+2024-05-08 07:18:19,428 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m1[0m, Check digits: [36m721262[0m
+2024-05-08 07:18:54,853 - INFO - Location: [32mlincoln[0m, Day: [35m0[0m, Check digits: [36m962149[0m
+2024-05-08 07:19:05,133 - INFO - Location: [32mlincoln[0m, Day: [35m1[0m, Check digits: [36m246622[0m
+2024-05-08 07:19:12,427 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m2[0m, Check digits: [36m798029[0m
+2024-05-08 07:19:51,790 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m991057[0m
+2024-05-08 07:20:01,649 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m3[0m, Check digits: [36m272665[0m
+2024-05-08 07:20:21,116 - INFO - Location: [32mBerlin[0m, Day: [35m1[0m, Check digits: [36m156517[0m
+2024-05-08 07:20:29,485 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m176655[0m
+2024-05-08 07:20:35,719 - INFO - Location: [32mBerlin[0m, Day: [35m1[0m, Check digits: [36m917053[0m
+2024-05-08 07:21:11,979 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m3[0m, Check digits: [36m560386[0m
+2024-05-08 07:21:18,317 - INFO - Location: [32mPraha[0m, Day: [35m0[0m, Check digits: [36m802031[0m
+2024-05-08 07:21:25,740 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m2[0m, Check digits: [36m882129[0m
+2024-05-08 07:21:32,005 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m1[0m, Check digits: [36m702485[0m
+2024-05-08 07:21:38,420 - INFO - Location: [32mMilwaukee, WI[0m, Day: [35m0[0m, Check digits: [36m606180[0m
+2024-05-08 07:21:43,608 - INFO - Location: [32mbeyrouth[0m, Day: [35m0[0m, Check digits: [36m769372[0m
+2024-05-08 07:21:50,136 - INFO - Location: [32mPraha[0m, Day: [35m1[0m, Check digits: [36m218055[0m
+2024-05-08 07:21:59,856 - INFO - Location: [32mPilsen[0m, Day: [35m0[0m, Check digits: [36m767330[0m
+2024-05-08 07:22:21,937 - INFO - Location: [32mPilsen[0m, Day: [35m0[0m, Check digits: [36m336302[0m
+2024-05-08 07:22:43,339 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m318024[0m
+2024-05-08 07:22:50,675 - INFO - Location: [32mBerlin[0m, Day: [35m1[0m, Check digits: [36m769881[0m
+2024-05-08 07:22:59,261 - INFO - Location: [32mPraha[0m, Day: [35m0[0m, Check digits: [36m763598[0m
+2024-05-08 07:23:30,410 - INFO - Location: [32mPraha[0m, Day: [35m1[0m, Check digits: [36m840504[0m
+2024-05-08 07:24:14,221 - INFO - Location: [32mAustin[0m, Day: [35m0[0m, Check digits: [36m347067[0m
+2024-05-08 07:24:26,099 - INFO - Location: [32mdobrany[0m, Day: [35m0[0m, Check digits: [36m742205[0m
+2024-05-08 07:24:35,718 - INFO - Location: [32mAustin[0m, Day: [35m1[0m, Check digits: [36m118485[0m
+2024-05-08 07:24:49,358 - INFO - Location: [32mAustin[0m, Day: [35m1[0m, Check digits: [36m698443[0m
+2024-05-08 07:25:52,290 - INFO - Location: [32mHouston[0m, Day: [35m0[0m, Check digits: [36m945475[0m
+2024-05-08 07:25:59,984 - INFO - Location: [32mHouston[0m, Day: [35m1[0m, Check digits: [36m363886[0m
+2024-05-08 07:26:55,878 - INFO - Location: [32mtazewell[0m, Day: [35m0[0m, Check digits: [36m798790[0m
+2024-05-08 07:27:17,365 - INFO - Location: [32mcumberland gap[0m, Day: [35m0[0m, Check digits: [36m449402[0m
+2024-05-08 07:30:37,962 - INFO - Location: [32mFullerton[0m, Day: [35m0[0m, Check digits: [36m870223[0m
+2024-05-08 07:31:02,389 - INFO - Location: [32mOrange County[0m, Day: [35m0[0m, Check digits: [36m714726[0m
+2024-05-08 07:31:22,611 - INFO - Location: [32mOrange County[0m, Day: [35m1[0m, Check digits: [36m293389[0m
+2024-05-08 07:31:28,929 - INFO - Location: [32mhampshire[0m, Day: [35m0[0m, Check digits: [36m928975[0m
+2024-05-08 07:31:43,756 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m337599[0m
+2024-05-08 07:31:59,578 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m514080[0m
+2024-05-08 07:32:22,166 - INFO - Location: [32mBlackwater, Hampshire[0m, Day: [35m0[0m, Check digits: [36m299858[0m
+2024-05-08 07:32:27,594 - INFO - Location: [32mCleveland[0m, Day: [35m0[0m, Check digits: [36m138420[0m
+2024-05-08 07:32:32,935 - INFO - Location: [32mBlackwater, Hampshire[0m, Day: [35m1[0m, Check digits: [36m697676[0m
+2024-05-08 07:32:44,784 - INFO - Location: [32mShaker Heights[0m, Day: [35m0[0m, Check digits: [36m719106[0m
+2024-05-08 07:32:50,181 - INFO - Location: [32mhampshire[0m, Day: [35m0[0m, Check digits: [36m828752[0m
+2024-05-08 07:32:59,642 - INFO - Location: [32mCLE[0m, Day: [35m0[0m, Check digits: [36m545775[0m
+2024-05-08 07:33:05,029 - INFO - Location: [32mhampshire[0m, Day: [35m1[0m, Check digits: [36m267116[0m
+2024-05-08 07:33:14,704 - INFO - Location: [32mhampshire[0m, Day: [35m2[0m, Check digits: [36m706687[0m
+2024-05-08 07:33:21,237 - INFO - Location: [32mCLE[0m, Day: [35m1[0m, Check digits: [36m444809[0m
+2024-05-08 07:33:27,789 - INFO - Location: [32mhampshire[0m, Day: [35m3[0m, Check digits: [36m623215[0m
+2024-05-08 07:33:35,144 - INFO - Location: [32mAvalon[0m, Day: [35m0[0m, Check digits: [36m435038[0m
+2024-05-08 07:33:49,182 - INFO - Location: [32mct[0m, Day: [35m0[0m, Check digits: [36m786331[0m
+2024-05-08 07:33:54,566 - INFO - Location: [32mhampshire[0m, Day: [35m2[0m, Check digits: [36m362223[0m
+2024-05-08 07:34:00,969 - INFO - Location: [32mct[0m, Day: [35m1[0m, Check digits: [36m447762[0m
+2024-05-08 07:34:07,188 - INFO - Location: [32mhampshire[0m, Day: [35m1[0m, Check digits: [36m212488[0m
+2024-05-08 07:34:14,622 - INFO - Location: [32mct[0m, Day: [35m0[0m, Check digits: [36m682872[0m
+2024-05-08 07:34:20,924 - INFO - Location: [32mct[0m, Day: [35m1[0m, Check digits: [36m560747[0m
+2024-05-08 07:34:29,259 - INFO - Location: [32mct[0m, Day: [35m2[0m, Check digits: [36m806541[0m
+2024-05-08 07:34:38,707 - INFO - Location: [32mhampshire[0m, Day: [35m0[0m, Check digits: [36m989588[0m
+2024-05-08 07:35:07,508 - INFO - Location: [32mohio[0m, Day: [35m0[0m, Check digits: [36m158176[0m
+2024-05-08 07:35:19,177 - INFO - Location: [32mohio[0m, Day: [35m1[0m, Check digits: [36m178978[0m
+2024-05-08 07:39:14,310 - INFO - Location: [32mmississauga[0m, Day: [35m0[0m, Check digits: [36m951644[0m
+2024-05-08 07:39:23,889 - INFO - Location: [32mmississauga[0m, Day: [35m1[0m, Check digits: [36m304703[0m
+2024-05-08 07:40:35,304 - INFO - Location: [32mmississauga[0m, Day: [35m0[0m, Check digits: [36m155583[0m
+2024-05-08 07:44:14,096 - INFO - Location: [32mDanville indiana[0m, Day: [35m0[0m, Check digits: [36m700672[0m
+2024-05-08 07:44:32,553 - INFO - Location: [32mDanville indiana[0m, Day: [35m1[0m, Check digits: [36m885048[0m
+2024-05-08 07:48:52,919 - INFO - Location: [32mSlovenia[0m, Day: [35m0[0m, Check digits: [36m518355[0m
+2024-05-08 07:49:03,866 - INFO - Location: [32mSlovenia[0m, Day: [35m1[0m, Check digits: [36m615093[0m
+2024-05-08 07:49:20,714 - INFO - Location: [32mHarrdsoburg [0m, Day: [35m0[0m, Check digits: [36m503432[0m
+2024-05-08 07:49:27,159 - INFO - Location: [32mHarrdsoburg [0m, Day: [35m1[0m, Check digits: [36m254254[0m
+2024-05-08 07:49:35,633 - INFO - Location: [32mCelje[0m, Day: [35m0[0m, Check digits: [36m799323[0m
+2024-05-08 07:49:51,780 - INFO - Location: [32mCelje[0m, Day: [35m1[0m, Check digits: [36m223828[0m
+2024-05-08 07:51:10,985 - INFO - Location: [32mHinesville[0m, Day: [35m0[0m, Check digits: [36m198095[0m
+2024-05-08 07:51:28,129 - INFO - Location: [32mHinesville[0m, Day: [35m0[0m, Check digits: [36m415452[0m
+2024-05-08 07:51:42,891 - INFO - Location: [32mHinesville[0m, Day: [35m1[0m, Check digits: [36m109377[0m
+2024-05-08 07:52:06,202 - INFO - Location: [32mgergia[0m, Day: [35m0[0m, Check digits: [36m987070[0m
+2024-05-08 07:52:18,167 - INFO - Location: [32mgergia[0m, Day: [35m1[0m, Check digits: [36m142526[0m
+2024-05-08 07:53:00,693 - INFO - Location: [32mindianapolis[0m, Day: [35m0[0m, Check digits: [36m908961[0m
+2024-05-08 07:53:07,195 - INFO - Location: [32mLund[0m, Day: [35m0[0m, Check digits: [36m751234[0m
+2024-05-08 07:53:17,857 - INFO - Location: [32mLund[0m, Day: [35m1[0m, Check digits: [36m751801[0m
+2024-05-08 07:53:24,070 - INFO - Location: [32mPelham[0m, Day: [35m0[0m, Check digits: [36m256646[0m
+2024-05-08 07:53:36,978 - INFO - Location: [32mPelham[0m, Day: [35m1[0m, Check digits: [36m199007[0m
+2024-05-08 07:53:43,355 - INFO - Location: [32mHinesville[0m, Day: [35m2[0m, Check digits: [36m388301[0m
+2024-05-08 07:54:19,212 - INFO - Location: [32mHinesville[0m, Day: [35m3[0m, Check digits: [36m127427[0m
+2024-05-08 07:54:28,739 - INFO - Location: [32mHinesville[0m, Day: [35m3[0m, Check digits: [36m673488[0m
+2024-05-08 07:54:40,238 - INFO - Location: [32mNorth Liberty[0m, Day: [35m0[0m, Check digits: [36m471275[0m
+2024-05-08 07:58:18,159 - INFO - Location: [32mDubai[0m, Day: [35m0[0m, Check digits: [36m950554[0m
+2024-05-08 07:58:58,862 - INFO - Location: [32mDubai[0m, Day: [35m1[0m, Check digits: [36m875051[0m
+2024-05-08 07:59:08,477 - INFO - Location: [32mDubai[0m, Day: [35m2[0m, Check digits: [36m304530[0m
+2024-05-08 07:59:14,689 - INFO - Location: [32mDubai[0m, Day: [35m3[0m, Check digits: [36m759117[0m
+2024-05-08 07:59:21,037 - INFO - Location: [32mDubai[0m, Day: [35m3[0m, Check digits: [36m399670[0m
+2024-05-08 07:59:32,565 - INFO - Location: [32mIowa[0m, Day: [35m0[0m, Check digits: [36m306771[0m
+2024-05-08 07:59:38,213 - INFO - Location: [32mDubai[0m, Day: [35m3[0m, Check digits: [36m528218[0m
+2024-05-08 07:59:44,445 - INFO - Location: [32mIowa[0m, Day: [35m1[0m, Check digits: [36m415123[0m
+2024-05-08 07:59:52,770 - INFO - Location: [32mJakata[0m, Day: [35m0[0m, Check digits: [36m364643[0m
+2024-05-08 08:02:06,050 - INFO - Location: [32mSouth Carolina[0m, Day: [35m0[0m, Check digits: [36m440240[0m
+2024-05-08 08:02:14,329 - INFO - Location: [32mlos angeles[0m, Day: [35m0[0m, Check digits: [36m551632[0m
+2024-05-08 08:02:55,177 - INFO - Location: [32mPeru[0m, Day: [35m0[0m, Check digits: [36m776131[0m
+2024-05-08 08:03:17,903 - INFO - Location: [32mpensylvania[0m, Day: [35m0[0m, Check digits: [36m481787[0m
+2024-05-08 08:03:23,626 - INFO - Location: [32mPeru[0m, Day: [35m1[0m, Check digits: [36m440672[0m
+2024-05-08 08:03:30,253 - INFO - Location: [32mpensylvania[0m, Day: [35m1[0m, Check digits: [36m107483[0m
+2024-05-08 08:03:42,372 - INFO - Location: [32mpensylvania[0m, Day: [35m2[0m, Check digits: [36m613536[0m
+2024-05-08 08:04:05,766 - INFO - Location: [32mpennsylvania[0m, Day: [35m0[0m, Check digits: [36m904553[0m
+2024-05-08 08:04:11,220 - INFO - Location: [32midaho[0m, Day: [35m0[0m, Check digits: [36m672472[0m
+2024-05-08 08:04:18,808 - INFO - Location: [32mharrisburg[0m, Day: [35m0[0m, Check digits: [36m984711[0m
+2024-05-08 08:04:33,693 - INFO - Location: [32midaho[0m, Day: [35m1[0m, Check digits: [36m991298[0m
+2024-05-08 08:04:50,830 - INFO - Location: [32mParis Illinois[0m, Day: [35m0[0m, Check digits: [36m122439[0m
+2024-05-08 08:05:09,362 - INFO - Location: [32mParis Illinois[0m, Day: [35m1[0m, Check digits: [36m822201[0m
+2024-05-08 08:05:16,629 - INFO - Location: [32midaho[0m, Day: [35m2[0m, Check digits: [36m871397[0m
+2024-05-08 08:05:22,841 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m944974[0m
+2024-05-08 08:05:30,771 - INFO - Location: [32mParis Illinois[0m, Day: [35m2[0m, Check digits: [36m916666[0m
+2024-05-08 08:05:36,987 - INFO - Location: [32mParis Illinois[0m, Day: [35m1[0m, Check digits: [36m366666[0m
+2024-05-08 08:05:43,194 - INFO - Location: [32mParis Illinois[0m, Day: [35m0[0m, Check digits: [36m354663[0m
+2024-05-08 08:06:02,182 - INFO - Location: [32mYELLOW KNIFE[0m, Day: [35m0[0m, Check digits: [36m112853[0m
+2024-05-08 08:06:10,759 - INFO - Location: [32mYELLOW KNIFE[0m, Day: [35m1[0m, Check digits: [36m569541[0m
+2024-05-08 08:06:26,722 - INFO - Location: [32mYELLOW KNIFE[0m, Day: [35m2[0m, Check digits: [36m617879[0m
+2024-05-08 08:07:39,333 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m725914[0m
+2024-05-08 08:08:06,094 - INFO - Location: [32mParis Illinois[0m, Day: [35m1[0m, Check digits: [36m107043[0m
+2024-05-08 08:08:12,285 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m867938[0m
+2024-05-08 08:08:19,753 - INFO - Location: [32mParis Illinois[0m, Day: [35m1[0m, Check digits: [36m397603[0m
+2024-05-08 08:08:33,459 - INFO - Location: [32mLondon[0m, Day: [35m2[0m, Check digits: [36m956217[0m
+2024-05-08 08:08:39,640 - INFO - Location: [32mLadera Ranch[0m, Day: [35m0[0m, Check digits: [36m361316[0m
+2024-05-08 08:08:45,073 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m874980[0m
+2024-05-08 08:08:53,690 - INFO - Location: [32mLadera Ranch[0m, Day: [35m0[0m, Check digits: [36m230701[0m
+2024-05-08 08:11:34,779 - INFO - Location: [32mWest Lafeyette In[0m, Day: [35m0[0m, Check digits: [36m237744[0m
+2024-05-08 08:11:44,791 - INFO - Location: [32mWest Lafeyette In[0m, Day: [35m1[0m, Check digits: [36m531566[0m
+2024-05-08 08:12:15,370 - INFO - Location: [32mkilleen[0m, Day: [35m0[0m, Check digits: [36m940144[0m
+2024-05-08 08:12:24,024 - INFO - Location: [32mkilleen[0m, Day: [35m1[0m, Check digits: [36m459218[0m
+2024-05-08 08:12:36,735 - INFO - Location: [32mkilleen[0m, Day: [35m1[0m, Check digits: [36m360477[0m
+2024-05-08 08:12:44,167 - INFO - Location: [32mkilleen[0m, Day: [35m1[0m, Check digits: [36m639305[0m
+2024-05-08 08:12:56,757 - INFO - Location: [32mkilleen[0m, Day: [35m1[0m, Check digits: [36m954911[0m
+2024-05-08 08:13:10,365 - INFO - Location: [32mkilleen[0m, Day: [35m1[0m, Check digits: [36m199585[0m
+2024-05-08 08:13:24,121 - INFO - Location: [32mpamona Claifornia[0m, Day: [35m0[0m, Check digits: [36m973331[0m
+2024-05-08 08:13:44,503 - INFO - Location: [32mPomona California [0m, Day: [35m0[0m, Check digits: [36m372570[0m
+2024-05-08 08:14:14,232 - INFO - Location: [32mdublin[0m, Day: [35m0[0m, Check digits: [36m772763[0m
+2024-05-08 08:14:20,706 - INFO - Location: [32mnew york[0m, Day: [35m0[0m, Check digits: [36m763808[0m
+2024-05-08 08:14:25,940 - INFO - Location: [32mdublin[0m, Day: [35m1[0m, Check digits: [36m239664[0m
+2024-05-08 08:14:32,298 - INFO - Location: [32mnew york[0m, Day: [35m1[0m, Check digits: [36m654145[0m
+2024-05-08 08:14:44,941 - INFO - Location: [32mpennsylvania[0m, Day: [35m0[0m, Check digits: [36m276895[0m
+2024-05-08 08:15:10,333 - INFO - Location: [32mLondon[0m, Day: [35m2[0m, Check digits: [36m498318[0m
+2024-05-08 08:15:17,645 - INFO - Location: [32mLondon[0m, Day: [35m3[0m, Check digits: [36m139490[0m
+2024-05-08 08:17:54,438 - INFO - Location: [32mOklahoma[0m, Day: [35m0[0m, Check digits: [36m253926[0m
+2024-05-08 08:18:26,364 - INFO - Location: [32mOklahoma[0m, Day: [35m1[0m, Check digits: [36m175839[0m
+2024-05-08 08:18:32,725 - INFO - Location: [32mOklahoma[0m, Day: [35m0[0m, Check digits: [36m937242[0m
+2024-05-08 08:18:40,033 - INFO - Location: [32mOklahoma[0m, Day: [35m1[0m, Check digits: [36m243995[0m
+2024-05-08 08:18:46,234 - INFO - Location: [32mOklahoma[0m, Day: [35m2[0m, Check digits: [36m666333[0m
+2024-05-08 08:19:55,058 - INFO - Location: [32mMichigan[0m, Day: [35m0[0m, Check digits: [36m141421[0m
+2024-05-08 08:20:56,863 - INFO - Location: [32mKMCI[0m, Day: [35m0[0m, Check digits: [36m251803[0m
+2024-05-08 08:21:02,571 - INFO - Location: [32mMichigan[0m, Day: [35m1[0m, Check digits: [36m525061[0m
+2024-05-08 08:21:08,779 - INFO - Location: [32mKMCI[0m, Day: [35m1[0m, Check digits: [36m186397[0m
+2024-05-08 08:21:14,992 - INFO - Location: [32mKMCI[0m, Day: [35m2[0m, Check digits: [36m430024[0m
+2024-05-08 08:21:21,363 - INFO - Location: [32mflorida[0m, Day: [35m0[0m, Check digits: [36m507564[0m
+2024-05-08 08:21:35,605 - INFO - Location: [32mDMO[0m, Day: [35m0[0m, Check digits: [36m701167[0m
+2024-05-08 08:21:48,623 - INFO - Location: [32mSFO[0m, Day: [35m0[0m, Check digits: [36m869204[0m
+2024-05-08 08:22:00,657 - INFO - Location: [32mKSFO[0m, Day: [35m0[0m, Check digits: [36m128118[0m
+2024-05-08 08:22:11,884 - INFO - Location: [32mLAX[0m, Day: [35m0[0m, Check digits: [36m845777[0m
+2024-05-08 08:22:26,670 - INFO - Location: [32mSedalia,Mo[0m, Day: [35m0[0m, Check digits: [36m304706[0m
+2024-05-08 08:22:44,201 - INFO - Location: [32mWarsaw, MO[0m, Day: [35m0[0m, Check digits: [36m162609[0m
+2024-05-08 08:23:00,610 - INFO - Location: [32mTruman Dam[0m, Day: [35m0[0m, Check digits: [36m629524[0m
+2024-05-08 08:23:16,020 - INFO - Location: [32mSedalia, MO[0m, Day: [35m0[0m, Check digits: [36m773744[0m
+2024-05-08 08:23:45,994 - INFO - Location: [32mgreece[0m, Day: [35m0[0m, Check digits: [36m624218[0m
+2024-05-08 08:24:03,081 - INFO - Location: [32mgreece[0m, Day: [35m1[0m, Check digits: [36m170432[0m
+2024-05-08 08:24:17,920 - INFO - Location: [32mSedalia[0m, Day: [35m0[0m, Check digits: [36m517750[0m
+2024-05-08 08:24:23,366 - INFO - Location: [32mgreece[0m, Day: [35m2[0m, Check digits: [36m913161[0m
+2024-05-08 08:24:35,950 - INFO - Location: [32mGeorgia[0m, Day: [35m0[0m, Check digits: [36m562993[0m
+2024-05-08 08:24:44,406 - INFO - Location: [32mWarsaw[0m, Day: [35m0[0m, Check digits: [36m523832[0m
+2024-05-08 08:25:01,309 - INFO - Location: [32mWarsaw MO[0m, Day: [35m0[0m, Check digits: [36m403406[0m
+2024-05-08 08:25:26,864 - INFO - Location: [32mKSTS[0m, Day: [35m0[0m, Check digits: [36m886778[0m
+2024-05-08 08:26:07,090 - INFO - Location: [32m~Truman Dam[0m, Day: [35m0[0m, Check digits: [36m867596[0m
+2024-05-08 08:27:07,694 - INFO - Location: [32mgeoriga[0m, Day: [35m0[0m, Check digits: [36m317783[0m
+2024-05-08 08:27:24,629 - INFO - Location: [32mGeorgia[0m, Day: [35m0[0m, Check digits: [36m267147[0m
+2024-05-08 08:27:34,059 - INFO - Location: [32mGeorgia[0m, Day: [35m1[0m, Check digits: [36m621466[0m
+2024-05-08 08:27:40,276 - INFO - Location: [32mmarana[0m, Day: [35m0[0m, Check digits: [36m407544[0m
+2024-05-08 08:28:15,503 - INFO - Location: [32mmarana[0m, Day: [35m1[0m, Check digits: [36m495197[0m
+2024-05-08 08:28:29,320 - INFO - Location: [32mmarana[0m, Day: [35m1[0m, Check digits: [36m180019[0m
+2024-05-08 08:29:45,221 - INFO - Location: [32mnew hartford, new york[0m, Day: [35m0[0m, Check digits: [36m870835[0m
+2024-05-08 08:31:26,387 - INFO - Location: [32mTampa[0m, Day: [35m0[0m, Check digits: [36m238380[0m
+2024-05-08 08:31:45,144 - INFO - Location: [32mOrlando[0m, Day: [35m0[0m, Check digits: [36m922031[0m
+2024-05-08 08:31:50,771 - INFO - Location: [32mOrlando[0m, Day: [35m1[0m, Check digits: [36m343982[0m
+2024-05-08 08:31:58,160 - INFO - Location: [32mOrlando[0m, Day: [35m0[0m, Check digits: [36m721671[0m
+2024-05-08 08:37:29,277 - INFO - Location: [32mPunta gorda[0m, Day: [35m0[0m, Check digits: [36m377599[0m
+2024-05-08 08:37:34,883 - INFO - Location: [32mwashington[0m, Day: [35m0[0m, Check digits: [36m777900[0m
+2024-05-08 08:38:29,863 - INFO - Location: [32mLa habra[0m, Day: [35m0[0m, Check digits: [36m541199[0m
+2024-05-08 08:38:39,838 - INFO - Location: [32moshawa[0m, Day: [35m0[0m, Check digits: [36m408560[0m
+2024-05-08 08:38:46,160 - INFO - Location: [32mLa habra[0m, Day: [35m0[0m, Check digits: [36m335666[0m
+2024-05-08 08:38:51,444 - INFO - Location: [32moshawa[0m, Day: [35m1[0m, Check digits: [36m441997[0m
+2024-05-08 08:38:59,772 - INFO - Location: [32moshawa[0m, Day: [35m0[0m, Check digits: [36m606247[0m
+2024-05-08 08:39:05,127 - INFO - Location: [32mMinnesota[0m, Day: [35m0[0m, Check digits: [36m648496[0m
+2024-05-08 08:39:11,625 - INFO - Location: [32mwashington[0m, Day: [35m1[0m, Check digits: [36m912300[0m
+2024-05-08 08:39:17,840 - INFO - Location: [32mMinnesota[0m, Day: [35m1[0m, Check digits: [36m933049[0m
+2024-05-08 08:39:24,050 - INFO - Location: [32mamerica[0m, Day: [35m0[0m, Check digits: [36m488427[0m
+2024-05-08 08:39:29,424 - INFO - Location: [32mOrange County[0m, Day: [35m0[0m, Check digits: [36m915109[0m
+2024-05-08 08:39:34,657 - INFO - Location: [32mparis[0m, Day: [35m0[0m, Check digits: [36m617660[0m
+2024-05-08 08:39:40,076 - INFO - Location: [32mvancover[0m, Day: [35m0[0m, Check digits: [36m943543[0m
+2024-05-08 08:39:45,361 - INFO - Location: [32mkhobar[0m, Day: [35m0[0m, Check digits: [36m122144[0m
+2024-05-08 08:39:46,609 - WARNING - [31mencoding failed[0m for Al `Aqrabiyah, defaulting to "khobar" (request location)
+2024-05-08 08:39:50,674 - INFO - Location: [32mparis[0m, Day: [35m0[0m, Check digits: [36m892175[0m
+2024-05-08 08:39:56,894 - INFO - Location: [32mkhobar[0m, Day: [35m1[0m, Check digits: [36m101949[0m
+2024-05-08 08:39:58,033 - WARNING - [31mencoding failed[0m for Al `Aqrabiyah, defaulting to "khobar" (request location)
+2024-05-08 08:40:03,116 - INFO - Location: [32mparis[0m, Day: [35m0[0m, Check digits: [36m482344[0m
+2024-05-08 08:40:10,562 - INFO - Location: [32mmontana[0m, Day: [35m0[0m, Check digits: [36m157676[0m
+2024-05-08 08:40:18,182 - INFO - Location: [32mparis[0m, Day: [35m1[0m, Check digits: [36m184064[0m
+2024-05-08 08:40:26,522 - INFO - Location: [32mwalnut street[0m, Day: [35m0[0m, Check digits: [36m770526[0m
+2024-05-08 08:40:32,005 - INFO - Location: [32mwashington[0m, Day: [35m0[0m, Check digits: [36m155950[0m
+2024-05-08 08:40:46,799 - INFO - Location: [32mwashington[0m, Day: [35m0[0m, Check digits: [36m539249[0m
+2024-05-08 08:41:13,310 - INFO - Location: [32mamerica[0m, Day: [35m0[0m, Check digits: [36m892416[0m
+2024-05-08 08:41:20,630 - INFO - Location: [32mamerica[0m, Day: [35m1[0m, Check digits: [36m424943[0m
+2024-05-08 08:41:38,637 - INFO - Location: [32musa[0m, Day: [35m0[0m, Check digits: [36m315311[0m
+2024-05-08 08:44:46,794 - INFO - Location: [32mCalifornia[0m, Day: [35m0[0m, Check digits: [36m208585[0m
+2024-05-08 08:47:19,237 - INFO - Location: [32mAtlanta[0m, Day: [35m0[0m, Check digits: [36m982944[0m
+2024-05-08 08:47:29,186 - INFO - Location: [32mAtlanta[0m, Day: [35m1[0m, Check digits: [36m363923[0m
+2024-05-08 08:47:35,444 - INFO - Location: [32mPlatteville[0m, Day: [35m0[0m, Check digits: [36m581032[0m
+2024-05-08 08:47:40,721 - INFO - Location: [32mAtlanta[0m, Day: [35m2[0m, Check digits: [36m604471[0m
+2024-05-08 08:47:46,925 - INFO - Location: [32mPlatteville[0m, Day: [35m1[0m, Check digits: [36m434936[0m
+2024-05-08 08:48:00,703 - INFO - Location: [32mAtlanta[0m, Day: [35m3[0m, Check digits: [36m988048[0m
+2024-05-08 08:48:31,317 - INFO - Location: [32mPlatteville[0m, Day: [35m2[0m, Check digits: [36m604034[0m
+2024-05-08 08:49:26,304 - INFO - Location: [32mfillmore[0m, Day: [35m0[0m, Check digits: [36m148216[0m
+2024-05-08 08:49:44,485 - INFO - Location: [32mfillmore[0m, Day: [35m1[0m, Check digits: [36m803841[0m
+2024-05-08 08:49:50,819 - INFO - Location: [32mfillmore[0m, Day: [35m2[0m, Check digits: [36m282618[0m
+2024-05-08 08:51:52,345 - INFO - Location: [32mNew Mexico[0m, Day: [35m0[0m, Check digits: [36m545694[0m
+2024-05-08 08:52:08,428 - INFO - Location: [32mNew Mexico[0m, Day: [35m1[0m, Check digits: [36m138560[0m
+2024-05-08 08:54:46,798 - INFO - Location: [32mamerica[0m, Day: [35m0[0m, Check digits: [36m994255[0m
+2024-05-08 08:55:07,143 - INFO - Location: [32mwausau wisconson[0m, Day: [35m0[0m, Check digits: [36m182518[0m
+2024-05-08 08:55:39,901 - INFO - Location: [32mwausau wisconson[0m, Day: [35m1[0m, Check digits: [36m693019[0m
+2024-05-08 08:57:04,529 - INFO - Location: [32mrochester[0m, Day: [35m0[0m, Check digits: [36m548087[0m
+2024-05-08 08:57:39,490 - INFO - Location: [32mrochester[0m, Day: [35m1[0m, Check digits: [36m205960[0m
+2024-05-08 08:57:59,561 - INFO - Location: [32mBradford[0m, Day: [35m0[0m, Check digits: [36m936023[0m
+2024-05-08 08:58:07,042 - INFO - Location: [32mBradford[0m, Day: [35m1[0m, Check digits: [36m243695[0m
+2024-05-08 08:58:40,719 - INFO - Location: [32marizona[0m, Day: [35m0[0m, Check digits: [36m804442[0m
+2024-05-08 08:58:46,202 - INFO - Location: [32mAmerica[0m, Day: [35m0[0m, Check digits: [36m932963[0m
+2024-05-08 08:58:51,443 - INFO - Location: [32marizona[0m, Day: [35m1[0m, Check digits: [36m560865[0m
+2024-05-08 09:00:38,262 - INFO - Location: [32mCork[0m, Day: [35m0[0m, Check digits: [36m412961[0m
+2024-05-08 09:00:50,891 - INFO - Location: [32mLakeland[0m, Day: [35m0[0m, Check digits: [36m998563[0m
+2024-05-08 09:01:06,527 - INFO - Location: [32mLakeland[0m, Day: [35m1[0m, Check digits: [36m953111[0m
+2024-05-08 09:01:20,674 - INFO - Location: [32mDubai[0m, Day: [35m0[0m, Check digits: [36m158078[0m
+2024-05-08 09:01:27,362 - INFO - Location: [32mCork[0m, Day: [35m1[0m, Check digits: [36m183974[0m
+2024-05-08 09:01:36,495 - INFO - Location: [32mDubai[0m, Day: [35m0[0m, Check digits: [36m686184[0m
+2024-05-08 09:01:42,948 - INFO - Location: [32mCork[0m, Day: [35m2[0m, Check digits: [36m527280[0m
+2024-05-08 09:01:50,466 - INFO - Location: [32mCork[0m, Day: [35m2[0m, Check digits: [36m796480[0m
+2024-05-08 09:01:57,766 - INFO - Location: [32mmidland michigan [0m, Day: [35m0[0m, Check digits: [36m622296[0m
+2024-05-08 09:02:04,372 - INFO - Location: [32mCork[0m, Day: [35m3[0m, Check digits: [36m303851[0m
+2024-05-08 09:02:40,908 - INFO - Location: [32mLogansport[0m, Day: [35m0[0m, Check digits: [36m314529[0m
+2024-05-08 09:02:46,901 - INFO - Location: [32mrutland[0m, Day: [35m0[0m, Check digits: [36m190003[0m
+2024-05-08 09:02:56,408 - INFO - Location: [32mLogansport[0m, Day: [35m0[0m, Check digits: [36m123582[0m
+2024-05-08 09:03:09,268 - INFO - Location: [32mLogansport[0m, Day: [35m1[0m, Check digits: [36m119797[0m
+2024-05-08 09:03:22,153 - INFO - Location: [32mGary[0m, Day: [35m0[0m, Check digits: [36m409474[0m
+2024-05-08 09:03:38,230 - INFO - Location: [32mGary[0m, Day: [35m0[0m, Check digits: [36m411520[0m
+2024-05-08 09:03:43,404 - INFO - Location: [32mrutland[0m, Day: [35m1[0m, Check digits: [36m681200[0m
+2024-05-08 09:04:00,179 - INFO - Location: [32mrutland[0m, Day: [35m0[0m, Check digits: [36m118715[0m
+2024-05-08 09:04:21,411 - INFO - Location: [32mJapan[0m, Day: [35m0[0m, Check digits: [36m184222[0m
+2024-05-08 09:04:26,921 - INFO - Location: [32mrutland Massachusetts[0m, Day: [35m0[0m, Check digits: [36m871734[0m
+2024-05-08 09:04:40,975 - INFO - Location: [32mnew york[0m, Day: [35m0[0m, Check digits: [36m501916[0m
+2024-05-08 09:04:58,020 - INFO - Location: [32mnew York city[0m, Day: [35m0[0m, Check digits: [36m382067[0m
+2024-05-08 09:05:48,120 - INFO - Location: [32mSAN FRANSISCO[0m, Day: [35m0[0m, Check digits: [36m488481[0m
+2024-05-08 09:06:38,975 - INFO - Location: [32mNorth carolina[0m, Day: [35m0[0m, Check digits: [36m753045[0m
+2024-05-08 09:06:46,617 - INFO - Location: [32mNorth carolina[0m, Day: [35m1[0m, Check digits: [36m617988[0m
+2024-05-08 09:06:58,144 - INFO - Location: [32mNorth carolina[0m, Day: [35m0[0m, Check digits: [36m814126[0m
+2024-05-08 09:07:03,363 - INFO - Location: [32mNorth carolina[0m, Day: [35m1[0m, Check digits: [36m233335[0m
+2024-05-08 09:08:41,542 - INFO - Location: [32mcomanche oklahoma[0m, Day: [35m0[0m, Check digits: [36m649658[0m
+2024-05-08 09:09:00,969 - INFO - Location: [32mcomanche oklahoma[0m, Day: [35m1[0m, Check digits: [36m376321[0m
+2024-05-08 09:09:17,806 - INFO - Location: [32mOklahoma city[0m, Day: [35m0[0m, Check digits: [36m222695[0m
+2024-05-08 09:09:23,695 - INFO - Location: [32mGeorgia[0m, Day: [35m0[0m, Check digits: [36m152778[0m
+2024-05-08 09:09:29,485 - INFO - Location: [32mOklahoma city[0m, Day: [35m1[0m, Check digits: [36m487544[0m
+2024-05-08 09:09:38,883 - INFO - Location: [32mGeorgia[0m, Day: [35m0[0m, Check digits: [36m577374[0m
+2024-05-08 09:10:10,545 - INFO - Location: [32muganda[0m, Day: [35m0[0m, Check digits: [36m921005[0m
+2024-05-08 09:10:16,302 - INFO - Location: [32mnew bedford[0m, Day: [35m0[0m, Check digits: [36m739238[0m
+2024-05-08 09:10:22,887 - INFO - Location: [32muganda[0m, Day: [35m1[0m, Check digits: [36m535627[0m
+2024-05-08 09:10:33,341 - INFO - Location: [32muganda[0m, Day: [35m0[0m, Check digits: [36m846159[0m
+2024-05-08 09:10:40,388 - INFO - Location: [32muganda[0m, Day: [35m0[0m, Check digits: [36m616090[0m
+2024-05-08 09:10:47,751 - INFO - Location: [32muh[0m, Day: [35m0[0m, Check digits: [36m403897[0m
+2024-05-08 09:11:04,651 - INFO - Location: [32mnorth carolina[0m, Day: [35m0[0m, Check digits: [36m280315[0m
+2024-05-08 09:11:10,076 - INFO - Location: [32mamerica[0m, Day: [35m0[0m, Check digits: [36m788224[0m
+2024-05-08 09:11:58,363 - INFO - Location: [32mGahanna[0m, Day: [35m0[0m, Check digits: [36m561204[0m
+2024-05-08 09:12:09,128 - INFO - Location: [32mGahanna[0m, Day: [35m1[0m, Check digits: [36m875080[0m
+2024-05-08 09:12:49,165 - INFO - Location: [32mCharlotte[0m, Day: [35m0[0m, Check digits: [36m824621[0m
+2024-05-08 09:13:12,564 - INFO - Location: [32mCharlotte[0m, Day: [35m1[0m, Check digits: [36m571581[0m
+2024-05-08 09:13:19,024 - INFO - Location: [32mCharlotte[0m, Day: [35m0[0m, Check digits: [36m231147[0m
+2024-05-08 09:13:24,442 - INFO - Location: [32mCharlotte[0m, Day: [35m0[0m, Check digits: [36m609419[0m
+2024-05-08 09:13:29,629 - INFO - Location: [32mCharlotte[0m, Day: [35m1[0m, Check digits: [36m537996[0m
+2024-05-08 09:13:51,714 - INFO - Location: [32mCharlotte[0m, Day: [35m2[0m, Check digits: [36m634436[0m
+2024-05-08 09:14:08,667 - INFO - Location: [32mCharlotte[0m, Day: [35m3[0m, Check digits: [36m284464[0m
+2024-05-08 09:14:58,489 - INFO - Location: [32mCharlotte[0m, Day: [35m3[0m, Check digits: [36m713936[0m
+2024-05-08 09:15:59,026 - INFO - Location: [32mPittsburgh[0m, Day: [35m0[0m, Check digits: [36m768445[0m
+2024-05-08 09:18:03,054 - INFO - Location: [32mYour mom[0m, Day: [35m0[0m, Check digits: [36m377639[0m
+2024-05-08 09:18:17,204 - INFO - Location: [32mYour mom[0m, Day: [35m0[0m, Check digits: [36m121124[0m
+2024-05-08 09:18:22,380 - INFO - Location: [32mYour mom[0m, Day: [35m1[0m, Check digits: [36m318115[0m
+2024-05-08 09:18:50,775 - INFO - Location: [32msan franciso[0m, Day: [35m0[0m, Check digits: [36m215037[0m
+2024-05-08 09:21:38,278 - INFO - Location: [32mVirginia beach[0m, Day: [35m0[0m, Check digits: [36m173670[0m
+2024-05-08 09:21:46,845 - INFO - Location: [32mVirginia beach[0m, Day: [35m1[0m, Check digits: [36m276860[0m
+2024-05-08 09:23:40,017 - INFO - Location: [32mMassachusetts[0m, Day: [35m0[0m, Check digits: [36m138480[0m
+2024-05-08 09:24:28,996 - INFO - Location: [32mParis[0m, Day: [35m0[0m, Check digits: [36m113306[0m
+2024-05-08 09:24:40,844 - INFO - Location: [32mParis[0m, Day: [35m1[0m, Check digits: [36m496160[0m
+2024-05-08 09:24:47,057 - INFO - Location: [32mMassachusetts[0m, Day: [35m1[0m, Check digits: [36m652980[0m
+2024-05-08 09:26:11,495 - INFO - Location: [32mNaperville[0m, Day: [35m0[0m, Check digits: [36m490387[0m
+2024-05-08 09:26:27,484 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m692382[0m
+2024-05-08 09:26:41,227 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m188000[0m
+2024-05-08 09:26:48,641 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m120663[0m
+2024-05-08 09:27:18,309 - INFO - Location: [32mMissouri[0m, Day: [35m0[0m, Check digits: [36m561395[0m
+2024-05-08 09:27:29,133 - INFO - Location: [32mMissouri[0m, Day: [35m0[0m, Check digits: [36m713732[0m
+2024-05-08 09:27:34,416 - INFO - Location: [32mMissouri[0m, Day: [35m0[0m, Check digits: [36m957991[0m
+2024-05-08 09:27:48,156 - INFO - Location: [32mMissouri[0m, Day: [35m0[0m, Check digits: [36m659051[0m
+2024-05-08 09:27:54,417 - INFO - Location: [32mMissouri[0m, Day: [35m1[0m, Check digits: [36m636498[0m
+2024-05-08 09:28:30,355 - INFO - Location: [32mMissouri[0m, Day: [35m0[0m, Check digits: [36m188468[0m
+2024-05-08 09:28:37,826 - INFO - Location: [32mRussia[0m, Day: [35m0[0m, Check digits: [36m944964[0m
+2024-05-08 09:28:43,111 - INFO - Location: [32mgeogria[0m, Day: [35m0[0m, Check digits: [36m618039[0m
+2024-05-08 09:28:53,765 - INFO - Location: [32mRussia[0m, Day: [35m1[0m, Check digits: [36m372258[0m
+2024-05-08 09:29:01,037 - INFO - Location: [32mgeogria[0m, Day: [35m1[0m, Check digits: [36m551381[0m
+2024-05-08 09:29:15,845 - INFO - Location: [32malatna[0m, Day: [35m0[0m, Check digits: [36m809896[0m
+2024-05-08 09:29:21,292 - INFO - Location: [32malatna[0m, Day: [35m1[0m, Check digits: [36m530945[0m
+2024-05-08 09:29:28,714 - INFO - Location: [32mSt Helens[0m, Day: [35m0[0m, Check digits: [36m503993[0m
+2024-05-08 09:29:43,642 - INFO - Location: [32mUlyanovsk[0m, Day: [35m0[0m, Check digits: [36m310568[0m
+2024-05-08 09:29:44,942 - WARNING - [31mencoding failed[0m for Ульяновск, defaulting to "Ulyanovsk" (request location)
+2024-05-08 09:30:20,703 - INFO - Location: [32mSt Helens[0m, Day: [35m1[0m, Check digits: [36m689928[0m
+2024-05-08 09:30:30,858 - INFO - Location: [32mUlyanovsk[0m, Day: [35m1[0m, Check digits: [36m378366[0m
+2024-05-08 09:30:32,847 - WARNING - [31mencoding failed[0m for Ульяновск, defaulting to "Ulyanovsk" (request location)
+2024-05-08 09:30:41,098 - INFO - Location: [32mSt Helens[0m, Day: [35m2[0m, Check digits: [36m127848[0m
+2024-05-08 09:30:58,139 - INFO - Location: [32mUlyanovsk[0m, Day: [35m2[0m, Check digits: [36m589358[0m
+2024-05-08 09:30:59,683 - WARNING - [31mencoding failed[0m for Ульяновск, defaulting to "Ulyanovsk" (request location)
+2024-05-08 09:31:08,092 - INFO - Location: [32mBeaverton[0m, Day: [35m0[0m, Check digits: [36m636539[0m
+2024-05-08 09:31:14,598 - INFO - Location: [32mUlyanovsk[0m, Day: [35m3[0m, Check digits: [36m780560[0m
+2024-05-08 09:31:15,741 - WARNING - [31mencoding failed[0m for Ульяновск, defaulting to "Ulyanovsk" (request location)
+2024-05-08 09:32:17,935 - INFO - Location: [32mUlyanovsk[0m, Day: [35m0[0m, Check digits: [36m856408[0m
+2024-05-08 09:32:19,045 - WARNING - [31mencoding failed[0m for Ульяновск, defaulting to "Ulyanovsk" (request location)
+2024-05-08 09:32:29,589 - INFO - Location: [32mUlyanovsk[0m, Day: [35m1[0m, Check digits: [36m809995[0m
+2024-05-08 09:32:30,753 - WARNING - [31mencoding failed[0m for Ульяновск, defaulting to "Ulyanovsk" (request location)
+2024-05-08 09:32:48,505 - INFO - Location: [32mBeaverton[0m, Day: [35m1[0m, Check digits: [36m987815[0m
+2024-05-08 09:32:54,866 - INFO - Location: [32mBeaverton[0m, Day: [35m1[0m, Check digits: [36m326024[0m
+2024-05-08 09:33:13,790 - INFO - Location: [32mLodi[0m, Day: [35m0[0m, Check digits: [36m691167[0m
+2024-05-08 09:33:25,591 - INFO - Location: [32mLodi[0m, Day: [35m1[0m, Check digits: [36m181252[0m
+2024-05-08 09:33:42,484 - INFO - Location: [32mAmerica[0m, Day: [35m0[0m, Check digits: [36m615434[0m
+2024-05-08 09:37:26,590 - INFO - Location: [32mnew jersey[0m, Day: [35m0[0m, Check digits: [36m904566[0m
+2024-05-08 09:37:33,260 - INFO - Location: [32mnew jersey[0m, Day: [35m1[0m, Check digits: [36m485787[0m
+2024-05-08 09:41:49,067 - INFO - Location: [32mmilwaukee[0m, Day: [35m0[0m, Check digits: [36m585558[0m
+2024-05-08 09:43:27,618 - INFO - Location: [32mFarber[0m, Day: [35m0[0m, Check digits: [36m638789[0m
+2024-05-08 09:43:50,026 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m151774[0m
+2024-05-08 09:43:57,371 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m978238[0m
+2024-05-08 09:44:03,730 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m183433[0m
+2024-05-08 09:44:13,140 - INFO - Location: [32mVandalia [0m, Day: [35m0[0m, Check digits: [36m444386[0m
+2024-05-08 09:44:18,593 - INFO - Location: [32mBoca Raton[0m, Day: [35m0[0m, Check digits: [36m898356[0m
+2024-05-08 09:44:30,204 - INFO - Location: [32mVandalia [0m, Day: [35m0[0m, Check digits: [36m505472[0m
+2024-05-08 09:44:57,751 - INFO - Location: [32mVandalia [0m, Day: [35m1[0m, Check digits: [36m659376[0m
+2024-05-08 09:45:12,493 - INFO - Location: [32mVandalia [0m, Day: [35m1[0m, Check digits: [36m110303[0m
+2024-05-08 09:53:09,333 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m631230[0m
+2024-05-08 09:53:42,153 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m709660[0m
+2024-05-08 09:54:07,610 - INFO - Location: [32mCincinati[0m, Day: [35m0[0m, Check digits: [36m466863[0m
+2024-05-08 09:54:39,412 - INFO - Location: [32mLiverpool [0m, Day: [35m0[0m, Check digits: [36m128813[0m
+2024-05-08 10:01:02,093 - INFO - Location: [32mAttica[0m, Day: [35m0[0m, Check digits: [36m541576[0m
+2024-05-08 10:01:09,776 - INFO - Location: [32mCOLORADO[0m, Day: [35m0[0m, Check digits: [36m219395[0m
+2024-05-08 10:01:15,940 - INFO - Location: [32mAttica[0m, Day: [35m1[0m, Check digits: [36m747026[0m
+2024-05-08 10:01:56,188 - INFO - Location: [32m Accokeek Maryland[0m, Day: [35m0[0m, Check digits: [36m591360[0m
+2024-05-08 10:02:08,376 - INFO - Location: [32m Accokeek Maryland[0m, Day: [35m1[0m, Check digits: [36m270586[0m
+2024-05-08 10:02:41,153 - INFO - Location: [32mAccokeek Academy[0m, Day: [35m0[0m, Check digits: [36m182826[0m
+2024-05-08 10:03:11,166 - INFO - Location: [32mnew york[0m, Day: [35m0[0m, Check digits: [36m470247[0m
+2024-05-08 10:03:19,963 - INFO - Location: [32mSt. Louis[0m, Day: [35m0[0m, Check digits: [36m371643[0m
+2024-05-08 10:03:26,526 - INFO - Location: [32mJFK[0m, Day: [35m0[0m, Check digits: [36m885716[0m
+2024-05-08 10:03:40,570 - INFO - Location: [32mJFK[0m, Day: [35m1[0m, Check digits: [36m761975[0m
+2024-05-08 10:05:02,084 - INFO - Location: [32mMaryland[0m, Day: [35m0[0m, Check digits: [36m489085[0m
+2024-05-08 10:05:10,605 - INFO - Location: [32mMaryland[0m, Day: [35m1[0m, Check digits: [36m456260[0m
+2024-05-08 10:06:05,604 - INFO - Location: [32mAmsterdam ny[0m, Day: [35m0[0m, Check digits: [36m348886[0m
+2024-05-08 10:06:25,668 - INFO - Location: [32mAmsterdam ny[0m, Day: [35m1[0m, Check digits: [36m240911[0m
+2024-05-08 10:07:30,989 - INFO - Location: [32mnorwich[0m, Day: [35m0[0m, Check digits: [36m726426[0m
+2024-05-08 10:08:34,305 - INFO - Location: [32mSacramento [0m, Day: [35m0[0m, Check digits: [36m822850[0m
+2024-05-08 10:08:41,838 - INFO - Location: [32mSacramento [0m, Day: [35m1[0m, Check digits: [36m700872[0m
+2024-05-08 10:08:48,055 - INFO - Location: [32mSacramento [0m, Day: [35m0[0m, Check digits: [36m572038[0m
+2024-05-08 10:09:33,514 - INFO - Location: [32mSaint Peterburg[0m, Day: [35m0[0m, Check digits: [36m319262[0m
+2024-05-08 10:09:34,695 - WARNING - [31mencoding failed[0m for Санкт-Петербург, defaulting to "Saint Peterburg" (request location)
+2024-05-08 10:09:39,977 - INFO - Location: [32mSaint Peterburg[0m, Day: [35m1[0m, Check digits: [36m896527[0m
+2024-05-08 10:09:41,120 - WARNING - [31mencoding failed[0m for Санкт-Петербург, defaulting to "Saint Peterburg" (request location)
+2024-05-08 10:09:52,535 - INFO - Location: [32mZaragoza[0m, Day: [35m0[0m, Check digits: [36m160829[0m
+2024-05-08 10:10:47,602 - INFO - Location: [32msouth africa[0m, Day: [35m0[0m, Check digits: [36m125100[0m
+2024-05-08 10:10:59,335 - INFO - Location: [32msouth africa[0m, Day: [35m1[0m, Check digits: [36m585034[0m
+2024-05-08 10:11:07,667 - INFO - Location: [32mZaragoza[0m, Day: [35m1[0m, Check digits: [36m653135[0m
+2024-05-08 10:11:14,888 - INFO - Location: [32mZaragoza[0m, Day: [35m2[0m, Check digits: [36m345085[0m
+2024-05-08 10:11:28,497 - INFO - Location: [32msouth africa[0m, Day: [35m0[0m, Check digits: [36m661406[0m
+2024-05-08 10:12:47,722 - INFO - Location: [32mJohnson City[0m, Day: [35m0[0m, Check digits: [36m372789[0m
+2024-05-08 10:14:21,205 - INFO - Location: [32mMaryland[0m, Day: [35m0[0m, Check digits: [36m361127[0m
+2024-05-08 10:14:31,857 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m761099[0m
+2024-05-08 10:14:49,791 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m563768[0m
+2024-05-08 10:14:56,156 - INFO - Location: [32mMaryland[0m, Day: [35m0[0m, Check digits: [36m302930[0m
+2024-05-08 10:15:07,765 - INFO - Location: [32mgreat britain[0m, Day: [35m0[0m, Check digits: [36m936989[0m
+2024-05-08 10:16:08,132 - INFO - Location: [32mgreat britain[0m, Day: [35m1[0m, Check digits: [36m563948[0m
+2024-05-08 10:17:25,320 - INFO - Location: [32mIndianapolis [0m, Day: [35m0[0m, Check digits: [36m525264[0m
+2024-05-08 10:17:42,409 - INFO - Location: [32mIndianapolis [0m, Day: [35m0[0m, Check digits: [36m707437[0m
+2024-05-08 10:18:05,648 - INFO - Location: [32mIndiana[0m, Day: [35m0[0m, Check digits: [36m566903[0m
+2024-05-08 10:18:23,792 - INFO - Location: [32mIndiana[0m, Day: [35m0[0m, Check digits: [36m377722[0m
+2024-05-08 10:20:24,205 - INFO - Location: [32mDallas[0m, Day: [35m0[0m, Check digits: [36m844312[0m
+2024-05-08 10:20:31,779 - INFO - Location: [32mDallas[0m, Day: [35m1[0m, Check digits: [36m275014[0m
+2024-05-08 10:23:30,469 - INFO - Location: [32mGrimsby[0m, Day: [35m0[0m, Check digits: [36m867041[0m
+2024-05-08 10:23:46,598 - INFO - Location: [32mGrimsby[0m, Day: [35m0[0m, Check digits: [36m942782[0m
+2024-05-08 10:24:51,091 - INFO - Location: [32mbeckley[0m, Day: [35m0[0m, Check digits: [36m482654[0m
+2024-05-08 10:25:31,539 - INFO - Location: [32mgrand island[0m, Day: [35m0[0m, Check digits: [36m210740[0m
+2024-05-08 10:25:43,429 - INFO - Location: [32mgrand island[0m, Day: [35m1[0m, Check digits: [36m155884[0m
+2024-05-08 10:25:51,762 - INFO - Location: [32mgrand island[0m, Day: [35m0[0m, Check digits: [36m521356[0m
+2024-05-08 10:25:58,062 - INFO - Location: [32mgrand island[0m, Day: [35m0[0m, Check digits: [36m424212[0m
+2024-05-08 10:26:26,544 - INFO - Location: [32mamerica[0m, Day: [35m0[0m, Check digits: [36m902588[0m
+2024-05-08 10:26:39,318 - INFO - Location: [32mafrica[0m, Day: [35m0[0m, Check digits: [36m480806[0m
+2024-05-08 10:26:54,162 - INFO - Location: [32malaska[0m, Day: [35m0[0m, Check digits: [36m672485[0m
+2024-05-08 10:27:20,623 - INFO - Location: [32mok[0m, Day: [35m0[0m, Check digits: [36m152876[0m
+2024-05-08 10:27:48,295 - INFO - Location: [32mok[0m, Day: [35m1[0m, Check digits: [36m433726[0m
+2024-05-08 10:35:00,379 - INFO - Location: [32mOhio[0m, Day: [35m0[0m, Check digits: [36m438491[0m
+2024-05-08 10:35:33,589 - INFO - Location: [32mOhio[0m, Day: [35m0[0m, Check digits: [36m459902[0m
+2024-05-08 10:37:26,720 - INFO - Location: [32mManhasset[0m, Day: [35m0[0m, Check digits: [36m754007[0m
+2024-05-08 10:37:44,938 - INFO - Location: [32mManhasset[0m, Day: [35m1[0m, Check digits: [36m361965[0m
+2024-05-08 10:38:52,445 - INFO - Location: [32mAlabama[0m, Day: [35m0[0m, Check digits: [36m238403[0m
+2024-05-08 10:39:01,130 - INFO - Location: [32mHamilton[0m, Day: [35m0[0m, Check digits: [36m351195[0m
+2024-05-08 10:39:08,636 - INFO - Location: [32mHamilton[0m, Day: [35m1[0m, Check digits: [36m897200[0m
+2024-05-08 10:39:19,133 - INFO - Location: [32mHamilton[0m, Day: [35m0[0m, Check digits: [36m927420[0m
+2024-05-08 10:39:24,327 - INFO - Location: [32mHamilton[0m, Day: [35m0[0m, Check digits: [36m611344[0m
+2024-05-08 10:39:32,871 - INFO - Location: [32mFinland[0m, Day: [35m0[0m, Check digits: [36m612720[0m
+2024-05-08 10:39:38,241 - INFO - Location: [32mChicago[0m, Day: [35m0[0m, Check digits: [36m191880[0m
+2024-05-08 10:39:43,491 - INFO - Location: [32mHamilton Ohio[0m, Day: [35m0[0m, Check digits: [36m299289[0m
+2024-05-08 10:39:59,334 - INFO - Location: [32mhelsinki[0m, Day: [35m0[0m, Check digits: [36m210895[0m
+2024-05-08 10:40:06,978 - INFO - Location: [32mHamilton Ohio[0m, Day: [35m1[0m, Check digits: [36m675630[0m
+2024-05-08 10:40:37,711 - INFO - Location: [32mHamilton Ohio[0m, Day: [35m0[0m, Check digits: [36m563526[0m
+2024-05-08 10:40:44,128 - INFO - Location: [32mHamilton Ohio[0m, Day: [35m0[0m, Check digits: [36m625625[0m
+2024-05-08 10:40:55,674 - INFO - Location: [32mHamilton Ohio[0m, Day: [35m0[0m, Check digits: [36m842901[0m
+2024-05-08 10:41:17,794 - INFO - Location: [32mKerava[0m, Day: [35m0[0m, Check digits: [36m974436[0m
+2024-05-08 10:42:31,089 - INFO - Location: [32mAttica[0m, Day: [35m2[0m, Check digits: [36m749024[0m
+2024-05-08 10:42:38,607 - INFO - Location: [32mChicago[0m, Day: [35m0[0m, Check digits: [36m936156[0m
+2024-05-08 10:43:09,144 - INFO - Location: [32mIsland Lake[0m, Day: [35m0[0m, Check digits: [36m761160[0m
+2024-05-08 10:43:21,254 - INFO - Location: [32mKerava[0m, Day: [35m1[0m, Check digits: [36m627050[0m
+2024-05-08 10:43:33,823 - INFO - Location: [32mIsland Lake[0m, Day: [35m1[0m, Check digits: [36m780156[0m
+2024-05-08 10:44:58,326 - INFO - Location: [32mHouston[0m, Day: [35m0[0m, Check digits: [36m902434[0m
+2024-05-08 10:45:16,474 - INFO - Location: [32mHouston[0m, Day: [35m1[0m, Check digits: [36m135644[0m
+2024-05-08 10:45:22,912 - INFO - Location: [32mCalifornia[0m, Day: [35m0[0m, Check digits: [36m354153[0m
+2024-05-08 10:45:29,373 - INFO - Location: [32mCalifornia[0m, Day: [35m1[0m, Check digits: [36m436296[0m
+2024-05-08 10:49:29,877 - INFO - Location: [32mleesport[0m, Day: [35m0[0m, Check digits: [36m606393[0m
+2024-05-08 10:49:41,943 - INFO - Location: [32mPharr Texas[0m, Day: [35m0[0m, Check digits: [36m879897[0m
+2024-05-08 10:49:52,587 - INFO - Location: [32mPharr Texas[0m, Day: [35m1[0m, Check digits: [36m787507[0m
+2024-05-08 10:50:11,543 - INFO - Location: [32mirati[0m, Day: [35m0[0m, Check digits: [36m894943[0m
+2024-05-08 10:50:34,189 - INFO - Location: [32mleesport[0m, Day: [35m1[0m, Check digits: [36m192578[0m
+2024-05-08 10:50:49,158 - INFO - Location: [32mleesport[0m, Day: [35m1[0m, Check digits: [36m876118[0m
+2024-05-08 10:52:16,879 - INFO - Location: [32mleesport[0m, Day: [35m2[0m, Check digits: [36m368520[0m
+2024-05-08 10:52:23,240 - INFO - Location: [32mVermont[0m, Day: [35m0[0m, Check digits: [36m745601[0m
+2024-05-08 10:52:28,589 - INFO - Location: [32mleesport[0m, Day: [35m3[0m, Check digits: [36m540954[0m
+2024-05-08 10:52:35,864 - INFO - Location: [32mVermont[0m, Day: [35m1[0m, Check digits: [36m315701[0m
+2024-05-08 10:52:43,128 - INFO - Location: [32mVermont[0m, Day: [35m0[0m, Check digits: [36m615096[0m
+2024-05-08 10:52:59,965 - INFO - Location: [32mOhio[0m, Day: [35m0[0m, Check digits: [36m784467[0m
+2024-05-08 10:53:08,690 - INFO - Location: [32mnew york[0m, Day: [35m0[0m, Check digits: [36m587400[0m
+2024-05-08 10:53:15,730 - INFO - Location: [32mDallas[0m, Day: [35m0[0m, Check digits: [36m769271[0m
+2024-05-08 10:53:22,073 - INFO - Location: [32mnew york[0m, Day: [35m0[0m, Check digits: [36m564773[0m
+2024-05-08 10:53:27,276 - INFO - Location: [32mmascow[0m, Day: [35m0[0m, Check digits: [36m903632[0m
+2024-05-08 10:53:36,905 - INFO - Location: [32mmascow[0m, Day: [35m1[0m, Check digits: [36m413146[0m
+2024-05-08 10:54:09,690 - INFO - Location: [32mmoscow[0m, Day: [35m0[0m, Check digits: [36m239228[0m
+2024-05-08 10:54:10,880 - WARNING - [31mencoding failed[0m for Москва, defaulting to "moscow" (request location)
+2024-05-08 10:54:22,653 - INFO - Location: [32mmoscow[0m, Day: [35m1[0m, Check digits: [36m506887[0m
+2024-05-08 10:54:23,794 - WARNING - [31mencoding failed[0m for Москва, defaulting to "moscow" (request location)
+2024-05-08 10:55:00,775 - INFO - Location: [32mpeabiru[0m, Day: [35m0[0m, Check digits: [36m224216[0m
+2024-05-08 10:58:37,607 - INFO - Location: [32mCopenhagen[0m, Day: [35m0[0m, Check digits: [36m832466[0m
+2024-05-08 10:58:52,502 - INFO - Location: [32mCopenhagen[0m, Day: [35m0[0m, Check digits: [36m774897[0m
+2024-05-08 10:59:58,194 - INFO - Location: [32mEvansville,In[0m, Day: [35m0[0m, Check digits: [36m818247[0m
+2024-05-08 11:02:42,372 - INFO - Location: [32mNew York[0m, Day: [35m0[0m, Check digits: [36m320299[0m
+2024-05-08 11:03:07,835 - INFO - Location: [32mTraverse City[0m, Day: [35m0[0m, Check digits: [36m554840[0m
+2024-05-08 11:03:13,078 - INFO - Location: [32mNew York[0m, Day: [35m1[0m, Check digits: [36m185679[0m
+2024-05-08 11:03:22,105 - INFO - Location: [32malabama[0m, Day: [35m0[0m, Check digits: [36m718657[0m
+2024-05-08 11:03:30,575 - INFO - Location: [32malabama[0m, Day: [35m1[0m, Check digits: [36m419496[0m
+2024-05-08 11:03:46,736 - INFO - Location: [32mTraverse City[0m, Day: [35m1[0m, Check digits: [36m896715[0m
+2024-05-08 11:03:53,256 - INFO - Location: [32mTraverse City[0m, Day: [35m1[0m, Check digits: [36m389415[0m
+2024-05-08 11:05:35,694 - INFO - Location: [32mKansas City[0m, Day: [35m0[0m, Check digits: [36m781929[0m
+2024-05-08 11:05:44,225 - INFO - Location: [32mKansas City[0m, Day: [35m1[0m, Check digits: [36m745805[0m
+2024-05-08 11:07:38,933 - INFO - Location: [32mYorktown Heights[0m, Day: [35m0[0m, Check digits: [36m950985[0m
+2024-05-08 11:07:49,692 - INFO - Location: [32mYorktown Heights[0m, Day: [35m1[0m, Check digits: [36m665339[0m
+2024-05-08 11:08:32,534 - INFO - Location: [32mBrampton[0m, Day: [35m0[0m, Check digits: [36m151769[0m
+2024-05-08 11:08:47,485 - INFO - Location: [32mBrampton[0m, Day: [35m0[0m, Check digits: [36m619281[0m
+2024-05-08 11:10:05,466 - INFO - Location: [32msan fransisco[0m, Day: [35m0[0m, Check digits: [36m347907[0m
+2024-05-08 11:10:36,277 - INFO - Location: [32mIllinois[0m, Day: [35m0[0m, Check digits: [36m969688[0m
+2024-05-08 11:10:50,212 - INFO - Location: [32mIllinois[0m, Day: [35m1[0m, Check digits: [36m738261[0m
+2024-05-08 11:11:05,331 - INFO - Location: [32mChigago[0m, Day: [35m0[0m, Check digits: [36m527725[0m
+2024-05-08 11:11:33,028 - INFO - Location: [32mchicago[0m, Day: [35m0[0m, Check digits: [36m188423[0m
+2024-05-08 11:14:16,116 - INFO - Location: [32mcolorado springs[0m, Day: [35m0[0m, Check digits: [36m773074[0m
+2024-05-08 11:14:41,593 - INFO - Location: [32mcolorado springs[0m, Day: [35m1[0m, Check digits: [36m569177[0m
+2024-05-08 11:15:07,888 - INFO - Location: [32mcolorado springs[0m, Day: [35m0[0m, Check digits: [36m750047[0m
+2024-05-08 11:15:13,608 - INFO - Location: [32mcolorado springs[0m, Day: [35m0[0m, Check digits: [36m795548[0m
+2024-05-08 11:15:19,114 - INFO - Location: [32mcolorado springs[0m, Day: [35m0[0m, Check digits: [36m854696[0m
+2024-05-08 11:15:42,592 - INFO - Location: [32mUnited states[0m, Day: [35m0[0m, Check digits: [36m352109[0m
+2024-05-08 11:15:50,399 - INFO - Location: [32mUnited states[0m, Day: [35m1[0m, Check digits: [36m398446[0m
+2024-05-08 11:16:32,596 - INFO - Location: [32mkentucky[0m, Day: [35m0[0m, Check digits: [36m519566[0m
+2024-05-08 11:16:43,385 - INFO - Location: [32mkentucky[0m, Day: [35m1[0m, Check digits: [36m580247[0m
+2024-05-08 11:19:39,936 - INFO - Location: [32mEscondido[0m, Day: [35m0[0m, Check digits: [36m747439[0m
+2024-05-08 11:19:49,745 - INFO - Location: [32mStrathmore Ward[0m, Day: [35m0[0m, Check digits: [36m172049[0m
+2024-05-08 11:20:12,088 - INFO - Location: [32mPerth[0m, Day: [35m0[0m, Check digits: [36m926643[0m
+2024-05-08 11:20:29,089 - INFO - Location: [32mPerth[0m, Day: [35m0[0m, Check digits: [36m987294[0m
+2024-05-08 11:20:49,230 - INFO - Location: [32mVirginia[0m, Day: [35m0[0m, Check digits: [36m384003[0m
+2024-05-08 11:21:08,557 - INFO - Location: [32mViginia[0m, Day: [35m0[0m, Check digits: [36m341880[0m
+2024-05-08 11:21:15,982 - INFO - Location: [32mViginia[0m, Day: [35m1[0m, Check digits: [36m461825[0m
+2024-05-08 11:26:28,204 - INFO - Location: [32mNorth carolina[0m, Day: [35m0[0m, Check digits: [36m743055[0m
+2024-05-08 11:27:19,120 - INFO - Location: [32mNorth carolina[0m, Day: [35m1[0m, Check digits: [36m199231[0m
+2024-05-08 11:27:30,756 - INFO - Location: [32mflint michigan[0m, Day: [35m0[0m, Check digits: [36m717768[0m
+2024-05-08 11:27:36,095 - INFO - Location: [32mNorth carolina[0m, Day: [35m1[0m, Check digits: [36m459203[0m
+2024-05-08 11:27:56,074 - INFO - Location: [32mflint michigan[0m, Day: [35m1[0m, Check digits: [36m848931[0m
+2024-05-08 11:30:42,111 - INFO - Location: [32mnorth carolina[0m, Day: [35m0[0m, Check digits: [36m492839[0m
+2024-05-08 11:30:48,928 - INFO - Location: [32mnorth carolina[0m, Day: [35m1[0m, Check digits: [36m685620[0m
+2024-05-08 11:31:26,874 - INFO - Location: [32mjuneau[0m, Day: [35m0[0m, Check digits: [36m468262[0m
+2024-05-08 11:32:10,437 - INFO - Location: [32mcorpus chrsti[0m, Day: [35m0[0m, Check digits: [36m874482[0m
+2024-05-08 11:32:24,436 - INFO - Location: [32mcorpus christi[0m, Day: [35m0[0m, Check digits: [36m364654[0m
+2024-05-08 11:32:29,700 - INFO - Location: [32mPennsylvania[0m, Day: [35m0[0m, Check digits: [36m282183[0m
+2024-05-08 11:32:39,214 - INFO - Location: [32mcorpus christi[0m, Day: [35m0[0m, Check digits: [36m914391[0m
+2024-05-08 11:32:51,804 - INFO - Location: [32mPennsylvania[0m, Day: [35m1[0m, Check digits: [36m111968[0m
+2024-05-08 11:33:12,959 - INFO - Location: [32mColorado Springs[0m, Day: [35m0[0m, Check digits: [36m507555[0m
+2024-05-08 11:33:23,490 - INFO - Location: [32mColorado Springs[0m, Day: [35m1[0m, Check digits: [36m875316[0m
+2024-05-08 11:33:30,255 - INFO - Location: [32mNorthampton[0m, Day: [35m0[0m, Check digits: [36m508830[0m
+2024-05-08 11:33:36,671 - INFO - Location: [32mColorado Springs[0m, Day: [35m1[0m, Check digits: [36m441866[0m
+2024-05-08 11:34:17,675 - INFO - Location: [32mColorado Springs[0m, Day: [35m0[0m, Check digits: [36m121758[0m
+2024-05-08 11:35:04,231 - INFO - Location: [32mPeyton[0m, Day: [35m0[0m, Check digits: [36m466688[0m
+2024-05-08 11:35:17,146 - INFO - Location: [32mYatusk[0m, Day: [35m0[0m, Check digits: [36m303501[0m
+2024-05-08 11:35:33,101 - INFO - Location: [32mFalcon[0m, Day: [35m0[0m, Check digits: [36m857213[0m
+2024-05-08 11:37:10,365 - INFO - Location: [32miowa[0m, Day: [35m0[0m, Check digits: [36m688410[0m
+2024-05-08 11:38:18,164 - INFO - Location: [32mLatvia[0m, Day: [35m0[0m, Check digits: [36m276689[0m
+2024-05-08 11:38:26,948 - INFO - Location: [32mNew York[0m, Day: [35m0[0m, Check digits: [36m565210[0m
+2024-05-08 11:38:36,790 - INFO - Location: [32mNew York[0m, Day: [35m1[0m, Check digits: [36m835857[0m
+2024-05-08 11:38:51,478 - INFO - Location: [32mSpencerport New York[0m, Day: [35m0[0m, Check digits: [36m256567[0m
+2024-05-08 11:39:03,438 - INFO - Location: [32mLatvia[0m, Day: [35m1[0m, Check digits: [36m150084[0m
+2024-05-08 11:39:23,480 - INFO - Location: [32mOlaine[0m, Day: [35m0[0m, Check digits: [36m693248[0m
+2024-05-08 11:39:34,269 - INFO - Location: [32mRochester[0m, Day: [35m0[0m, Check digits: [36m609999[0m
+2024-05-08 11:40:17,560 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m721117[0m
+2024-05-08 11:40:35,601 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m581605[0m
+2024-05-08 11:42:01,061 - INFO - Location: [32mla[0m, Day: [35m0[0m, Check digits: [36m818143[0m
+2024-05-08 11:42:18,194 - INFO - Location: [32mLos Angels[0m, Day: [35m0[0m, Check digits: [36m447406[0m
+2024-05-08 11:42:31,912 - INFO - Location: [32mLos Angeles[0m, Day: [35m0[0m, Check digits: [36m139379[0m
+2024-05-08 11:42:55,472 - INFO - Location: [32mRochester[0m, Day: [35m0[0m, Check digits: [36m276337[0m
+2024-05-08 11:43:02,777 - INFO - Location: [32mTucson[0m, Day: [35m0[0m, Check digits: [36m514732[0m
+2024-05-08 11:43:30,361 - INFO - Location: [32marizona[0m, Day: [35m0[0m, Check digits: [36m358829[0m
+2024-05-08 11:43:36,271 - INFO - Location: [32marizona[0m, Day: [35m0[0m, Check digits: [36m770255[0m
+2024-05-08 11:44:23,842 - INFO - Location: [32mBel Air[0m, Day: [35m0[0m, Check digits: [36m397653[0m
+2024-05-08 11:44:35,626 - INFO - Location: [32mBel Air[0m, Day: [35m1[0m, Check digits: [36m846853[0m
+2024-05-08 11:47:02,450 - INFO - Location: [32mCross Plains Tennessee[0m, Day: [35m0[0m, Check digits: [36m422107[0m
+2024-05-08 11:47:15,433 - INFO - Location: [32mCross Plains Tennessee[0m, Day: [35m1[0m, Check digits: [36m547666[0m
+2024-05-08 11:52:40,681 - INFO - Location: [32msouth Carlina[0m, Day: [35m0[0m, Check digits: [36m440068[0m
+2024-05-08 11:53:04,229 - INFO - Location: [32mOneonta, Alabama[0m, Day: [35m0[0m, Check digits: [36m973489[0m
+2024-05-08 11:53:37,039 - INFO - Location: [32m~Oneonta, Alabama[0m, Day: [35m0[0m, Check digits: [36m909779[0m
+2024-05-08 11:53:54,144 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m836276[0m
+2024-05-08 11:54:10,022 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m677879[0m
+2024-05-08 11:54:31,201 - INFO - Location: [32mAlabama[0m, Day: [35m0[0m, Check digits: [36m619952[0m
+2024-05-08 11:54:51,289 - INFO - Location: [32mMontgomery[0m, Day: [35m0[0m, Check digits: [36m939328[0m
+2024-05-08 11:55:01,164 - INFO - Location: [32mMontgomery[0m, Day: [35m1[0m, Check digits: [36m933244[0m
+2024-05-08 11:55:21,088 - INFO - Location: [32mMontgomery[0m, Day: [35m0[0m, Check digits: [36m876647[0m
+2024-05-08 11:56:08,737 - INFO - Location: [32mKirkwood[0m, Day: [35m0[0m, Check digits: [36m100599[0m
+2024-05-08 11:56:23,710 - INFO - Location: [32mKirkwood[0m, Day: [35m0[0m, Check digits: [36m899894[0m
+2024-05-08 11:57:38,667 - INFO - Location: [32mHouston[0m, Day: [35m0[0m, Check digits: [36m195665[0m
+2024-05-08 11:57:55,669 - INFO - Location: [32mHouston[0m, Day: [35m1[0m, Check digits: [36m881139[0m
+2024-05-08 11:58:27,249 - INFO - Location: [32mAmerica[0m, Day: [35m0[0m, Check digits: [36m277419[0m
+2024-05-08 12:00:39,510 - INFO - Location: [32mOslo[0m, Day: [35m0[0m, Check digits: [36m717703[0m
+2024-05-08 12:00:55,269 - INFO - Location: [32mOslo[0m, Day: [35m1[0m, Check digits: [36m533946[0m
+2024-05-08 12:05:09,749 - INFO - Location: [32mpea ridge[0m, Day: [35m0[0m, Check digits: [36m217792[0m
+2024-05-08 12:05:24,890 - INFO - Location: [32mPea Ridge[0m, Day: [35m0[0m, Check digits: [36m319454[0m
+2024-05-08 12:06:13,576 - INFO - Location: [32mNew Jersey[0m, Day: [35m0[0m, Check digits: [36m179138[0m
+2024-05-08 12:06:24,371 - INFO - Location: [32mNew York City[0m, Day: [35m0[0m, Check digits: [36m326010[0m
+2024-05-08 12:06:32,080 - INFO - Location: [32mWanaque[0m, Day: [35m0[0m, Check digits: [36m282792[0m
+2024-05-08 12:06:37,482 - INFO - Location: [32mPea Ridge[0m, Day: [35m1[0m, Check digits: [36m312885[0m
+2024-05-08 12:06:59,552 - INFO - Location: [32mhooray[0m, Day: [35m0[0m, Check digits: [36m704034[0m
+2024-05-08 12:07:11,401 - INFO - Location: [32mSeoul[0m, Day: [35m0[0m, Check digits: [36m642412[0m
+2024-05-08 12:07:20,957 - INFO - Location: [32mSeoul[0m, Day: [35m1[0m, Check digits: [36m275801[0m
+2024-05-08 12:08:07,319 - INFO - Location: [32mJosephine Texas[0m, Day: [35m0[0m, Check digits: [36m599408[0m
+2024-05-08 12:08:13,875 - INFO - Location: [32mOrland[0m, Day: [35m0[0m, Check digits: [36m602250[0m
+2024-05-08 12:08:43,500 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m327140[0m
+2024-05-08 12:09:02,666 - INFO - Location: [32mJosephine Texas[0m, Day: [35m1[0m, Check digits: [36m121875[0m
+2024-05-08 12:09:08,886 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m319901[0m
+2024-05-08 12:09:42,559 - INFO - Location: [32mDeSoto[0m, Day: [35m0[0m, Check digits: [36m333676[0m
+2024-05-08 12:09:48,004 - INFO - Location: [32mfredrick marland[0m, Day: [35m0[0m, Check digits: [36m773709[0m
+2024-05-08 12:09:53,586 - INFO - Location: [32mDeSoto[0m, Day: [35m1[0m, Check digits: [36m248801[0m
+2024-05-08 12:09:59,798 - INFO - Location: [32msan fransisco[0m, Day: [35m0[0m, Check digits: [36m485298[0m
+2024-05-08 12:10:07,344 - INFO - Location: [32msan fransisco[0m, Day: [35m1[0m, Check digits: [36m285761[0m
+2024-05-08 12:10:47,470 - INFO - Location: [32mpa[0m, Day: [35m0[0m, Check digits: [36m387998[0m
+2024-05-08 12:13:40,990 - INFO - Location: [32mLouisville[0m, Day: [35m0[0m, Check digits: [36m113729[0m
+2024-05-08 12:13:57,108 - INFO - Location: [32mLouisville[0m, Day: [35m0[0m, Check digits: [36m110011[0m
+2024-05-08 12:14:31,072 - INFO - Location: [32mMiami[0m, Day: [35m0[0m, Check digits: [36m663008[0m
+2024-05-08 12:14:52,426 - INFO - Location: [32mMiami[0m, Day: [35m1[0m, Check digits: [36m132155[0m
+2024-05-08 12:17:09,761 - INFO - Location: [32mJosephine[0m, Day: [35m0[0m, Check digits: [36m339626[0m
+2024-05-08 12:17:25,094 - INFO - Location: [32mSioux Center[0m, Day: [35m0[0m, Check digits: [36m344027[0m
+2024-05-08 12:17:35,839 - INFO - Location: [32mSioux Center[0m, Day: [35m1[0m, Check digits: [36m154769[0m
+2024-05-08 12:17:54,857 - INFO - Location: [32mSanfransico[0m, Day: [35m0[0m, Check digits: [36m461375[0m
+2024-05-08 12:18:03,529 - INFO - Location: [32mSanfransico[0m, Day: [35m1[0m, Check digits: [36m480196[0m
+2024-05-08 12:18:11,185 - INFO - Location: [32mSanfransico[0m, Day: [35m1[0m, Check digits: [36m156420[0m
+2024-05-08 12:18:17,414 - INFO - Location: [32mSanfransico[0m, Day: [35m1[0m, Check digits: [36m533375[0m
+2024-05-08 12:18:39,502 - INFO - Location: [32mlondon[0m, Day: [35m0[0m, Check digits: [36m888889[0m
+2024-05-08 12:19:12,634 - INFO - Location: [32mPortland oregon[0m, Day: [35m0[0m, Check digits: [36m713546[0m
+2024-05-08 12:19:28,628 - INFO - Location: [32mPortland oregon[0m, Day: [35m0[0m, Check digits: [36m566706[0m
+2024-05-08 12:19:57,200 - INFO - Location: [32mOakland[0m, Day: [35m0[0m, Check digits: [36m581945[0m
+2024-05-08 12:20:08,906 - INFO - Location: [32mOakland[0m, Day: [35m1[0m, Check digits: [36m873446[0m
+2024-05-08 12:20:48,074 - INFO - Location: [32mLos Angeles[0m, Day: [35m0[0m, Check digits: [36m239555[0m
+2024-05-08 12:21:07,478 - INFO - Location: [32mLos Angeles[0m, Day: [35m1[0m, Check digits: [36m881594[0m
+2024-05-08 12:21:19,141 - INFO - Location: [32mLos Angeles[0m, Day: [35m2[0m, Check digits: [36m115412[0m
+2024-05-08 12:24:15,511 - INFO - Location: [32mvirginia[0m, Day: [35m0[0m, Check digits: [36m493833[0m
+2024-05-08 12:24:25,560 - INFO - Location: [32mvirginia[0m, Day: [35m1[0m, Check digits: [36m130325[0m
+2024-05-08 12:24:43,399 - INFO - Location: [32mhickory[0m, Day: [35m0[0m, Check digits: [36m188190[0m
+2024-05-08 12:24:48,722 - INFO - Location: [32mvirginia[0m, Day: [35m0[0m, Check digits: [36m446656[0m
+2024-05-08 12:24:58,289 - INFO - Location: [32mhickory[0m, Day: [35m1[0m, Check digits: [36m933496[0m
+2024-05-08 12:25:11,887 - INFO - Location: [32mhickory[0m, Day: [35m1[0m, Check digits: [36m226761[0m
+2024-05-08 12:28:02,760 - INFO - Location: [32mSan fransisco[0m, Day: [35m0[0m, Check digits: [36m160459[0m
+2024-05-08 12:28:26,117 - INFO - Location: [32mSan fransisco[0m, Day: [35m1[0m, Check digits: [36m153080[0m
+2024-05-08 12:29:14,721 - INFO - Location: [32mRio Rancho[0m, Day: [35m0[0m, Check digits: [36m966223[0m
+2024-05-08 12:29:29,772 - INFO - Location: [32mRio Rancho[0m, Day: [35m1[0m, Check digits: [36m457002[0m
+2024-05-08 12:29:49,911 - INFO - Location: [32mRio Rancho[0m, Day: [35m0[0m, Check digits: [36m605685[0m
+2024-05-08 12:30:03,704 - INFO - Location: [32mSan fransisco[0m, Day: [35m2[0m, Check digits: [36m183496[0m
+2024-05-08 12:31:44,205 - INFO - Location: [32moklahoma[0m, Day: [35m0[0m, Check digits: [36m913001[0m
+2024-05-08 12:31:59,208 - INFO - Location: [32mjanesville, WI[0m, Day: [35m0[0m, Check digits: [36m177897[0m
+2024-05-08 12:32:11,989 - INFO - Location: [32mjanesville, WI[0m, Day: [35m1[0m, Check digits: [36m865121[0m
+2024-05-08 12:32:20,486 - INFO - Location: [32moklahoma[0m, Day: [35m1[0m, Check digits: [36m601101[0m
+2024-05-08 12:32:27,968 - INFO - Location: [32mPennsylvania [0m, Day: [35m0[0m, Check digits: [36m233451[0m
+2024-05-08 12:32:39,584 - INFO - Location: [32moklahoma[0m, Day: [35m0[0m, Check digits: [36m125037[0m
+2024-05-08 12:32:44,770 - INFO - Location: [32mPennsylvania [0m, Day: [35m0[0m, Check digits: [36m750519[0m
+2024-05-08 12:32:51,041 - INFO - Location: [32moklahoma[0m, Day: [35m0[0m, Check digits: [36m514398[0m
+2024-05-08 12:32:56,235 - INFO - Location: [32mPennsylvania [0m, Day: [35m1[0m, Check digits: [36m462452[0m
+2024-05-08 12:33:09,953 - INFO - Location: [32malaska[0m, Day: [35m0[0m, Check digits: [36m897321[0m
+2024-05-08 12:33:21,690 - INFO - Location: [32malaska[0m, Day: [35m0[0m, Check digits: [36m417324[0m
+2024-05-08 12:33:37,481 - INFO - Location: [32malaska[0m, Day: [35m0[0m, Check digits: [36m520201[0m
+2024-05-08 12:33:44,950 - INFO - Location: [32malaska[0m, Day: [35m0[0m, Check digits: [36m240751[0m
+2024-05-08 12:34:10,615 - INFO - Location: [32malaska[0m, Day: [35m1[0m, Check digits: [36m742840[0m
+2024-05-08 12:34:20,141 - INFO - Location: [32malaska[0m, Day: [35m2[0m, Check digits: [36m216060[0m
+2024-05-08 12:34:36,941 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m908962[0m
+2024-05-08 12:34:53,795 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m182810[0m
+2024-05-08 12:35:31,864 - INFO - Location: [32mHuntsville[0m, Day: [35m0[0m, Check digits: [36m292858[0m
+2024-05-08 12:35:53,120 - INFO - Location: [32mHuntsville[0m, Day: [35m1[0m, Check digits: [36m490015[0m
+2024-05-08 12:36:13,076 - INFO - Location: [32mChesterfield[0m, Day: [35m0[0m, Check digits: [36m819879[0m
+2024-05-08 12:36:22,790 - INFO - Location: [32mChesterfield[0m, Day: [35m1[0m, Check digits: [36m456584[0m
+2024-05-08 12:36:36,412 - INFO - Location: [32mChesterfield[0m, Day: [35m1[0m, Check digits: [36m280948[0m
+2024-05-08 12:36:45,781 - INFO - Location: [32mHuntsville[0m, Day: [35m0[0m, Check digits: [36m676857[0m
+2024-05-08 12:37:33,399 - INFO - Location: [32mNova Scotia[0m, Day: [35m0[0m, Check digits: [36m688578[0m
+2024-05-08 12:37:40,005 - INFO - Location: [32mNova Scotia[0m, Day: [35m1[0m, Check digits: [36m216824[0m
+2024-05-08 12:37:51,501 - INFO - Location: [32mNova Scotia[0m, Day: [35m2[0m, Check digits: [36m161878[0m
+2024-05-08 12:39:09,767 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m883565[0m
+2024-05-08 12:40:27,068 - INFO - Location: [32mLakeview Michigan [0m, Day: [35m0[0m, Check digits: [36m886211[0m
+2024-05-08 12:40:32,579 - INFO - Location: [32mhuntsville[0m, Day: [35m0[0m, Check digits: [36m452500[0m
+2024-05-08 12:40:42,052 - INFO - Location: [32mEgypt[0m, Day: [35m0[0m, Check digits: [36m899437[0m
+2024-05-08 12:40:47,406 - INFO - Location: [32mHuntsville[0m, Day: [35m0[0m, Check digits: [36m762627[0m
+2024-05-08 12:40:52,638 - INFO - Location: [32mLakeview Michigan [0m, Day: [35m0[0m, Check digits: [36m802558[0m
+2024-05-08 12:41:09,494 - INFO - Location: [32mHuntsville[0m, Day: [35m1[0m, Check digits: [36m594280[0m
+2024-05-08 12:41:21,238 - INFO - Location: [32mEgypt[0m, Day: [35m1[0m, Check digits: [36m662615[0m
+2024-05-08 12:48:13,346 - INFO - Location: [32mMullion[0m, Day: [35m0[0m, Check digits: [36m666407[0m
+2024-05-08 12:48:30,456 - INFO - Location: [32mMullion[0m, Day: [35m1[0m, Check digits: [36m739374[0m
+2024-05-08 12:48:48,253 - INFO - Location: [32mMullion[0m, Day: [35m0[0m, Check digits: [36m829001[0m
+2024-05-08 12:49:06,356 - INFO - Location: [32mHelston[0m, Day: [35m0[0m, Check digits: [36m121298[0m
+2024-05-08 12:49:18,033 - INFO - Location: [32mHelston[0m, Day: [35m1[0m, Check digits: [36m186288[0m
+2024-05-08 12:49:25,466 - INFO - Location: [32mHelston[0m, Day: [35m1[0m, Check digits: [36m657929[0m
+2024-05-08 12:49:32,766 - INFO - Location: [32mMullion[0m, Day: [35m0[0m, Check digits: [36m972823[0m
+2024-05-08 12:51:53,196 - INFO - Location: [32mFoster City[0m, Day: [35m0[0m, Check digits: [36m688768[0m
+2024-05-08 12:52:11,314 - INFO - Location: [32mMilford[0m, Day: [35m0[0m, Check digits: [36m112714[0m
+2024-05-08 12:52:16,817 - INFO - Location: [32mFoster City[0m, Day: [35m1[0m, Check digits: [36m879477[0m
+2024-05-08 12:53:02,125 - INFO - Location: [32mMarkham[0m, Day: [35m0[0m, Check digits: [36m638677[0m
+2024-05-08 12:53:07,583 - INFO - Location: [32mFoster City[0m, Day: [35m0[0m, Check digits: [36m874459[0m
+2024-05-08 12:53:13,856 - INFO - Location: [32mMarkham[0m, Day: [35m1[0m, Check digits: [36m100838[0m
+2024-05-08 12:53:26,578 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m806528[0m
+2024-05-08 12:53:46,669 - INFO - Location: [32mCanada[0m, Day: [35m0[0m, Check digits: [36m411117[0m
+2024-05-08 12:53:56,507 - INFO - Location: [32mlake tahoe[0m, Day: [35m0[0m, Check digits: [36m354221[0m
+2024-05-08 12:54:17,802 - INFO - Location: [32mtoronto[0m, Day: [35m0[0m, Check digits: [36m844512[0m
+2024-05-08 12:54:32,704 - INFO - Location: [32mtoronto[0m, Day: [35m0[0m, Check digits: [36m971050[0m
+2024-05-08 12:54:39,110 - INFO - Location: [32mtoronto[0m, Day: [35m1[0m, Check digits: [36m846797[0m
+2024-05-08 12:55:05,442 - INFO - Location: [32mFoster City[0m, Day: [35m0[0m, Check digits: [36m470986[0m
+2024-05-08 12:55:17,287 - INFO - Location: [32mnew york[0m, Day: [35m0[0m, Check digits: [36m212566[0m
+2024-05-08 12:55:28,022 - INFO - Location: [32mFoster City[0m, Day: [35m1[0m, Check digits: [36m442284[0m
+2024-05-08 12:55:36,337 - INFO - Location: [32mnew york[0m, Day: [35m1[0m, Check digits: [36m897995[0m
+2024-05-08 12:55:51,012 - INFO - Location: [32mMinneapolis[0m, Day: [35m0[0m, Check digits: [36m894020[0m
+2024-05-08 12:55:56,387 - INFO - Location: [32mnew york[0m, Day: [35m2[0m, Check digits: [36m728379[0m
+2024-05-08 12:56:50,209 - INFO - Location: [32mMinneapolis[0m, Day: [35m1[0m, Check digits: [36m777994[0m
+2024-05-08 12:56:56,567 - INFO - Location: [32mCarmel[0m, Day: [35m0[0m, Check digits: [36m160266[0m
+2024-05-08 12:57:21,904 - INFO - Location: [32mHonolulu [0m, Day: [35m0[0m, Check digits: [36m426141[0m
+2024-05-08 12:57:37,860 - INFO - Location: [32mHonolulu [0m, Day: [35m0[0m, Check digits: [36m972580[0m
+2024-05-08 12:57:43,215 - INFO - Location: [32mCarmel[0m, Day: [35m1[0m, Check digits: [36m862155[0m
+2024-05-08 12:57:58,057 - INFO - Location: [32mTennessee[0m, Day: [35m0[0m, Check digits: [36m992307[0m
+2024-05-08 12:58:16,022 - INFO - Location: [32mTennessee[0m, Day: [35m0[0m, Check digits: [36m552953[0m
+2024-05-08 12:58:23,701 - INFO - Location: [32mTennessee[0m, Day: [35m1[0m, Check digits: [36m479321[0m
+2024-05-08 12:58:39,476 - INFO - Location: [32mhillsboro, tx[0m, Day: [35m0[0m, Check digits: [36m518331[0m
+2024-05-08 12:58:47,221 - INFO - Location: [32mhillsboro, tx[0m, Day: [35m1[0m, Check digits: [36m979057[0m
+2024-05-08 12:58:55,705 - INFO - Location: [32mtexas[0m, Day: [35m0[0m, Check digits: [36m264231[0m
+2024-05-08 12:59:08,869 - INFO - Location: [32mtexas[0m, Day: [35m0[0m, Check digits: [36m787194[0m
+2024-05-08 12:59:29,027 - INFO - Location: [32mROCKFORD[0m, Day: [35m0[0m, Check digits: [36m492510[0m
+2024-05-08 12:59:39,781 - INFO - Location: [32mROCKFORD[0m, Day: [35m1[0m, Check digits: [36m718591[0m
+2024-05-08 12:59:46,149 - INFO - Location: [32mROCKFORD[0m, Day: [35m1[0m, Check digits: [36m331512[0m
+2024-05-08 12:59:53,424 - INFO - Location: [32mfort worth[0m, Day: [35m0[0m, Check digits: [36m728040[0m
+2024-05-08 12:59:59,872 - INFO - Location: [32mCanada[0m, Day: [35m0[0m, Check digits: [36m802879[0m
+2024-05-08 13:00:12,673 - INFO - Location: [32mwinnebago[0m, Day: [35m0[0m, Check digits: [36m818331[0m
+2024-05-08 13:00:36,150 - INFO - Location: [32mwaco[0m, Day: [35m0[0m, Check digits: [36m262229[0m
+2024-05-08 13:00:45,343 - INFO - Location: [32mNew York[0m, Day: [35m0[0m, Check digits: [36m766843[0m
+2024-05-08 13:01:09,676 - INFO - Location: [32mBuenos Aires[0m, Day: [35m0[0m, Check digits: [36m196631[0m
+2024-05-08 13:01:33,751 - INFO - Location: [32mSydney[0m, Day: [35m0[0m, Check digits: [36m842434[0m
+2024-05-08 13:01:39,200 - INFO - Location: [32mSydney[0m, Day: [35m1[0m, Check digits: [36m984400[0m
+2024-05-08 13:01:48,652 - INFO - Location: [32mSydney[0m, Day: [35m2[0m, Check digits: [36m678468[0m
+2024-05-08 13:01:54,931 - INFO - Location: [32mburleson[0m, Day: [35m0[0m, Check digits: [36m847993[0m
+2024-05-08 13:02:00,281 - INFO - Location: [32mSydney[0m, Day: [35m2[0m, Check digits: [36m565560[0m
+2024-05-08 13:02:10,729 - INFO - Location: [32mburleson[0m, Day: [35m0[0m, Check digits: [36m717065[0m
+2024-05-08 13:02:17,158 - INFO - Location: [32mNew Jersey[0m, Day: [35m0[0m, Check digits: [36m590000[0m
+2024-05-08 13:02:22,417 - INFO - Location: [32mSydney[0m, Day: [35m3[0m, Check digits: [36m797619[0m
+2024-05-08 13:03:01,484 - INFO - Location: [32mcalifornia[0m, Day: [35m0[0m, Check digits: [36m509436[0m
+2024-05-08 13:04:17,727 - INFO - Location: [32mSeattle[0m, Day: [35m0[0m, Check digits: [36m557828[0m
+2024-05-08 13:05:02,289 - INFO - Location: [32mburleson[0m, Day: [35m0[0m, Check digits: [36m202397[0m
+2024-05-08 13:05:08,941 - INFO - Location: [32mburleson[0m, Day: [35m0[0m, Check digits: [36m885867[0m
+2024-05-08 13:05:14,165 - INFO - Location: [32mburleson[0m, Day: [35m1[0m, Check digits: [36m273792[0m
+2024-05-08 13:05:37,264 - INFO - Location: [32mtokyo[0m, Day: [35m0[0m, Check digits: [36m992934[0m
+2024-05-08 13:06:16,461 - INFO - Location: [32mLos Angeles[0m, Day: [35m0[0m, Check digits: [36m262174[0m
+2024-05-08 13:06:22,916 - INFO - Location: [32mLos Angeles[0m, Day: [35m1[0m, Check digits: [36m498312[0m
+2024-05-08 13:06:52,345 - INFO - Location: [32mNew yoek[0m, Day: [35m0[0m, Check digits: [36m152489[0m
+2024-05-08 13:08:57,584 - INFO - Location: [32mNew York[0m, Day: [35m0[0m, Check digits: [36m596484[0m
+2024-05-08 13:11:27,573 - INFO - Location: [32msalt lake city[0m, Day: [35m0[0m, Check digits: [36m808553[0m
+2024-05-08 13:11:34,192 - INFO - Location: [32msalt lake city[0m, Day: [35m1[0m, Check digits: [36m780782[0m
+2024-05-08 13:11:50,975 - INFO - Location: [32mSouth jordan[0m, Day: [35m0[0m, Check digits: [36m608279[0m
+2024-05-08 13:12:06,902 - INFO - Location: [32mSouth jordan[0m, Day: [35m1[0m, Check digits: [36m810024[0m
+2024-05-08 13:12:15,373 - INFO - Location: [32mSouth jordan[0m, Day: [35m2[0m, Check digits: [36m915211[0m
+2024-05-08 13:12:21,586 - INFO - Location: [32mSouth jordan[0m, Day: [35m3[0m, Check digits: [36m630413[0m
+2024-05-08 13:14:23,006 - INFO - Location: [32mRochester[0m, Day: [35m0[0m, Check digits: [36m356983[0m
+2024-05-08 13:14:31,547 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m620643[0m
+2024-05-08 13:14:37,813 - INFO - Location: [32mRochester[0m, Day: [35m1[0m, Check digits: [36m684210[0m
+2024-05-08 13:14:46,144 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m446965[0m
+2024-05-08 13:14:55,558 - INFO - Location: [32mSan Fransisco[0m, Day: [35m1[0m, Check digits: [36m419063[0m
+2024-05-08 13:15:06,161 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m482102[0m
+2024-05-08 13:15:12,918 - INFO - Location: [32mNorth Korea[0m, Day: [35m0[0m, Check digits: [36m954240[0m
+2024-05-08 13:15:20,667 - INFO - Location: [32mFrance[0m, Day: [35m0[0m, Check digits: [36m337436[0m
+2024-05-08 13:15:37,811 - INFO - Location: [32mFrance[0m, Day: [35m0[0m, Check digits: [36m812551[0m
+2024-05-08 13:15:55,876 - INFO - Location: [32mPyongyang[0m, Day: [35m0[0m, Check digits: [36m575304[0m
+2024-05-08 13:16:10,688 - INFO - Location: [32mPyongyang[0m, Day: [35m0[0m, Check digits: [36m207073[0m
+2024-05-08 13:16:28,704 - INFO - Location: [32mPyongyang[0m, Day: [35m0[0m, Check digits: [36m474585[0m
+2024-05-08 13:16:43,417 - INFO - Location: [32mPyongyang[0m, Day: [35m0[0m, Check digits: [36m121417[0m
+2024-05-08 13:18:44,007 - INFO - Location: [32mSwindon[0m, Day: [35m0[0m, Check digits: [36m773033[0m
+2024-05-08 13:19:00,089 - INFO - Location: [32mSwindon[0m, Day: [35m1[0m, Check digits: [36m424612[0m
+2024-05-08 13:19:06,314 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m801154[0m
+2024-05-08 13:19:13,685 - INFO - Location: [32mEngland[0m, Day: [35m0[0m, Check digits: [36m801094[0m
+2024-05-08 13:19:19,198 - INFO - Location: [32mCasper[0m, Day: [35m0[0m, Check digits: [36m619792[0m
+2024-05-08 13:19:25,538 - INFO - Location: [32mEngland[0m, Day: [35m0[0m, Check digits: [36m155777[0m
+2024-05-08 13:19:30,737 - INFO - Location: [32mCasper[0m, Day: [35m1[0m, Check digits: [36m907465[0m
+2024-05-08 13:19:36,949 - INFO - Location: [32mFlower Mound[0m, Day: [35m0[0m, Check digits: [36m252344[0m
+2024-05-08 13:19:42,194 - INFO - Location: [32mCasper[0m, Day: [35m2[0m, Check digits: [36m109465[0m
+2024-05-08 13:19:48,405 - INFO - Location: [32mCasper[0m, Day: [35m1[0m, Check digits: [36m707183[0m
+2024-05-08 13:19:57,909 - INFO - Location: [32mFlower Mound[0m, Day: [35m0[0m, Check digits: [36m110295[0m
+2024-05-08 13:20:04,171 - INFO - Location: [32mYorba Linda[0m, Day: [35m0[0m, Check digits: [36m554254[0m
+2024-05-08 13:20:19,806 - INFO - Location: [32mYorba Linda[0m, Day: [35m0[0m, Check digits: [36m728148[0m
+2024-05-08 13:20:25,158 - INFO - Location: [32mCasper[0m, Day: [35m0[0m, Check digits: [36m253925[0m
+2024-05-08 13:20:30,366 - INFO - Location: [32mBaton Rouge[0m, Day: [35m0[0m, Check digits: [36m222602[0m
+2024-05-08 13:20:40,974 - INFO - Location: [32mYorba Linda[0m, Day: [35m1[0m, Check digits: [36m462657[0m
+2024-05-08 13:21:13,584 - INFO - Location: [32mSt. George[0m, Day: [35m0[0m, Check digits: [36m344640[0m
+2024-05-08 13:21:49,889 - INFO - Location: [32mToronto[0m, Day: [35m0[0m, Check digits: [36m507525[0m
+2024-05-08 13:21:55,301 - INFO - Location: [32mToronto[0m, Day: [35m0[0m, Check digits: [36m255984[0m
+2024-05-08 13:22:02,638 - INFO - Location: [32mToronto[0m, Day: [35m1[0m, Check digits: [36m128273[0m
+2024-05-08 13:22:08,992 - INFO - Location: [32mToronto[0m, Day: [35m1[0m, Check digits: [36m841160[0m
+2024-05-08 13:22:19,411 - INFO - Location: [32mChina[0m, Day: [35m0[0m, Check digits: [36m596873[0m
+2024-05-08 13:22:36,453 - INFO - Location: [32mChina[0m, Day: [35m0[0m, Check digits: [36m875683[0m
+2024-05-08 13:22:41,654 - INFO - Location: [32mTurlock[0m, Day: [35m0[0m, Check digits: [36m458006[0m
+2024-05-08 13:22:48,056 - INFO - Location: [32mTurlock[0m, Day: [35m1[0m, Check digits: [36m423675[0m
+2024-05-08 13:22:54,383 - INFO - Location: [32mModesto[0m, Day: [35m0[0m, Check digits: [36m863143[0m
+2024-05-08 13:23:10,431 - INFO - Location: [32mModesto[0m, Day: [35m0[0m, Check digits: [36m531870[0m
+2024-05-08 13:23:24,057 - INFO - Location: [32mModesto[0m, Day: [35m1[0m, Check digits: [36m637933[0m
+2024-05-08 13:23:40,957 - INFO - Location: [32mGermany[0m, Day: [35m0[0m, Check digits: [36m203780[0m
+2024-05-08 13:23:55,765 - INFO - Location: [32mGermany[0m, Day: [35m1[0m, Check digits: [36m672914[0m
+2024-05-08 13:24:15,876 - INFO - Location: [32mCasper[0m, Day: [35m0[0m, Check digits: [36m545012[0m
+2024-05-08 13:24:21,273 - INFO - Location: [32mGermany[0m, Day: [35m1[0m, Check digits: [36m666019[0m
+2024-05-08 13:24:27,634 - INFO - Location: [32mGermany[0m, Day: [35m1[0m, Check digits: [36m382300[0m
+2024-05-08 13:24:33,946 - INFO - Location: [32mDavid[0m, Day: [35m0[0m, Check digits: [36m601506[0m
+2024-05-08 13:24:42,513 - INFO - Location: [32mDavid[0m, Day: [35m1[0m, Check digits: [36m285536[0m
+2024-05-08 13:24:58,716 - INFO - Location: [32mCasper[0m, Day: [35m1[0m, Check digits: [36m252092[0m
+2024-05-08 13:25:05,088 - INFO - Location: [32mCasper[0m, Day: [35m1[0m, Check digits: [36m721978[0m
+2024-05-08 13:25:11,310 - INFO - Location: [32mCasper[0m, Day: [35m1[0m, Check digits: [36m320081[0m
+2024-05-08 13:25:30,380 - INFO - Location: [32mCasper Mountain[0m, Day: [35m0[0m, Check digits: [36m226458[0m
+2024-05-08 13:25:47,453 - INFO - Location: [32mRock Springs[0m, Day: [35m0[0m, Check digits: [36m979296[0m
+2024-05-08 13:27:08,955 - INFO - Location: [32mCheyenne[0m, Day: [35m0[0m, Check digits: [36m693566[0m
+2024-05-08 13:27:23,957 - INFO - Location: [32mCheyenne[0m, Day: [35m0[0m, Check digits: [36m193354[0m
+2024-05-08 13:27:55,802 - INFO - Location: [32mRaleigh[0m, Day: [35m0[0m, Check digits: [36m692942[0m
+2024-05-08 13:28:14,925 - INFO - Location: [32mHot Chip Town[0m, Day: [35m0[0m, Check digits: [36m462482[0m
+2024-05-08 13:28:25,737 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m204018[0m
+2024-05-08 13:28:31,457 - INFO - Location: [32mOhio[0m, Day: [35m0[0m, Check digits: [36m252441[0m
+2024-05-08 13:28:43,322 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m713278[0m
+2024-05-08 13:28:48,541 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m245852[0m
+2024-05-08 13:28:53,728 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m442748[0m
+2024-05-08 13:28:58,944 - INFO - Location: [32mLaramie[0m, Day: [35m0[0m, Check digits: [36m192527[0m
+2024-05-08 13:29:04,229 - INFO - Location: [32mFlorida[0m, Day: [35m1[0m, Check digits: [36m819230[0m
+2024-05-08 13:29:15,181 - INFO - Location: [32mCasper[0m, Day: [35m0[0m, Check digits: [36m303404[0m
+2024-05-08 13:29:20,399 - INFO - Location: [32mFlorida[0m, Day: [35m0[0m, Check digits: [36m667857[0m
+2024-05-08 13:30:00,538 - INFO - Location: [32mAntartica[0m, Day: [35m0[0m, Check digits: [36m281512[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

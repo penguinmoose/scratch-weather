@@ -5,14 +5,14 @@ import time
 from termcolor import colored
 import logging
 
-logger = logging.getLogger(__name__)
-
 with open("secret.txt", "r") as f:
     r = f.read().splitlines()
+
+logging.info("hiiiiii program starting")
     
 session = scratch3.login(r[0], r[1])
 conn = session.connect_cloud("830536684")
-print(colored("\u2713", "green"), "Connected to cloud")
+logging.info(colored("\u2713", "green"), "Connected to cloud")
 
 locname = []
 chars = "~ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNMOPQRSTUVWXYZ0123456789!@#$%^&*()-–—=[]\\;'‘’,./_+{}|:\"“”<>?"
@@ -160,6 +160,8 @@ if __name__ == "__main__":
 
     logger = logging.getLogger(__name__)
     logger.setLevel(args.log_level)
+
+    logger.info("test")
 
     while True:
         request = get_cloud("request")

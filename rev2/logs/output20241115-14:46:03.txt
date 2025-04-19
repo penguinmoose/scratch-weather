@@ -1,0 +1,46 @@
+[32m✓[0m Connected to cloud
+2024-11-15 20:34:25,143 - INFO - Location: [32mWest Virginia[0m, Day: [35m0[0m, Check digits: [36m667092[0m
+2024-11-15 20:34:40,971 - INFO - Location: [32mWest Virginia[0m, Day: [35m0[0m, Check digits: [36m104768[0m
+2024-11-15 20:34:57,457 - INFO - Location: [32mWest Virginia[0m, Day: [35m0[0m, Check digits: [36m190108[0m
+2024-11-15 20:35:15,187 - INFO - Location: [32mTeays Valley[0m, Day: [35m0[0m, Check digits: [36m362269[0m
+2024-11-15 20:35:31,960 - INFO - Location: [32mTeays Valley[0m, Day: [35m0[0m, Check digits: [36m863763[0m
+2024-11-15 20:35:46,505 - INFO - Location: [32mTeays Valley[0m, Day: [35m0[0m, Check digits: [36m697734[0m
+2024-11-15 20:36:01,934 - INFO - Location: [32mTeays Valley[0m, Day: [35m0[0m, Check digits: [36m428570[0m
+2024-11-15 20:37:02,715 - INFO - Location: [32mTeays Valley[0m, Day: [35m1[0m, Check digits: [36m184536[0m
+2024-11-15 21:50:06,969 - INFO - Location: [32mhurrcane[0m, Day: [35m0[0m, Check digits: [36m475227[0m
+2024-11-15 21:50:23,999 - INFO - Location: [32mhurrcane[0m, Day: [35m1[0m, Check digits: [36m287789[0m
+2024-11-16 06:42:07,781 - INFO - Location: [32mBekasi[0m, Day: [35m0[0m, Check digits: [36m512802[0m
+2024-11-16 06:42:47,753 - INFO - Location: [32mBekasi[0m, Day: [35m1[0m, Check digits: [36m519516[0m
+2024-11-16 06:43:10,672 - INFO - Location: [32mGwangju[0m, Day: [35m0[0m, Check digits: [36m103226[0m
+2024-11-17 10:11:56,622 - INFO - Location: [32mLonon[0m, Day: [35m0[0m, Check digits: [36m244201[0m
+2024-11-17 10:12:08,580 - INFO - Location: [32mLondon[0m, Day: [35m0[0m, Check digits: [36m289829[0m
+2024-11-17 10:38:00,410 - INFO - Location: [32mLondon[0m, Day: [35m1[0m, Check digits: [36m490912[0m
+2024-11-17 10:38:07,740 - INFO - Location: [32mLondon[0m, Day: [35m2[0m, Check digits: [36m624528[0m
+2024-11-17 10:45:39,737 - INFO - Location: [32mWaterford, wisconsin[0m, Day: [35m0[0m, Check digits: [36m308796[0m
+2024-11-17 12:49:06,117 - INFO - Location: [32mWaco[0m, Day: [35m0[0m, Check digits: [36m729500[0m
+2024-11-17 12:49:44,050 - INFO - Location: [32mNew York city[0m, Day: [35m0[0m, Check digits: [36m287646[0m
+2024-11-17 12:50:09,154 - INFO - Location: [32mTaiwan[0m, Day: [35m0[0m, Check digits: [36m596548[0m
+2024-11-17 15:57:04,556 - INFO - Location: [32mspring hill[0m, Day: [35m0[0m, Check digits: [36m141353[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

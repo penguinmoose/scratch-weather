@@ -1,0 +1,50 @@
+[32m✓[0m Connected to cloud
+2024-05-06 05:26:29,257 - INFO - Location: [32mSFO[0m, Day: [35m0[0m, Check digits: [36m570412[0m
+2024-05-06 05:26:34,287 - INFO - Location: [32mWest Saint Paul[0m, Day: [35m0[0m, Check digits: [36m658662[0m
+2024-05-06 05:26:39,666 - INFO - Location: [32mTroy[0m, Day: [35m0[0m, Check digits: [36m717240[0m
+2024-05-06 05:26:44,686 - INFO - Location: [32mMilwaukee[0m, Day: [35m0[0m, Check digits: [36m149475[0m
+2024-05-06 05:26:49,724 - INFO - Location: [32mWest Saint Paul[0m, Day: [35m0[0m, Check digits: [36m779734[0m
+2024-05-06 05:26:54,716 - INFO - Location: [32mKansas[0m, Day: [35m0[0m, Check digits: [36m296965[0m
+2024-05-06 05:27:17,974 - INFO - Location: [32mKansas[0m, Day: [35m1[0m, Check digits: [36m855896[0m
+2024-05-06 05:27:24,215 - INFO - Location: [32mPyongyang[0m, Day: [35m0[0m, Check digits: [36m564583[0m
+2024-05-06 05:27:29,485 - INFO - Location: [32mtexas[0m, Day: [35m3[0m, Check digits: [36m514006[0m
+2024-05-06 05:27:47,509 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m571615[0m
+2024-05-06 05:27:52,715 - INFO - Location: [32mCincinnati[0m, Day: [35m0[0m, Check digits: [36m779930[0m
+2024-05-06 05:28:00,520 - INFO - Location: [32mCincinnati[0m, Day: [35m1[0m, Check digits: [36m787759[0m
+2024-05-06 05:28:09,779 - INFO - Location: [32mCincinnati[0m, Day: [35m2[0m, Check digits: [36m204473[0m
+2024-05-06 05:29:11,719 - INFO - Location: [32mJapan[0m, Day: [35m0[0m, Check digits: [36m492397[0m
+2024-05-06 05:29:29,686 - INFO - Location: [32mTokyo [0m, Day: [35m0[0m, Check digits: [36m154422[0m
+2024-05-06 05:29:46,610 - INFO - Location: [32mTokyo [0m, Day: [35m0[0m, Check digits: [36m271891[0m
+2024-05-06 05:29:57,978 - INFO - Location: [32mTokyo [0m, Day: [35m1[0m, Check digits: [36m759159[0m
+2024-05-06 05:30:19,837 - INFO - Location: [32mtampa bay[0m, Day: [35m0[0m, Check digits: [36m456667[0m
+2024-05-06 05:30:58,980 - INFO - Location: [32mpasco[0m, Day: [35m0[0m, Check digits: [36m250209[0m
+2024-05-06 05:31:07,089 - INFO - Location: [32mpasco[0m, Day: [35m1[0m, Check digits: [36m221741[0m
+2024-05-06 05:31:22,813 - INFO - Location: [32mhong kong[0m, Day: [35m0[0m, Check digits: [36m401015[0m
+2024-05-06 05:31:56,141 - INFO - Location: [32mguang zhou[0m, Day: [35m0[0m, Check digits: [36m713732[0m
+2024-05-06 05:32:02,444 - INFO - Location: [32mBaltimore[0m, Day: [35m0[0m, Check digits: [36m198577[0m
+2024-05-06 05:32:11,887 - INFO - Location: [32mguang zhou[0m, Day: [35m0[0m, Check digits: [36m499045[0m
+2024-05-06 05:32:27,443 - INFO - Location: [32mLos Angles[0m, Day: [35m0[0m, Check digits: [36m455372[0m
+2024-05-06 05:32:32,798 - INFO - Location: [32mantarctica[0m, Day: [35m0[0m, Check digits: [36m972227[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

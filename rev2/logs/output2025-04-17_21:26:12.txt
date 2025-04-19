@@ -1,0 +1,46 @@
+INFO:__main__:test
+INFO:__main__:Location: [32mMarkham[0m, Day: [35m0[0m, Check digits: [36m295465[0m
+INFO:__main__:Location: [32mlondon[0m, Day: [35m0[0m, Check digits: [36m777285[0m
+INFO:__main__:Location: [32mKottayam[0m, Day: [35m0[0m, Check digits: [36m394058[0m
+INFO:__main__:Location: [32mKottayam[0m, Day: [35m1[0m, Check digits: [36m971248[0m
+INFO:__main__:Location: [32msouth bend[0m, Day: [35m0[0m, Check digits: [36m566537[0m
+INFO:__main__:Location: [32mwalkerton[0m, Day: [35m0[0m, Check digits: [36m173981[0m
+INFO:__main__:Location: [32mwalkerton[0m, Day: [35m1[0m, Check digits: [36m143596[0m
+INFO:__main__:Location: [32mwalkerton[0m, Day: [35m0[0m, Check digits: [36m878651[0m
+INFO:__main__:Location: [32mwalkerton[0m, Day: [35m0[0m, Check digits: [36m526256[0m
+INFO:__main__:Location: [32mLerum[0m, Day: [35m0[0m, Check digits: [36m293527[0m
+INFO:__main__:Location: [32mLerum[0m, Day: [35m1[0m, Check digits: [36m406262[0m
+INFO:__main__:Location: [32mLerum[0m, Day: [35m2[0m, Check digits: [36m875834[0m
+INFO:__main__:Location: [32mSurprise[0m, Day: [35m0[0m, Check digits: [36m644345[0m
+INFO:__main__:Location: [32mSurprise[0m, Day: [35m1[0m, Check digits: [36m717068[0m
+INFO:__main__:Location: [32mSurprise[0m, Day: [35m0[0m, Check digits: [36m811419[0m
+INFO:__main__:Location: [32mphoenix[0m, Day: [35m0[0m, Check digits: [36m727057[0m
+INFO:__main__:Location: [32mtexas[0m, Day: [35m0[0m, Check digits: [36m688979[0m
+INFO:__main__:Location: [32mtexas[0m, Day: [35m0[0m, Check digits: [36m316295[0m
+INFO:__main__:Location: [32mhouston[0m, Day: [35m0[0m, Check digits: [36m819288[0m
+INFO:__main__:Location: [32mhouston[0m, Day: [35m1[0m, Check digits: [36m596205[0m
+INFO:__main__:Location: [32mhouston[0m, Day: [35m1[0m, Check digits: [36m458779[0m
+INFO:__main__:Location: [32mJapan[0m, Day: [35m0[0m, Check digits: [36m808930[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 179, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

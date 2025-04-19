@@ -1,0 +1,163 @@
+[32m✓[0m Connected to cloud
+2024-10-26 08:30:01,306 - INFO - Location: [32mpittsburgh[0m, Day: [35m0[0m, Check digits: [36m966999[0m
+2024-10-26 08:30:17,858 - INFO - Location: [32mpittsburgh[0m, Day: [35m0[0m, Check digits: [36m522827[0m
+2024-10-26 08:30:47,459 - INFO - Location: [32mpittsburgh[0m, Day: [35m1[0m, Check digits: [36m355246[0m
+2024-10-27 15:58:09,357 - INFO - Location: [32mwashington[0m, Day: [35m0[0m, Check digits: [36m377653[0m
+2024-10-27 15:58:22,088 - INFO - Location: [32msnohomish[0m, Day: [35m0[0m, Check digits: [36m231659[0m
+2024-10-27 15:58:39,761 - INFO - Location: [32molympia[0m, Day: [35m0[0m, Check digits: [36m376547[0m
+2024-10-27 15:59:17,654 - INFO - Location: [32mchina[0m, Day: [35m0[0m, Check digits: [36m206039[0m
+2024-10-27 15:59:23,860 - INFO - Location: [32mchina[0m, Day: [35m1[0m, Check digits: [36m203242[0m
+2024-10-28 06:22:06,015 - INFO - Location: [32mBloomingburg NY[0m, Day: [35m0[0m, Check digits: [36m538565[0m
+2024-10-28 06:22:13,499 - INFO - Location: [32mBloomingburg NY[0m, Day: [35m1[0m, Check digits: [36m678816[0m
+2024-10-28 09:17:23,928 - INFO - Location: [32mPanorama City[0m, Day: [35m0[0m, Check digits: [36m894749[0m
+2024-10-28 09:29:26,754 - INFO - Location: [32mFremont[0m, Day: [35m0[0m, Check digits: [36m912525[0m
+2024-10-28 09:30:06,698 - INFO - Location: [32mFremont[0m, Day: [35m1[0m, Check digits: [36m607189[0m
+2024-10-28 19:31:06,551 - INFO - Location: [32mtrenton, nj[0m, Day: [35m0[0m, Check digits: [36m981671[0m
+2024-10-28 19:31:17,317 - INFO - Location: [32mtrenton, nj[0m, Day: [35m1[0m, Check digits: [36m700378[0m
+2024-10-28 19:31:27,499 - INFO - Location: [32mtrenton, nj[0m, Day: [35m2[0m, Check digits: [36m598359[0m
+2024-10-28 19:32:12,629 - INFO - Location: [32mtrenton, nj[0m, Day: [35m3[0m, Check digits: [36m176545[0m
+2024-10-28 19:32:21,873 - INFO - Location: [32mtrenton, nj[0m, Day: [35m2[0m, Check digits: [36m330146[0m
+2024-10-28 19:32:28,856 - INFO - Location: [32mtrenton, nj[0m, Day: [35m1[0m, Check digits: [36m529865[0m
+2024-10-28 19:34:52,315 - INFO - Location: [32mtrenton, nj[0m, Day: [35m2[0m, Check digits: [36m864672[0m
+2024-10-28 19:34:59,462 - INFO - Location: [32mtrenton, nj[0m, Day: [35m3[0m, Check digits: [36m397275[0m
+2024-10-28 19:35:06,442 - INFO - Location: [32mtrenton, nj[0m, Day: [35m3[0m, Check digits: [36m267524[0m
+2024-10-29 08:30:37,086 - INFO - Location: [32mcut off[0m, Day: [35m0[0m, Check digits: [36m186947[0m
+2024-10-29 08:30:48,488 - INFO - Location: [32mcut off[0m, Day: [35m0[0m, Check digits: [36m442990[0m
+2024-10-29 08:30:56,645 - INFO - Location: [32mcut off[0m, Day: [35m1[0m, Check digits: [36m123253[0m
+2024-10-29 08:31:05,822 - INFO - Location: [32mcut off[0m, Day: [35m2[0m, Check digits: [36m894483[0m
+2024-10-29 09:09:06,959 - INFO - Location: [32mboise idaho[0m, Day: [35m0[0m, Check digits: [36m511162[0m
+2024-10-29 16:56:27,260 - INFO - Location: [32mColumbus[0m, Day: [35m0[0m, Check digits: [36m542290[0m
+2024-10-29 16:56:35,736 - INFO - Location: [32mColumbus[0m, Day: [35m1[0m, Check digits: [36m838691[0m
+2024-10-30 08:01:02,854 - INFO - Location: [32mTaiwan[0m, Day: [35m0[0m, Check digits: [36m788687[0m
+2024-10-30 08:01:18,038 - INFO - Location: [32mTaiwan[0m, Day: [35m1[0m, Check digits: [36m661937[0m
+2024-10-30 08:01:25,919 - INFO - Location: [32mTaiwan[0m, Day: [35m2[0m, Check digits: [36m726209[0m
+2024-10-30 08:08:56,990 - INFO - Location: [32mindiana[0m, Day: [35m0[0m, Check digits: [36m493474[0m
+2024-10-30 08:09:05,555 - INFO - Location: [32mindiana[0m, Day: [35m1[0m, Check digits: [36m925225[0m
+2024-10-30 16:48:45,665 - INFO - Location: [32mNorth Carolina[0m, Day: [35m0[0m, Check digits: [36m472076[0m
+2024-10-30 16:48:53,454 - INFO - Location: [32mNorth Carolina[0m, Day: [35m0[0m, Check digits: [36m293169[0m
+2024-10-30 16:48:59,480 - INFO - Location: [32mNorth Carolina[0m, Day: [35m1[0m, Check digits: [36m390523[0m
+2024-10-31 01:29:00,376 - INFO - Location: [32mKaliningrad[0m, Day: [35m0[0m, Check digits: [36m751143[0m
+weather.py:49: DeprecationWarning: The 'warn' method is deprecated, use 'warning' instead
+  logger.warn(f'{colored("encoding failed", "red")} for {result}, defaulting to "{location}" (request location)')
+2024-10-31 01:29:01,719 - WARNING - [31mencoding failed[0m for Калининград, defaulting to "Kaliningrad" (request location)
+2024-10-31 16:42:38,739 - INFO - Location: [32mFulshear[0m, Day: [35m0[0m, Check digits: [36m528254[0m
+2024-11-01 17:40:01,634 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m0[0m, Check digits: [36m987109[0m
+2024-11-01 17:41:58,079 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:05,050 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:12,017 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:18,998 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:25,984 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:32,961 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:39,936 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:46,913 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:42:53,885 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:43:00,869 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:43:07,842 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:43:14,816 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:43:21,789 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m1[0m, Check digits: [36m890696[0m
+2024-11-01 17:43:28,759 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m0[0m, Check digits: [36m377447[0m
+2024-11-01 17:43:34,743 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m0[0m, Check digits: [36m377447[0m
+2024-11-01 17:43:41,818 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m0[0m, Check digits: [36m377447[0m
+2024-11-01 17:43:47,795 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m0[0m, Check digits: [36m377447[0m
+2024-11-01 17:43:53,776 - INFO - Location: [32mHiroshima Prefecture[0m, Day: [35m0[0m, Check digits: [36m377447[0m
+2024-11-01 18:36:15,785 - INFO - Location: [32mFort Collins[0m, Day: [35m0[0m, Check digits: [36m392036[0m
+2024-11-01 18:36:35,922 - INFO - Location: [32mDenver[0m, Day: [35m0[0m, Check digits: [36m558552[0m
+2024-11-02 01:36:55,161 - INFO - Location: [32mBerlin[0m, Day: [35m0[0m, Check digits: [36m595043[0m
+2024-11-02 01:37:21,577 - INFO - Location: [32mBerlin[0m, Day: [35m1[0m, Check digits: [36m469234[0m
+2024-11-02 01:37:28,557 - INFO - Location: [32mBerlin[0m, Day: [35m1[0m, Check digits: [36m469234[0m
+2024-11-02 01:39:12,406 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:39:19,379 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:39:26,353 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:39:33,330 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:39:40,298 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:39:47,276 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:39:54,246 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:01,222 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:08,508 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:15,558 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:22,584 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:29,604 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:36,587 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:43,552 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:50,528 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:40:57,513 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 01:41:04,507 - INFO - Location: [32mBerlin[0m, Day: [35m2[0m, Check digits: [36m505554[0m
+2024-11-02 17:58:02,471 - INFO - Location: [32mBrantford[0m, Day: [35m0[0m, Check digits: [36m865982[0m
+2024-11-02 17:58:08,813 - INFO - Location: [32mBrantford[0m, Day: [35m1[0m, Check digits: [36m678323[0m
+2024-11-02 17:58:16,866 - INFO - Location: [32mBrantford[0m, Day: [35m0[0m, Check digits: [36m479351[0m
+2024-11-02 17:58:48,098 - INFO - Location: [32mBrantford[0m, Day: [35m0[0m, Check digits: [36m583069[0m
+2024-11-02 17:58:54,222 - INFO - Location: [32mBrantford[0m, Day: [35m0[0m, Check digits: [36m719105[0m
+2024-11-03 00:00:55,242 - INFO - Location: [32msan francisco[0m, Day: [35m0[0m, Check digits: [36m411308[0m
+2024-11-03 00:07:54,994 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m508119[0m
+2024-11-03 00:08:11,901 - INFO - Location: [32mSan Fransisco[0m, Day: [35m0[0m, Check digits: [36m135782[0m
+2024-11-04 23:19:38,131 - INFO - Location: [32mHiroshima[0m, Day: [35m0[0m, Check digits: [36m486609[0m
+2024-11-05 07:31:54,293 - INFO - Location: [32mOrlando[0m, Day: [35m0[0m, Check digits: [36m967763[0m
+2024-11-05 07:32:12,359 - INFO - Location: [32mOrlando[0m, Day: [35m1[0m, Check digits: [36m272424[0m
+2024-11-05 07:32:26,725 - INFO - Location: [32mOrlando[0m, Day: [35m1[0m, Check digits: [36m966983[0m
+2024-11-05 10:45:40,397 - INFO - Location: [32mSan Francisco[0m, Day: [35m0[0m, Check digits: [36m425012[0m
+2024-11-06 06:59:35,833 - INFO - Location: [32mcollingwood ont[0m, Day: [35m0[0m, Check digits: [36m361802[0m
+2024-11-06 06:59:49,805 - INFO - Location: [32mcollingwood ont[0m, Day: [35m1[0m, Check digits: [36m886999[0m
+2024-11-06 07:00:06,575 - INFO - Location: [32mcollingwood[0m, Day: [35m0[0m, Check digits: [36m787743[0m
+2024-11-06 07:01:07,482 - INFO - Location: [32mcollingwood ontario[0m, Day: [35m0[0m, Check digits: [36m344438[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 710, in urlopen
+    chunked=chunked,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib64/python3.7/http/client.py", line 1369, in getresponse
+    response.begin()
+  File "/usr/lib64/python3.7/http/client.py", line 310, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib64/python3.7/http/client.py", line 279, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+http.client.RemoteDisconnected: Remote end closed connection without response
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/adapters.py", line 499, in send
+    timeout=timeout,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 786, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/util/retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/packages/six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 710, in urlopen
+    chunked=chunked,
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/urllib3/connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib64/python3.7/http/client.py", line 1369, in getresponse
+    response.begin()
+  File "/usr/lib64/python3.7/http/client.py", line 310, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib64/python3.7/http/client.py", line 279, in _read_status
+    raise RemoteDisconnected("Remote end closed connection without"
+urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 177, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 41, in weather
+    response = requests.get(url)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/adapters.py", line 547, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
