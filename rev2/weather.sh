@@ -12,4 +12,6 @@ do
     fi
     echo "exception occured $(date +"%Y-%m-%d %H:%M:%S")"
     sleep 5
+    python3 clear-cloud.py
+    sleeep 1
 done

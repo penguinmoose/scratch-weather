@@ -44,7 +44,7 @@ def weather(location):
         logger.error(colored(f'ConnectionError while trying to fetch wttr.in response: {e}', "red"))
 
     try:
-    	json = response.json()
+        json = response.json()
     except requests.exceptions.JSONDecodeError as e:
         logger.error(colored("JSONDecodeError while trying to decode wttr.in response JSON.", "red"))
         logger.debug(f'Raw response text: {response.text}')
@@ -55,7 +55,7 @@ def weather(location):
     try:
         encode(result)
     except:
-        logger.warn(f'{colored("encoding failed", "red")} for {result}, defaulting to "{location}" (request location)')
+        logger.warning(f'{colored("encoding failed", "red")} for {result}, defaulting to "{location}" (request location)')
         result = location
     locname = [result]
     return json, statuscode
@@ -148,7 +148,7 @@ def set_cloud(name, value):
     try:
         conn.set_var(name, value)
     except IOError as e:
-        logger.warn(colored("IOError, ignoring", "red"))
+        logger.warning(colored("IOError, ignoring", "red"))
     time.sleep(0.2)
 
 def clear_cloud():
@@ -167,7 +167,7 @@ def get_cloud(name):
     try:
         return conn.get_var(name)
     except ValueError as e:
-        logger.warn(colored("JSONDecodeError, ignoring", "red"))
+        logger.warning(colored("JSONDecodeError, ignoring", "red"))
         conn.reconnect()
 
 if __name__ == "__main__":
