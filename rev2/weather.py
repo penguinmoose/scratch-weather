@@ -1,6 +1,6 @@
 import requests
 import re
-import scratchattach as scratch3
+import scratchattach as sa
 import time
 from termcolor import colored
 import logging
@@ -8,15 +8,14 @@ import logging
 with open("secret.txt", "r") as f:
     r = f.read().splitlines()
 
-logging.info("hiiiiii program starting")
-    
-session = scratch3.login(r[0], r[1])
+session = sa.login(r[0], r[1])
 conn = session.connect_cloud("830536684")
-logging.info(colored("\u2713", "green"), "Connected to cloud")
+
+print(colored("\u2713", "green"), "Connected to cloud")
 
 locname = []
 chars = "~ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNMOPQRSTUVWXYZ0123456789!@#$%^&*()-–—=[]\\;'‘’,./_+{}|:\"“”<>?"
-    
+
 # turn string into number for cloud variables
 def encode(string):
     encoded = ""
@@ -38,8 +37,18 @@ def decode(number):
 # fetch the weather
 def weather(location):
     url = "http://wttr.in/" + location + "?format=j1"
-    response = requests.get(url)
-    json = response.json()
+    headers = {'Accept': 'application/json'}
+    try:
+        response = requests.get(url, headers)
+    except requests.exceptions.ConnectionError as e:
+        logger.error(colored(f'ConnectionError while trying to fetch wttr.in response: {e}', "red"))
+
+    try:
+    	json = response.json()
+    except requests.exceptions.JSONDecodeError as e:
+        logger.error(colored("JSONDecodeError while trying to decode wttr.in response JSON.", "red"))
+        logger.debug(f'Raw response text: {response.text}')
+
     statuscode = response.status_code
     result = json['nearest_area'][0]['areaName'][0]['value']
     global locname
@@ -136,18 +145,30 @@ def basicweather(day, data, checkdigits):
     return output
 
 def set_cloud(name, value):
-    global variables
     try:
         conn.set_var(name, value)
     except IOError as e:
         logger.warn(colored("IOError, ignoring", "red"))
     time.sleep(0.2)
 
+def clear_cloud():
+    conn.set_vars({
+    "response: current": "0",
+    "response: forecastbasic": "0",
+    "response: forecasttemp": "0",
+    "response: forecastwind": "0",
+    "response: forecastprecip": "0",
+    "response: forecastastro": "0",
+    "response: forecastother": "0",
+    "request": "0"
+    })
+
 def get_cloud(name):
     try:
-        return scratch3.get_var("830536684", name)
+        return conn.get_var(name)
     except ValueError as e:
         logger.warn(colored("JSONDecodeError, ignoring", "red"))
+        conn.reconnect()
 
 if __name__ == "__main__":
     import argparse
@@ -161,11 +182,12 @@ if __name__ == "__main__":
     logger = logging.getLogger(__name__)
     logger.setLevel(args.log_level)
 
-    logger.info("test")
+    logger.info("hello")
+    logger.debug("if you can see this debug message, the program is in debug")
 
     while True:
         request = get_cloud("request")
-        if request != None and int(request)>0:
+        if request != None and request != "" and int(request)>0:
             logger.debug(f"Request CV: {request}")
             requestdata = str(request)[1:]
             split = re.split(';::;', decode(requestdata))
@@ -193,16 +215,10 @@ if __name__ == "__main__":
                 set_cloud("response: forecastprecip", encode(';'.join(precipdata)))
                 set_cloud("response: forecastastro", encode(';'.join(astrodata)))
                 set_cloud("response: forecastother", encode(';'.join(otherdata)))
-            
+
             badresponse = '0' if code==200 else '1'
+
             set_cloud("404?", badresponse)
-            set_cloud("response: current", 0)
-            set_cloud("response: forecastbasic", 0)
-            set_cloud("response: forecasttemp", 0)
-            set_cloud("response: forecastwind", 0)
-            set_cloud("response: forecastprecip", 0)
-            set_cloud("response: forecastastro", 0)
-            set_cloud("response: forecastother", 0)
-            set_cloud("request", 0)
-            time.sleep(2) # cooldown
-        time.sleep(1)
+            clear_cloud()
+            time.sleep(1) # cooldown after response
+        time.sleep(1) # cooldown after checking

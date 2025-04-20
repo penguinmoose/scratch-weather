@@ -1,1 +1,57 @@
 INFO:__main__:test
+INFO:__main__:Location: [32mportalnd[0m, Day: [35m0[0m, Check digits: [36m205539[0m
+INFO:__main__:Location: [32mportland[0m, Day: [35m0[0m, Check digits: [36m343716[0m
+INFO:__main__:Location: [32mportland, oregon[0m, Day: [35m0[0m, Check digits: [36m167176[0m
+INFO:__main__:Location: [32mportland, oregon[0m, Day: [35m1[0m, Check digits: [36m207901[0m
+INFO:__main__:Location: [32mportland, oregon[0m, Day: [35m2[0m, Check digits: [36m688175[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m0[0m, Check digits: [36m151224[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m1[0m, Check digits: [36m991178[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m0[0m, Check digits: [36m264959[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m1[0m, Check digits: [36m144907[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m2[0m, Check digits: [36m807069[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m3[0m, Check digits: [36m748432[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m2[0m, Check digits: [36m912913[0m
+INFO:__main__:Location: [32mlivonia, michigan[0m, Day: [35m1[0m, Check digits: [36m270148[0m
+INFO:__main__:Location: [32mrussia[0m, Day: [35m0[0m, Check digits: [36m642195[0m
+INFO:__main__:Location: [32mFlorence[0m, Day: [35m0[0m, Check digits: [36m989613[0m
+INFO:__main__:Location: [32mFlorence KY[0m, Day: [35m0[0m, Check digits: [36m319973[0m
+INFO:__main__:Location: [32mFlorence KY[0m, Day: [35m1[0m, Check digits: [36m971814[0m
+INFO:__main__:Location: [32mKentuckey[0m, Day: [35m0[0m, Check digits: [36m646296[0m
+INFO:__main__:Location: [32mKentucky[0m, Day: [35m0[0m, Check digits: [36m276645[0m
+INFO:__main__:Location: [32mSan Antonio TX[0m, Day: [35m0[0m, Check digits: [36m688173[0m
+INFO:__main__:Location: [32mFlorenceKY[0m, Day: [35m0[0m, Check digits: [36m180595[0m
+INFO:__main__:Location: [32mFlorence KY[0m, Day: [35m0[0m, Check digits: [36m132847[0m
+INFO:__main__:Location: [32mflorence[0m, Day: [35m0[0m, Check digits: [36m999652[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m0[0m, Check digits: [36m741362[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m0[0m, Check digits: [36m286355[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m0[0m, Check digits: [36m295097[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m315611[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m1[0m, Check digits: [36m960799[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m2[0m, Check digits: [36m504721[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m3[0m, Check digits: [36m111457[0m
+INFO:__main__:Location: [32mUnion City[0m, Day: [35m3[0m, Check digits: [36m691671[0m
+INFO:__main__:Location: [32mhong kong[0m, Day: [35m0[0m, Check digits: [36m652417[0m
+INFO:__main__:Location: [32mFlorence, KY[0m, Day: [35m0[0m, Check digits: [36m599598[0m
+Traceback (most recent call last):
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 971, in json
+    return complexjson.loads(self.text, **kwargs)
+  File "/usr/lib64/python3.7/site-packages/simplejson/__init__.py", line 488, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 374, in decode
+    obj, end = self.raw_decode(s)
+  File "/usr/lib64/python3.7/site-packages/simplejson/decoder.py", line 393, in raw_decode
+    return self.scan_once(s, idx=_w(s, idx).end())
+simplejson.scanner.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "weather.py", line 179, in <module>
+    cwdata, code = currentweather(location, checkdigits)
+  File "weather.py", line 55, in currentweather
+    data, code = weather(location)
+  File "weather.py", line 42, in weather
+    json = response.json()
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/requests/models.py", line 975, in json
+    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
+requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
