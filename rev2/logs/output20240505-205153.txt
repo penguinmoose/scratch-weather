@@ -1,2 +1,0 @@
-[32m✓[0m Connected to cloud
-2024-05-05 20:51:54,902 - INFO - Location: [32mmelbourne[0m, Day: [35m0[0m, Check digits: [36m633477[0m

@@ -1,5 +1,0 @@
-[32m✓[0m Connected to cloud
-2024-05-14 03:01:38,992 - INFO - Location: [32mHara-mura[0m, Day: [35m0[0m, Check digits: [36m147626[0m
-2024-05-14 03:01:59,485 - INFO - Location: [32mSuwa[0m, Day: [35m0[0m, Check digits: [36m259034[0m
-2024-05-14 03:04:21,750 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m151548[0m
-2024-05-14 03:06:47,684 - INFO - Location: [32mTokyo[0m, Day: [35m0[0m, Check digits: [36m347850[0m
