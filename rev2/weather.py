@@ -4,14 +4,16 @@ import scratchattach as sa
 import time
 from termcolor import colored
 import logging
+import warnings
 
 with open("secret.txt", "r") as f:
     r = f.read().splitlines()
 
+warnings.filterwarnings('ignore', category=sa.LoginDataWarning) # no need to warn me, it is loaded from secret.txt which is in gitignore
 session = sa.login(r[0], r[1])
 conn = session.connect_cloud("830536684")
 
-print(colored("\u2713", "green"), "Connected to cloud")
+print(colored("\u2713 Connected to cloud", "green", attrs=["bold"]))
 
 locname = []
 chars = "~ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLNMOPQRSTUVWXYZ0123456789!@#$%^&*()-–—=[]\\;'‘’,./_+{}|:\"“”<>?"
@@ -152,15 +154,16 @@ def set_cloud(name, value):
     time.sleep(0.2)
 
 def clear_cloud():
+    logger.debug("Clearing cloud...")
     conn.set_vars({
-    "response: current": "0",
-    "response: forecastbasic": "0",
-    "response: forecasttemp": "0",
-    "response: forecastwind": "0",
-    "response: forecastprecip": "0",
-    "response: forecastastro": "0",
-    "response: forecastother": "0",
-    "request": "0"
+    "response: current": "",
+    "response: forecastbasic": "",
+    "response: forecasttemp": "",
+    "response: forecastwind": "",
+    "response: forecastprecip": "",
+    "response: forecastastro": "",
+    "response: forecastother": "",
+    "request": ""
     })
 
 def get_cloud(name):
@@ -187,8 +190,9 @@ if __name__ == "__main__":
 
     while True:
         request = get_cloud("request")
+        logger.debug(colored(f'Request CV: {request}', "dark_grey"))
         if request != None and request != "" and int(request)>0:
-            logger.debug(f"Request CV: {request}")
+            logger.debug(f"{colored('Request detected', 'green')}, CV: {request}")
             requestdata = str(request)[1:]
             split = re.split(';::;', decode(requestdata))
             location = split[0]
