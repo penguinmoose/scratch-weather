@@ -9,9 +9,8 @@ import warnings
 with open("secret.txt", "r") as f:
     r = f.read().splitlines()
 
-warnings.filterwarnings('ignore', category=sa.LoginDataWarning) # no need to warn me, it is loaded from secret.txt which is in gitignore
 session = sa.login(r[0], r[1])
-conn = session.connect_cloud("830536684")
+cloud = session.connect_scratch_cloud("830536684")
 
 print(colored("\u2713 Connected to cloud", "green", attrs=["bold"]))
 
@@ -148,14 +147,14 @@ def basicweather(day, data, checkdigits):
 
 def set_cloud(name, value):
     try:
-        conn.set_var(name, value)
+        cloud.set_var(name, value)
     except IOError as e:
         logger.warning(colored("IOError, ignoring", "red"))
     time.sleep(0.2)
 
 def clear_cloud():
     logger.debug("Clearing cloud...")
-    conn.set_vars({
+    cloud.set_vars({
     "response: current": "",
     "response: forecastbasic": "",
     "response: forecasttemp": "",
@@ -168,10 +167,10 @@ def clear_cloud():
 
 def get_cloud(name):
     try:
-        return conn.get_var(name)
+        return cloud.get_var(name)
     except ValueError as e:
         logger.warning(colored("JSONDecodeError, ignoring", "red"))
-        conn.reconnect()
+        cloud.reconnect()
 
 if __name__ == "__main__":
     import argparse
@@ -190,7 +189,7 @@ if __name__ == "__main__":
 
     while True:
         request = get_cloud("request")
-        logger.debug(colored(f'Request CV: {request}', "dark_grey"))
+        logger.debug(colored(f'Request CV: {request}', "dark_gray"))
         if request != None and request != "" and int(request)>0:
             logger.debug(f"{colored('Request detected', 'green')}, CV: {request}")
             requestdata = str(request)[1:]
